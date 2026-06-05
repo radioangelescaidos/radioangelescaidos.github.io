@@ -1,0 +1,149 @@
+[
+    {
+        "kit_id": "15",
+        "kit_name": "Travello - Your Travel Guide",
+        "categories": [
+            "agency"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Travello-Your-Travel-Guide-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/travello",
+        "descriptions": "",
+        "template_count": 11
+    },
+    {
+        "kit_id": "23",
+        "kit_name": "Wiro",
+        "categories": [
+            "agency"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Wiro-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/wiro",
+        "descriptions": "",
+        "template_count": 13
+    },
+    {
+        "kit_id": "30",
+        "kit_name": "Klyro",
+        "categories": [
+            "agency"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage",
+            "single-page"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Klyro-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/klyro",
+        "descriptions": "",
+        "template_count": 10
+    },
+    {
+        "kit_id": "31",
+        "kit_name": "Sempla",
+        "categories": [
+            "agency"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage",
+            "single-page"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Sempla-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/sempla",
+        "descriptions": "",
+        "template_count": 19
+    },
+    {
+        "kit_id": "32",
+        "kit_name": "Nexis",
+        "categories": [
+            "agency"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage",
+            "single-page"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Nexis-thumb.png",
+        "preview_url": "https:\/\/el.master-addons.com\/nexis",
+        "descriptions": "",
+        "template_count": 14
+    },
+    {
+        "kit_id": "34",
+        "kit_name": "Sabrion",
+        "categories": [
+            "agency"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage",
+            "single-page"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Sabrion-thumb.png",
+        "preview_url": "https:\/\/el.master-addons.com\/sabrion",
+        "descriptions": "",
+        "template_count": 12
+    },
+    {
+        "kit_id": "39",
+        "kit_name": "Vaylo",
+        "categories": [
+            "agency"
+        ],
+        "keywords": [],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Vaylo-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/vaylo",
+        "descriptions": "",
+        "template_count": 14
+    }
+]
