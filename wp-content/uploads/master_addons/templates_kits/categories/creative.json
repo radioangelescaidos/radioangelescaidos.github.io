@@ -1,0 +1,46 @@
+[
+    {
+        "kit_id": "26",
+        "kit_name": "grip",
+        "categories": [
+            "creative"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage",
+            "single-page"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-grip-thumb.jpg",
+        "preview_url": "https:\/\/el.master-addons.com\/grip",
+        "descriptions": "",
+        "template_count": 8
+    },
+    {
+        "kit_id": "38",
+        "kit_name": "Craftova",
+        "categories": [
+            "creative"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage",
+            "single-page"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Craftova-thumb.png",
+        "preview_url": "https:\/\/el.master-addons.com\/craftova",
+        "descriptions": "",
+        "template_count": 15
+    }
+]
