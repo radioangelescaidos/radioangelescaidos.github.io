@@ -1,0 +1,1425 @@
+{
+    "version": "0.4",
+    "template_id": 1076,
+    "title": "About",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "9fdba",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 480,
+                    "sizes": []
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "55",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Hero"
+            },
+            "elements": [
+                {
+                    "id": "1e71001b",
+                    "settings": {
+                        "title": "Plumby Story",
+                        "header_size": "h1",
+                        "align": "center",
+                        "_animation": "fadeInUp"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "e5e5870",
+                    "settings": {
+                        "editor": "<p>Reliable, trustworthy, and affordable plumbing solutions for your home or business</p>",
+                        "align": "center",
+                        "_animation": "fadeInUp"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "283eefdf",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "overflow": "hidden",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "55",
+                    "right": "20",
+                    "bottom": "68",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Experience Plumbing"
+            },
+            "elements": [
+                {
+                    "id": "17d94afe",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_direction_tablet": "column",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                            "column": "140",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 140
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Wrap"
+                    },
+                    "elements": [
+                        {
+                            "id": "58b3a891",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "80",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Content Wrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "44e797d2",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5f1aa637",
+                                            "settings": {
+                                                "title": "More than 20 years experience in plumbing",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "49d1b0e",
+                                            "settings": {
+                                                "editor": "<p>Use and re-use tons of responsive sections too a main create the perfect layout. Sections are firmly of organised into the perfect starting categories.</p>",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "62436ae6",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_align_items": "center",
+                                        "flex_gap": {
+                                            "column": "50",
+                                            "row": "32",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 50
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Experience"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "772623e2",
+                                            "settings": {
+                                                "suffix": "+",
+                                                "title": "Successful Projects",
+                                                "title_position": "end",
+                                                "title_position_mobile": "after",
+                                                "title_vertical_alignment": "center",
+                                                "number_position_mobile": "start",
+                                                "number_gap": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "number_color": "#1681FF",
+                                                "typography_number_typography": "custom",
+                                                "typography_number_font_family": "Inter",
+                                                "typography_number_font_size": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_font_weight": "700",
+                                                "typography_number_line_height": {
+                                                    "unit": "px",
+                                                    "size": 56,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_line_height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_line_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#171A1F",
+                                                "_animation": "fadeInUp",
+                                                "__globals__": {
+                                                    "number_color": "globals/colors?id=accent",
+                                                    "typography_number_typography": "globals/typography?id=secondary",
+                                                    "title_color": "globals/colors?id=primary",
+                                                    "typography_title_typography": "globals/typography?id=8b224fd"
+                                                }
+                                            },
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "62c6344b",
+                                            "settings": {
+                                                "ending_number": 69,
+                                                "suffix": "+",
+                                                "title": "Projects Designs",
+                                                "title_position": "end",
+                                                "title_position_mobile": "after",
+                                                "title_vertical_alignment": "center",
+                                                "number_position_mobile": "start",
+                                                "number_gap": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "number_color": "#1681FF",
+                                                "typography_number_typography": "custom",
+                                                "typography_number_font_family": "Inter",
+                                                "typography_number_font_size": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_font_weight": "700",
+                                                "typography_number_line_height": {
+                                                    "unit": "px",
+                                                    "size": 56,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_line_height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_line_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "typography_number_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#171A1F",
+                                                "_animation": "fadeInUp",
+                                                "__globals__": {
+                                                    "number_color": "globals/colors?id=accent",
+                                                    "typography_number_typography": "globals/typography?id=secondary",
+                                                    "title_color": "globals/colors?id=primary",
+                                                    "typography_title_typography": "globals/typography?id=8b224fd"
+                                                }
+                                            },
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "4a2dd638",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "_flex_order_tablet": "start",
+                                "animation": "fadeInUp",
+                                "_title": "Image"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2ecc0448",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-f389283efbafbfd60e22b781e44d8b5b.png",
+                                            "id": 636,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "4dee0f0b",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "68",
+                    "right": "20",
+                    "bottom": "118",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Started"
+            },
+            "elements": [
+                {
+                    "id": "6c0770b1",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_direction_tablet": "column",
+                        "flex_gap": {
+                            "column": "110",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 110
+                        },
+                        "flex_gap_tablet": {
+                            "column": "40",
+                            "row": "40",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 40
+                        },
+                        "flex_gap_mobile": {
+                            "column": "",
+                            "row": "",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": null
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Wrap"
+                    },
+                    "elements": [
+                        {
+                            "id": "7683196d",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 582,
+                                    "sizes": []
+                                },
+                                "flex_direction": "row",
+                                "flex_justify_content_mobile": "center",
+                                "flex_align_items_mobile": "center",
+                                "flex_gap_mobile": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "ma_el_position_type": "relative",
+                                "_title": "Image"
+                            },
+                            "elements": [
+                                {
+                                    "id": "37120cea",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-a6d95bc2425da7089dc276004ab35b25.png",
+                                            "id": 665,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "width": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "ma_el_position_type_mobile": "relative",
+                                        "ma_el_position_top_mobile": {
+                                            "unit": "px",
+                                            "size": 40,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2e0569f0",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "px",
+                                            "size": 165,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "px",
+                                            "size": 168,
+                                            "sizes": []
+                                        },
+                                        "min_height": {
+                                            "unit": "px",
+                                            "size": 165,
+                                            "sizes": []
+                                        },
+                                        "flex_direction": "row",
+                                        "flex_justify_content": "center",
+                                        "flex_align_items": "center",
+                                        "background_background": "classic",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_border": "none",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "3",
+                                            "right": "3",
+                                            "bottom": "3",
+                                            "left": "3",
+                                            "isLinked": true
+                                        },
+                                        "animation": "zoomIn",
+                                        "ma_el_position_type": "absolute",
+                                        "ma_el_position_top": {
+                                            "unit": "px",
+                                            "size": 180,
+                                            "sizes": []
+                                        },
+                                        "ma_el_position_top_mobile": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_position_bottom_mobile": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_position_left": {
+                                            "unit": "%",
+                                            "size": 35,
+                                            "sizes": []
+                                        },
+                                        "ma_el_position_left_mobile": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "_title": "Round Badge",
+                                        "__globals__": {
+                                            "background_color": ""
+                                        },
+                                        "ma_el_position_type_mobile": "relative",
+                                        "ma_el_position_left_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_position_zindex": 99
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6026cc68",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": 168,
+                                                    "sizes": []
+                                                },
+                                                "min_height": {
+                                                    "unit": "px",
+                                                    "size": 165,
+                                                    "sizes": []
+                                                },
+                                                "flex_direction": "row",
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "overflow": "hidden",
+                                                "background_background": "classic",
+                                                "background_image": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_position": "center center",
+                                                "background_repeat": "no-repeat",
+                                                "background_size": "cover",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "999",
+                                                    "right": "999",
+                                                    "bottom": "999",
+                                                    "left": "999",
+                                                    "isLinked": true
+                                                },
+                                                "ma_el_position_type": "relative",
+                                                "_title": "Badge",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=9080378",
+                                                    "border_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "7f350ac5",
+                                                    "settings": {
+                                                        "image": {
+                                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-617e8af09c7b0cd2f6809a8bf6952924.png",
+                                                            "id": 479,
+                                                            "size": "",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "width_tablet": {
+                                                            "unit": "px",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "width_mobile": {
+                                                            "unit": "px",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "space": {
+                                                            "unit": "%",
+                                                            "size": 168,
+                                                            "sizes": []
+                                                        },
+                                                        "height": {
+                                                            "unit": "%",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "height_tablet": {
+                                                            "unit": "%",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "height_mobile": {
+                                                            "unit": "%",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "ma_el_position_type": "absolute",
+                                                        "ma_el_position_top": {
+                                                            "unit": "px",
+                                                            "size": -44,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_el_position_left": {
+                                                            "unit": "px",
+                                                            "size": -42,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_el_position_zindex": 9,
+                                                        "custom_css": "selector img {\n    animation: rotate 20s linear infinite;\n}\n\n\n @keyframes rotate {\n    from {\n      transform: rotate(0deg);\n    }\n    to {\n      transform: rotate(360deg);\n    }\n }"
+                                                    },
+                                                    "widgetType": "image",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "5ebc1456",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "width": {
+                                                            "unit": "px",
+                                                            "size": 100,
+                                                            "sizes": []
+                                                        },
+                                                        "width_mobile": {
+                                                            "unit": "px",
+                                                            "size": 100,
+                                                            "sizes": []
+                                                        },
+                                                        "min_height": {
+                                                            "unit": "px",
+                                                            "size": 95,
+                                                            "sizes": []
+                                                        },
+                                                        "flex_direction": "row",
+                                                        "flex_justify_content": "center",
+                                                        "flex_align_items": "center",
+                                                        "background_background": "classic",
+                                                        "ma_el_slider_delay": "5000",
+                                                        "border_border": "solid",
+                                                        "border_width": {
+                                                            "unit": "px",
+                                                            "top": "3.26",
+                                                            "right": "3.26",
+                                                            "bottom": "3.26",
+                                                            "left": "3.26",
+                                                            "isLinked": true
+                                                        },
+                                                        "border_radius": {
+                                                            "unit": "px",
+                                                            "top": "999",
+                                                            "right": "999",
+                                                            "bottom": "999",
+                                                            "left": "999",
+                                                            "isLinked": true
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals/colors?id=cdee8d1",
+                                                            "border_color": "globals/colors?id=primary"
+                                                        },
+                                                        "_title": "Icon"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "9cc0a42",
+                                                            "settings": {
+                                                                "selected_icon": {
+                                                                    "value": {
+                                                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-8e93cc63dd97e0b1a5e0b3da770b71fc.jpg",
+                                                                        "id": 469
+                                                                    },
+                                                                    "library": "svg"
+                                                                },
+                                                                "size": {
+                                                                    "unit": "px",
+                                                                    "size": 42,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "primary_color": "globals/colors?id=74f4057"
+                                                                }
+                                                            },
+                                                            "widgetType": "icon",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "2dff63da",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-ebc31e8947e554c4e2238e2505a260a6.png",
+                                            "id": 666,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "width": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "67",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInDown",
+                                        "ma_el_position_type_mobile": "relative",
+                                        "ma_el_position_top_mobile": {
+                                            "unit": "px",
+                                            "size": -40,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "3745a791",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 553,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Content"
+                            },
+                            "elements": [
+                                {
+                                    "id": "537d2fa1",
+                                    "settings": {
+                                        "title": "How we started",
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6f009336",
+                                    "settings": {
+                                        "editor": "<p>At Plumby, we believe that every plumbing problem has a solution. Our story began when our founder, John, had a frustrating experience with a plumbing company that left him with a bigger mess than he had before. Hrealized that there was a need for a plumbing service that provided reliable, trustworthy, and affordable solutions.</p><p>\u00a0</p><p>John started Plumby with a simple mission: to provide exceptional plumbing services that exceeded customers' expectations. He hired a team of experienced and certified plumbers who shared his values and commitment to excellence.</p><p>\u00a0</p><p>From the beginning, Plumby has been committed to delivering high-quality plumbing services to our customers. We provide a wide range of services, from installation and repair to maintenance and replacement of plumbing fixtures, pipes, and water heaters.</p><p>\u00a0</p><p>We understand that plumbing issues can cause stress and inconvenience for homeowners and businesses. That's why we offer 24/7 emergency services, so our customers can count on us to be there when they need us the most.</p>",
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "47b354ca",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Team Member",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals/colors?id=d8a4adb"
+                }
+            },
+            "elements": [
+                {
+                    "id": "54e9c2ef",
+                    "settings": {
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "70",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "94",
+                            "right": "0",
+                            "bottom": "100",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "background_color": ""
+                        },
+                        "_title": "Wrap"
+                    },
+                    "elements": [
+                        {
+                            "id": "7e05659",
+                            "settings": {
+                                "title": "Our Plumbing Professionals",
+                                "align": "center",
+                                "_animation": "fadeInUp"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1cac4937",
+                            "settings": {
+                                "content_width": "full",
+                                "container_type": "grid",
+                                "grid_columns_grid": {
+                                    "unit": "fr",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "grid_rows_grid": {
+                                    "unit": "fr",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "grid_gaps": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px"
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Teams",
+                                "presetTitle": "Grid",
+                                "presetIcon": "eicon-container-grid",
+                                "grid_columns_grid_tablet": {
+                                    "unit": "fr",
+                                    "size": 2,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "b98b452",
+                                    "settings": {
+                                        "ma_el_team_member_name": "Jeremy Erickson",
+                                        "ma_el_team_member_designation": "Plumber",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "_id": "a317a04"
+                                            },
+                                            {
+                                                "_id": "157d3b9"
+                                            },
+                                            {
+                                                "_id": "8587f62"
+                                            },
+                                            {
+                                                "_id": "cc0d453"
+                                            }
+                                        ],
+                                        "_title": "Card",
+                                        "ma_el_team_member_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-0bc63967bcc0e83bb1d526c2818b6dbb.png",
+                                            "id": 563,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ma_el_team_member_enable_social_profiles": "",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_style_thumb_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "ma_el_title_color": "globals/colors?id=primary",
+                                            "title_typography_typography": "globals/typography?id=4542bc2",
+                                            "designation_typography_typography": "globals/typography?id=text",
+                                            "ma_el_designation_color": "globals/colors?id=text"
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "12fd70b5",
+                                    "settings": {
+                                        "ma_el_team_member_name": "Mae Mendez",
+                                        "ma_el_team_member_designation": "Plumber",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "_id": "a317a04"
+                                            },
+                                            {
+                                                "_id": "157d3b9"
+                                            },
+                                            {
+                                                "_id": "8587f62"
+                                            },
+                                            {
+                                                "_id": "cc0d453"
+                                            }
+                                        ],
+                                        "_title": "Card",
+                                        "ma_el_team_member_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-b4c5d6bd9d3decb8bc1802738db57660.png",
+                                            "id": 564,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ma_el_team_member_enable_social_profiles": "",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_style_thumb_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "ma_el_title_color": "globals/colors?id=primary",
+                                            "title_typography_typography": "globals/typography?id=4542bc2",
+                                            "designation_typography_typography": "globals/typography?id=text",
+                                            "ma_el_designation_color": "globals/colors?id=text"
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "28e447f",
+                                    "settings": {
+                                        "ma_el_team_member_name": "Ben Paulo",
+                                        "ma_el_team_member_designation": "Plumber",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "_id": "a317a04"
+                                            },
+                                            {
+                                                "_id": "157d3b9"
+                                            },
+                                            {
+                                                "_id": "8587f62"
+                                            },
+                                            {
+                                                "_id": "cc0d453"
+                                            }
+                                        ],
+                                        "_title": "Card",
+                                        "ma_el_team_member_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-a00df32f15163d4cc1d3c8afe90558f1.png",
+                                            "id": 565,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ma_el_team_member_enable_social_profiles": "",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_style_thumb_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "ma_el_title_color": "globals/colors?id=primary",
+                                            "title_typography_typography": "globals/typography?id=4542bc2",
+                                            "designation_typography_typography": "globals/typography?id=text",
+                                            "ma_el_designation_color": "globals/colors?id=text"
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4cb3e784",
+                                    "settings": {
+                                        "ma_el_team_member_name": "Erik Peters",
+                                        "ma_el_team_member_designation": "Plumber",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "_id": "a317a04"
+                                            },
+                                            {
+                                                "_id": "157d3b9"
+                                            },
+                                            {
+                                                "_id": "8587f62"
+                                            },
+                                            {
+                                                "_id": "cc0d453"
+                                            }
+                                        ],
+                                        "_title": "Card",
+                                        "ma_el_team_member_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-fbe37b9bf85f742b648525ec4faee5b9.png",
+                                            "id": 566,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ma_el_team_member_enable_social_profiles": "",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_style_thumb_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "ma_el_title_color": "globals/colors?id=primary",
+                                            "title_typography_typography": "globals/typography?id=4542bc2",
+                                            "designation_typography_typography": "globals/typography?id=text",
+                                            "ma_el_designation_color": "globals/colors?id=text"
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "641c0ee3",
+            "settings": {
+                "flex_direction": "column",
+                "width": {
+                    "unit": "%",
+                    "size": ""
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1532,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "",
+                    "row": "",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": null
+                },
+                "overflow": "hidden",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "ma_el_slider_delay": "5000",
+                "_flex_size": "none",
+                "_title": "CTA",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "_element_width": "initial",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "width_tablet": {
+                    "unit": "%",
+                    "size": "",
+                    "sizes": []
+                },
+                "width_mobile": {
+                    "unit": "%",
+                    "size": "",
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "720af5ce",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "overflow": "hidden",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-About-a7ce2bebd89596720c1287b1c2cafc0d.png",
+                            "id": 138,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "ma_el_slider_delay": "5000",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "127",
+                            "right": "0",
+                            "bottom": "127",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_title": "Wrap",
+                        "__globals__": {
+                            "background_color": "globals/colors?id=accent"
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "127",
+                            "right": "20",
+                            "bottom": "127",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1532,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "74a70937",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 974,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_flex_align_self": "center",
+                                "_title": "Content",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3d318cb3",
+                                    "settings": {
+                                        "title": "Having a Plumbing Problem? We\u2019ll Fixed it Today!",
+                                        "header_size": "h1",
+                                        "align": "center",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=9080378"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "303d62d3",
+                                    "settings": {
+                                        "editor": "<p>Whereby is the super simple way to connect over. No apps, downloads, or long meeting links.</p>",
+                                        "align": "center",
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "px",
+                                            "size": 388,
+                                            "sizes": []
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=9080378"
+                                        },
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "43f4d98b",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_justify_content": "center",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "16",
+                                    "row": "24",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "animation": "fadeInUp",
+                                "_title": "Buttons"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6d2f8286",
+                                    "settings": {
+                                        "text": "Book A Visiting",
+                                        "link": {
+                                            "url": "/plumbiq/service/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals/colors?id=9080378",
+                                            "button_text_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6146e513",
+                                    "settings": {
+                                        "text": "Call us: +1 271 281 9795",
+                                        "link": {
+                                            "url": "/plumbiq/contact/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-call",
+                                            "library": "material-icons"
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals/colors?id=cdee8d1",
+                                            "button_text_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

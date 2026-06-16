@@ -1,0 +1,139 @@
+{
+    "version": "0.4",
+    "template_id": 824,
+    "title": "404",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7c57e8bd",
+            "settings": {
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "98",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "98",
+                    "right": "20",
+                    "bottom": "120",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "712aae91",
+                    "settings": {
+                        "image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-36-404-31ecbf0dbcb1aa796ae7538a99aad0a0.png",
+                            "id": 812,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        }
+                    },
+                    "widgetType": "image",
+                    "elType": "widget"
+                },
+                {
+                    "id": "25a02d37",
+                    "settings": {
+                        "title": "Page not found",
+                        "header_size": "h1",
+                        "align": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "typography_typography": "globals/typography?id=secondary"
+                        }
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "73100afe",
+                    "settings": {
+                        "editor": "<p>The page you are looking for is not available or doesn\u2019t belong to this website!</p>",
+                        "align": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 502,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "1fbbd553",
+                    "settings": {
+                        "text": "Go Back to Home",
+                        "link": {
+                            "url": "/zaplyte/",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "selected_icon": {
+                            "value": "elementor-icons eicon-arrow-right",
+                            "library": "elementor-icons"
+                        },
+                        "icon_align": "row-reverse",
+                        "icon_indent": {
+                            "unit": "px",
+                            "size": 10,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "34",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "widgetType": "button",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

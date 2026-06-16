@@ -1,0 +1,1056 @@
+{
+    "version": "0.4",
+    "template_id": 546,
+    "title": "Package Details",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "ccddefb",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "01d7809",
+                    "settings": {
+                        "flex_align_items": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "277819d",
+                            "settings": {
+                                "title": "Switzerland Voyage ",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 64,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -3,
+                                    "sizes": []
+                                },
+                                "title_color": "#0A2B1C",
+                                "align": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "header_size": "h1"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "9c9e277",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_justify_content": "space-between",
+                                "ma_el_slider_delay": "5000",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "px",
+                                    "size": 300.54700000000003
+                                },
+                                "_flex_size": "none",
+                                "_element_width_tablet": "initial"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6d2b07a",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "fas fa-calendar-alt",
+                                            "library": "fa-solid"
+                                        },
+                                        "title_text": "7-10 days",
+                                        "description_text": "",
+                                        "title_size": "div",
+                                        "position": "left",
+                                        "icon_space": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        },
+                                        "icon_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_font_family": "Manrope",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "title_typography_font_weight": "600",
+                                        "title_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 1,
+                                            "sizes": []
+                                        },
+                                        "title_typography_line_height_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "title_typography_line_height_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hover_title_color": "#0A2B1C",
+                                        "_element_width_tablet": "initial",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "px",
+                                            "size": 92.266000000000005
+                                        },
+                                        "_flex_size": "none",
+                                        "position_mobile": "inline-start",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=36d6da5",
+                                            "primary_color": "globals/colors?id=36d6da5"
+                                        }
+                                    },
+                                    "widgetType": "icon-box",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "583e375",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "fas fa-money-check-alt",
+                                            "library": "fa-solid"
+                                        },
+                                        "title_text": "Starting from $1599",
+                                        "description_text": "",
+                                        "title_size": "div",
+                                        "position": "left",
+                                        "icon_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_font_family": "Manrope",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "title_typography_font_weight": "600",
+                                        "title_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 1,
+                                            "sizes": []
+                                        },
+                                        "title_typography_line_height_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "title_typography_line_height_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hover_title_color": "#0A2B1C",
+                                        "position_mobile": "inline-start",
+                                        "icon_space": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        },
+                                        "_element_width_tablet": "initial",
+                                        "_element_custom_width_tablet": {
+                                            "unit": "px",
+                                            "size": 92.266000000000005
+                                        },
+                                        "_flex_size": "none",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=36d6da5",
+                                            "primary_color": "globals/colors?id=36d6da5"
+                                        }
+                                    },
+                                    "widgetType": "icon-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "fafb7f9",
+                    "settings": {
+                        "image": {
+                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-15-Package-Details-8f5ada75000af4a1aa4f373fef64d7df.jpg",
+                            "id": 777,
+                            "size": "",
+                            "alt": "Classy woman on the Thai beach of Poda",
+                            "source": "library"
+                        },
+                        "image_size": "full",
+                        "image_border_radius": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "isLinked": true
+                        }
+                    },
+                    "widgetType": "image",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "2f821b5",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 90,
+                    "column": "90",
+                    "row": "0"
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "0f446d1",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 44.276000000000003
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_flex_size": "none",
+                        "_element_width": "initial"
+                    },
+                    "elements": [
+                        {
+                            "id": "52766ce",
+                            "settings": {
+                                "title": "About This Tour",
+                                "header_size": "h3",
+                                "typography_font_family": "EB Garamond",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.5,
+                                    "sizes": []
+                                },
+                                "title_color": "#0A2B1C"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f637a35",
+                            "settings": {
+                                "editor": "<p>Introducing our Tropical Paradise Package, where we have curated the best, finest elements of island living for an unforgettable experience. Dive into the turquoise waters, relax on pristine shores, and immerse yourself in the vibrant culture of these tropical havens. This is your ticket to the ultimate dream getaway, where relaxation, adventure, and natural beauty converge for a vacation of a lifetime.</p>",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "custom",
+                                    "size": "1.8",
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=secondary",
+                                    "typography_typography": ""
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f00084a",
+                            "settings": {
+                                "title": "Tour Overview",
+                                "header_size": "h5",
+                                "typography_font_family": "EB Garamond",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.5,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals/colors?id=36d6da5"
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "9318972",
+                            "settings": {
+                                "editor": "<p><strong>Tour Name</strong>: The official name of the tour.<br /><strong>Brief Description</strong>: A short summary of what the tour entails, including key highlights and the overall experience</p>",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "custom",
+                                    "size": "1.8",
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=secondary"
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3f0350b",
+                            "settings": {
+                                "title": "Itinerary Highlights",
+                                "header_size": "h5",
+                                "typography_font_family": "EB Garamond",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.5,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals/colors?id=36d6da5"
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d3279ef",
+                            "settings": {
+                                "editor": "<p><strong>Day 1</strong>: Activities, key sights, and experiences.<br /><strong>Day 2</strong>: Activities, key sights, and experiences.</p>",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "custom",
+                                    "size": "1.8",
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=secondary"
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d6d9ae7",
+                            "settings": {
+                                "title": "Tour Duration & Schedule",
+                                "header_size": "h5",
+                                "typography_font_family": "EB Garamond",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.5,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals/colors?id=36d6da5"
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5a044eb",
+                            "settings": {
+                                "editor": "<ul><li>Duration: 3 days, 2 nights.</li><li>Departure Times: Tours depart at 9:00 AM daily</li><li>Frequency: Available daily with advanced booking required.</li></ul>",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "custom",
+                                    "size": "1.8",
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=secondary"
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "0063291",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "flex_align_items": "flex-end"
+                    },
+                    "elements": [
+                        {
+                            "id": "8d1a79a",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_align_items": "center",
+                                "background_background": "classic",
+                                "background_color": "#F6F7F9",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "429a6f9",
+                                    "settings": {
+                                        "title": "Find your perfect trip",
+                                        "header_size": "h4",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "600",
+                                        "typography_line_height": {
+                                            "unit": "custom",
+                                            "size": "1.14",
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -1,
+                                            "sizes": []
+                                        },
+                                        "align": "center",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=36d6da5"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "b4d38ef",
+                                    "settings": {
+                                        "editor": "<p>Explore our latest travel packages and start planning your dream vacation today</p>",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "typography_line_height": {
+                                            "unit": "custom",
+                                            "size": "1.8",
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "align": "center",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=text"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6a30f53",
+                                    "settings": {
+                                        "text": "Contact Us",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 15,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "typography_line_height_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "typography_text_decoration": "none",
+                                        "link": {
+                                            "url": "https://el.master-addons.com/travello/contact/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        },
+                                        "button_hover_transition_duration": {
+                                            "unit": "s",
+                                            "size": 0.29999999999999999,
+                                            "sizes": []
+                                        },
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "18",
+                                            "right": "32",
+                                            "bottom": "18",
+                                            "left": "32",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "button_text_color": "globals/colors?id=36d6da5",
+                                            "background_color": "globals/colors?id=5995207",
+                                            "border_color": "globals/colors?id=accent",
+                                            "hover_color": "globals/colors?id=36d6da5",
+                                            "button_hover_border_color": "globals/colors?id=36d6da5",
+                                            "button_background_hover_color": "globals/colors?id=93898ac"
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "6acba4a",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "background_color": "#F6F7F9",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "dd9d95c",
+                    "settings": {
+                        "title": "Trusted by 7500+ Happy Customers",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "typography_line_height_tablet": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "typography_line_height_mobile": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "40",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 35,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "title_color": "globals/colors?id=36d6da5"
+                        }
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "b39ac40",
+                    "settings": {
+                        "team_carousel_repeater": [
+                            {
+                                "ma_el_team_carousel_name": "Esther Howard",
+                                "ma_el_team_carousel_description": "\"The Majestic Serengeti Safari was beyond our wildest dreams! Our guide was incredibly knowledgeable. Highly recommend to anyone looking for a once-in-a-lifetime adventure!\"",
+                                "_id": "ff56ce4",
+                                "ma_el_team_carousel_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-15-Package-Details-080776e0d6f994bacff796cadd1982c0.jpg",
+                                    "id": 769,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_carousel_designation": "Louis Vuitton",
+                                "ma_el_team_carousel_enable_social_profiles": ""
+                            },
+                            {
+                                "ma_el_team_carousel_name": "Marvin Franck",
+                                "ma_el_team_carousel_description": "\"Our Alpine Adventure Escape in Chamonix was fantastic! The mix of thrilling activities and serene mountain views was perfect. The guided hikes were well-paced.\u201d",
+                                "ma_el_team_carousel_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-15-Package-Details-86c0982be893a0e8daad47712122ebc7.jpg",
+                                    "id": 771,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_carousel_designation": "Louis Vuitton",
+                                "ma_el_team_carousel_enable_social_profiles": "",
+                                "_id": "959907c"
+                            },
+                            {
+                                "ma_el_team_carousel_name": "Robert Fox",
+                                "ma_el_team_carousel_description": "\"Tropical Bali Bliss exceeded all our new expectations. The resort was stunning and insightful. We loved the Balinese cooking class experience!\"",
+                                "ma_el_team_carousel_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-15-Package-Details-f430e43a8463fa5c83c1a4d165b2dcb4.jpg",
+                                    "id": 772,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_carousel_designation": "Louis Vuitton",
+                                "ma_el_team_carousel_enable_social_profiles": "",
+                                "_id": "4ce0a29"
+                            }
+                        ],
+                        "ma_el_team_carousel_bg": "",
+                        "arrows_color": "#0A2B1C",
+                        "nav_arrows_border_border": "solid",
+                        "nav_arrows_border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "nav_arrows_border_color": "#0A2B1C",
+                        "arrows_padding": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "arrows_padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "arrows_size": {
+                            "unit": "px",
+                            "size": 15,
+                            "sizes": []
+                        },
+                        "arrows_size_tablet": {
+                            "unit": "px",
+                            "size": 12,
+                            "sizes": []
+                        },
+                        "arrows_space": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "arrows_ncy_position": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "title_typography_font_family": "Inter",
+                        "title_typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "600",
+                        "ma_el_title_margins": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "designation_typography_font_family": "Lexend",
+                        "designation_typography_font_size": {
+                            "unit": "px",
+                            "size": 14,
+                            "sizes": []
+                        },
+                        "ma_el_designation_margins": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "40",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_description_typography_font_family": "Lexend",
+                        "ma_el_description_typography_font_size": {
+                            "unit": "px",
+                            "size": 15,
+                            "sizes": []
+                        },
+                        "ma_el_description_margins": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "arrows_position": "bottom-center",
+                        "arrows_placement": "outside",
+                        "columns": "3",
+                        "columns_tablet": "2",
+                        "item_border_border": "solid",
+                        "item_border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "item_border_color": "#EBEBEB",
+                        "item_border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "item_padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "item_opacity": {
+                            "unit": "px",
+                            "size": 0.40000000000000002,
+                            "sizes": []
+                        },
+                        "item_active_background": "#FFFFFF",
+                        "item_active_opacity": {
+                            "unit": "px",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "arrows_background": "#02010100",
+                        "team_carousel_image_border_switch": "yes",
+                        "title_html_tag": "h5",
+                        "__globals__": {
+                            "ma_el_title_color": "globals/colors?id=36d6da5",
+                            "ma_el_designation_color": "globals/colors?id=36d6da5",
+                            "ma_el_description_color": "globals/colors?id=36d6da5"
+                        }
+                    },
+                    "widgetType": "ma-team-members-slider",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

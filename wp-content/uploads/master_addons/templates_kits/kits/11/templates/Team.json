@@ -1,0 +1,2991 @@
+{
+    "version": "0.4",
+    "template_id": 407,
+    "title": "Team",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "50f00ef",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "background_color": "#000000",
+                "background_image": {
+                    "id": "6",
+                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-3be89e38319d6dfe471204d97afbb750.jpg"
+                },
+                "background_position": "bottom right",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "background_overlay_background": "classic",
+                "background_position_tablet": "top center",
+                "background_position_mobile": "top center",
+                "gradient_color_list": [
+                    {
+                        "ma_el_animated_gradient_color": "#00a6d8",
+                        "_id": "28e8564"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#b800c9",
+                        "_id": "8991425"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#e57600",
+                        "_id": "ca7a34d"
+                    }
+                ],
+                "ma_el_slider_delay": "5000"
+            },
+            "elements": [
+                {
+                    "id": "7955995",
+                    "settings": {
+                        "width": {
+                            "unit": "%",
+                            "size": 22,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "look": "line_icon",
+                        "text": "Divider",
+                        "icon": {
+                            "value": "fas fa-hashtag",
+                            "library": "fa-solid"
+                        },
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "primary_color": "#B16BFF",
+                        "icon_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "rotate": {
+                            "unit": "deg",
+                            "size": -35,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "0",
+                            "bottom": "-148",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_display_conditions": [
+                            {
+                                "_id": "ed30d4c",
+                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                            }
+                        ],
+                        "jltma_element_tooltip_text": "This is Element Tooltip"
+                    },
+                    "widgetType": "divider",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7655ef8",
+                    "settings": {
+                        "background_color": "#000000",
+                        "background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "bottom right",
+                        "background_attachment": "scroll",
+                        "background_repeat": "no-repeat",
+                        "z_index": 1,
+                        "custom_css": "selector{\n    backdrop-filter: blur(8px)\n}",
+                        "min_height": {
+                            "unit": "vh",
+                            "size": 70,
+                            "sizes": []
+                        },
+                        "min_height_tablet": {
+                            "unit": "vh",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "min_height_mobile": {
+                            "unit": "vh",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "gradient_color_list": [
+                            {
+                                "ma_el_animated_gradient_color": "#00a6d8",
+                                "_id": "b032e8b"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#b800c9",
+                                "_id": "83f4ad6"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#e57600",
+                                "_id": "8e46b77"
+                            }
+                        ],
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "5be4afb",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "4ed2074"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "6bb4fab"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "8549d34"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "337f3e8",
+                                    "settings": {
+                                        "title": "Meet The Team",
+                                        "align": "center",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Hanken Grotesk",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "500",
+                                        "title_color": "#FFFFFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "e51adf2",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "typography_font_size_tablet": {
+                                            "unit": "px",
+                                            "size": 48,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "4cb3fcd",
+                    "settings": {
+                        "width": {
+                            "unit": "%",
+                            "size": 22,
+                            "sizes": []
+                        },
+                        "align": "left",
+                        "look": "line_icon",
+                        "text": "Divider",
+                        "icon": {
+                            "value": "fas fa-dollar-sign",
+                            "library": "fa-solid"
+                        },
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "primary_color": "#B16BFF",
+                        "icon_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "-185",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "-30",
+                            "isLinked": false
+                        },
+                        "jltma_display_conditions": [
+                            {
+                                "_id": "ed30d4c",
+                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                            }
+                        ],
+                        "jltma_element_tooltip_text": "This is Element Tooltip"
+                    },
+                    "widgetType": "divider",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "b9ae868",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "148",
+                    "right": "0",
+                    "bottom": "148",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "10",
+                    "bottom": "96",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "10",
+                    "bottom": "48",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#000000",
+                "gradient_color_list": [
+                    {
+                        "ma_el_animated_gradient_color": "#00a6d8",
+                        "_id": "7f5a358"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#b800c9",
+                        "_id": "090e791"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#e57600",
+                        "_id": "81df57e"
+                    }
+                ],
+                "ma_el_slider_delay": "5000"
+            },
+            "elements": [
+                {
+                    "id": "7b20cd0",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "flex_gap_tablet": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "flex_wrap_tablet": "wrap",
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "gradient_color_list": [
+                            {
+                                "ma_el_animated_gradient_color": "#00a6d8",
+                                "_id": "a30855c"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#b800c9",
+                                "_id": "a1d4d84"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#e57600",
+                                "_id": "725964e"
+                            }
+                        ],
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "a910885",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "77f9426"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "5e81bdc"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "88ed9d4"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3447c60",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 109,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-55f29ac5360900af9b0da94199fbbaf4.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Zara Synth",
+                                        "ma_el_team_member_designation": "Blockchain Developer",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "0034eee",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "1da2bf9"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "fb4820d"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "babb54b"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "a1dd225",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 110,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-51c450dcc95ad1c8bf6babfaa9eb6fc0.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Nova Cipher",
+                                        "ma_el_team_member_designation": "Cryptoeconomist",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "5029331",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "2ef8e2d"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "6bcdfdf"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "6ef67c7"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "df57c65",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 111,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-b7e586d38d9741c26892075228018d6c.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Luna Byte",
+                                        "ma_el_team_member_designation": "Tokenization Strategist",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "e839984",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "d8dae7b"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "60ecbba"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "23cba73"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "89098cf",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 112,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-fa48f66b670cbfd0d2381c6964ef6395.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Zenith Pulse",
+                                        "ma_el_team_member_designation": "Web3 Product Manager",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "20358d0",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "flex_wrap_tablet": "wrap",
+                        "gradient_color_list": [
+                            {
+                                "ma_el_animated_gradient_color": "#00a6d8",
+                                "_id": "928bb65"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#b800c9",
+                                "_id": "107c8bf"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#e57600",
+                                "_id": "7272f5e"
+                            }
+                        ],
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "4b06df1",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "66e1e56"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "7ba35cd"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "bf50394"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3390940",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 113,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-6cac234b518179bf230bcf4aea11ed3a.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Zaha Hadid",
+                                        "ma_el_team_member_designation": "Blockchain Developer",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "b2fa42b",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "9188aaa"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "9dacdb6"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "3c5ce06"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "9cb5c05",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 114,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-e9dc892f2c4799d1a106b0e5cf568b09.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Jonathan Ive",
+                                        "ma_el_team_member_designation": "Cryptoeconomist",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "af38a28",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "54da83e"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "ee218f0"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "d8a4f8c"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "9dd4ff2",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 115,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-aa52e770165c1100d919bc561e4d970e.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Eileen Gray",
+                                        "ma_el_team_member_designation": "Tokenization Strategist",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "10c6c64",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "93b0ed4"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "c2ed4d1"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "7d23ec5"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2f784e8",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 116,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-f83d803f75b41bb6f040ded1def876f6.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Jasper Morrison",
+                                        "ma_el_team_member_designation": "Web3 Product Manager",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "ca50bc7",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "flex_wrap_tablet": "wrap",
+                        "gradient_color_list": [
+                            {
+                                "ma_el_animated_gradient_color": "#00a6d8",
+                                "_id": "0021573"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#b800c9",
+                                "_id": "42eae77"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#e57600",
+                                "_id": "fd6b697"
+                            }
+                        ],
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "68f4795",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "86cf3fc"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "241f7ba"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "387ac33"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "64045fa",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 117,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-b7de74a55a738798c51c276d90b813d5.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Ralph Lauren",
+                                        "ma_el_team_member_designation": "Blockchain Developer",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "d17959c",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "84fdd93"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "1153df5"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "53d32d8"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "0959310",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 118,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-f4d30fa64faa306e998ffeed13ab9bec.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Virgil Abloh",
+                                        "ma_el_team_member_designation": "Cryptoeconomist",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "a4a1f50",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "2657acc"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "926ab3c"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "1a2e6b5"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7fab0ba",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 119,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-3fdca34d4b8511c3e34cc9c4d4576363.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Philippe Starck",
+                                        "ma_el_team_member_designation": "Tokenization Strategist",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "501ef31",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "917eda3"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "653d3fd"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "fa9dc01"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6579639",
+                                    "settings": {
+                                        "ma_el_team_members_preset": "-basic-5",
+                                        "ma_el_team_member_image": {
+                                            "id": 120,
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-cf89823da9627e3aab573f467cf52fd7.jpg"
+                                        },
+                                        "ma_el_team_member_name": "Karim Rashid",
+                                        "ma_el_team_member_designation": "Web3 Product Manager",
+                                        "ma_el_team_member_description": "",
+                                        "ma_el_team_members_content_align": "center",
+                                        "ma_el_team_member_social_profile_links": [
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-linkedin",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "343a29a"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-github",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "c9cfb1e"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "jltma-ri jltma-ri-instagram-fill",
+                                                    "library": "remix-icons"
+                                                },
+                                                "_id": "b404b89"
+                                            },
+                                            {
+                                                "social": {
+                                                    "value": "fab fa-facebook",
+                                                    "library": "fa-brands"
+                                                },
+                                                "_id": "76dd916"
+                                            }
+                                        ],
+                                        "ma_el_team_members_social_align": "center",
+                                        "jltma_team_members_item_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "jltma_team_members_content_bg_background": "classic",
+                                        "jltma_team_members_content_bg_color": "#D8D7D787",
+                                        "jltma_team_members_content_border_border": "solid",
+                                        "jltma_team_members_content_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "0",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_members_content_border_color": "#FFFFFF",
+                                        "jltma_team_members_thumb_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_title_color": "#03000A",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Hanken Grotesk",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_designation_color": "#03000A",
+                                        "designation_typography_typography": "custom",
+                                        "designation_typography_font_family": "Hanken Grotesk",
+                                        "designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "designation_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "jltma_team_member_designation_margin": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "jltma_team_member_socials_margin": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_team_member_social_icon_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_team_member_social_icon_color": "#3B3B3B",
+                                        "ma_el_team_member_social_color_1": "#4B00E700",
+                                        "ma_el_team_member_social_icon_hover_color": "#998CFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "dd0effa",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "jltma_team_members_thumb_radius_mobile": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-team-members",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "9958ae3",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "background_color": "#000000",
+                "background_image": {
+                    "id": "31",
+                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Team-471d73d4d771758f07fe877ec97f5436.jpg"
+                },
+                "background_position": "bottom center",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#07060EB5",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "gradient_color_list": [
+                    {
+                        "ma_el_animated_gradient_color": "#00a6d8",
+                        "_id": "ab34975"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#b800c9",
+                        "_id": "ea5ced8"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#e57600",
+                        "_id": "2372aec"
+                    }
+                ],
+                "ma_el_slider_delay": "5000"
+            },
+            "elements": [
+                {
+                    "id": "e9ccb38",
+                    "settings": {
+                        "width": {
+                            "unit": "%",
+                            "size": 22,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "look": "line_icon",
+                        "text": "Divider",
+                        "icon": {
+                            "value": "fas fa-sun",
+                            "library": "fa-solid"
+                        },
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "primary_color": "#B16BFF",
+                        "icon_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "rotate": {
+                            "unit": "deg",
+                            "size": -35,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "0",
+                            "bottom": "-148",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_display_conditions": [
+                            {
+                                "_id": "ed30d4c",
+                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                            }
+                        ],
+                        "jltma_element_tooltip_text": "This is Element Tooltip"
+                    },
+                    "widgetType": "divider",
+                    "elType": "widget"
+                },
+                {
+                    "id": "be55e2d",
+                    "settings": {
+                        "background_color": "#000000",
+                        "background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "bottom right",
+                        "background_attachment": "scroll",
+                        "background_repeat": "no-repeat",
+                        "padding": {
+                            "unit": "px",
+                            "top": "148",
+                            "right": "0",
+                            "bottom": "148",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "96",
+                            "right": "0",
+                            "bottom": "96",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "z_index": 1,
+                        "custom_css": "selector{\n    backdrop-filter: blur(7px)\n}",
+                        "gradient_color_list": [
+                            {
+                                "ma_el_animated_gradient_color": "#00a6d8",
+                                "_id": "0bf3006"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#b800c9",
+                                "_id": "877887b"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#e57600",
+                                "_id": "85a8e61"
+                            }
+                        ],
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "b48bf74",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "flex_align_items": "center",
+                                "_flex_align_self": "center",
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "07ca00e"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "69ec2fb"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "503f9e7"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "816e231",
+                                    "settings": {
+                                        "title": "Embrace the Future of Web3 and Blockchain",
+                                        "align": "center",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Hanken Grotesk",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 64,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "500",
+                                        "title_color": "#FFFFFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "e51adf2",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "typography_font_size_tablet": {
+                                            "unit": "px",
+                                            "size": 40,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 30,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "9566b46",
+                                    "settings": {
+                                        "editor": "<p>Let's collaborate to shape a future where opportunities are limitless.</p>",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Hanken Grotesk",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "text_color": "#B6B3BD",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "a5b9b30",
+                                                "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "align": "center"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "868d2ce",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_justify_content": "center",
+                                        "gradient_color_list": [
+                                            {
+                                                "ma_el_animated_gradient_color": "#00a6d8",
+                                                "_id": "c40e689"
+                                            },
+                                            {
+                                                "ma_el_animated_gradient_color": "#b800c9",
+                                                "_id": "c320d90"
+                                            },
+                                            {
+                                                "ma_el_animated_gradient_color": "#e57600",
+                                                "_id": "b2ebe36"
+                                            }
+                                        ],
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7a3decf",
+                                            "settings": {
+                                                "text": "Get in touch",
+                                                "selected_icon": {
+                                                    "value": "jltma-feather-icon jltma-feather-icon-arrow-up-right",
+                                                    "library": "feather-icons"
+                                                },
+                                                "icon_align": "row-reverse",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Hanken Grotesk",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "500",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.20000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#FFFFFF",
+                                                "background_color": "#998CFF",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "20",
+                                                    "bottom": "14",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "jltma_display_conditions": [
+                                                    {
+                                                        "_id": "7e2bfef",
+                                                        "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                                    }
+                                                ],
+                                                "jltma_element_tooltip_text": "This is Element Tooltip",
+                                                "hover_color": "#FFFFFF",
+                                                "button_background_hover_color": "#4C4C4DB8",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "hover_animation": "shrink",
+                                                "link": {
+                                                    "url": "/tokenaid/contact/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "d752fc3",
+                                            "settings": {
+                                                "text": "Learn more",
+                                                "icon_align": "row-reverse",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Hanken Grotesk",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "500",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.20000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#FFFFFF",
+                                                "background_color": "#4C4C4DB8",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "20",
+                                                    "bottom": "14",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "jltma_display_conditions": [
+                                                    {
+                                                        "_id": "7e2bfef",
+                                                        "jltma_condition_date_value": "2025-08-19 to 2025-08-25"
+                                                    }
+                                                ],
+                                                "jltma_element_tooltip_text": "This is Element Tooltip",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "border_color": "#858585",
+                                                "button_background_hover_color": "#998CFF",
+                                                "button_hover_border_color": "#FFFFFF",
+                                                "button_hover_transition_duration": {
+                                                    "unit": "s",
+                                                    "size": 0.29999999999999999,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "shrink",
+                                                "link": {
+                                                    "url": "/tokenaid/features/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

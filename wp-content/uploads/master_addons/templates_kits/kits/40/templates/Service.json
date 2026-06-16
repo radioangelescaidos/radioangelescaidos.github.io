@@ -1,0 +1,2127 @@
+{
+    "version": "0.4",
+    "template_id": 1080,
+    "title": "Service",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "37304b17",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 728,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "20",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "overflow": "hidden",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "102",
+                    "right": "20",
+                    "bottom": "51",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Hero"
+            },
+            "elements": [
+                {
+                    "id": "4835a53b",
+                    "settings": {
+                        "title": "We Have Great Service, Great Value!",
+                        "header_size": "h1",
+                        "align": "center",
+                        "_animation": "fadeInUp"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "25fdcea2",
+                    "settings": {
+                        "editor": "<p>Reliable, trustworthy, and affordable plumbing solutions for your home or business</p>",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 432,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center",
+                        "_animation": "fadeInUp"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "4b54014b",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 890,
+                    "sizes": []
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "51",
+                    "right": "20",
+                    "bottom": "136",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Service"
+            },
+            "elements": [
+                {
+                    "id": "f1e04ac",
+                    "settings": {
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "24",
+                            "row": "24",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "animation": "none",
+                        "_title": "Wrap",
+                        "presetTitle": "Container",
+                        "presetIcon": "eicon-container",
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 890,
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "20d66302",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "40",
+                                    "row": "40",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "overflow": "hidden",
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Card",
+                                "flex_direction": "row",
+                                "flex_align_items": "center"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1706156b",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-Service-3ceb5fc7bee9374ff6ddff1edf1964eb.png",
+                                            "id": 509,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7b937138",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "30",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Content Wrap",
+                                        "width": {
+                                            "unit": "px",
+                                            "size": 434,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "320e7792",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_gap": {
+                                                    "column": "0",
+                                                    "row": "15",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Content"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "521c6841",
+                                                    "settings": {
+                                                        "title": "Faucet & Leak Repairs",
+                                                        "header_size": "h4",
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "2ac93620",
+                                                    "settings": {
+                                                        "editor": "<p>In the new era of technology we look in the future with certainty and pride, that\u2019s why our theme looks so good whatever device.</p>",
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "2c5e13ae",
+                                            "settings": {
+                                                "text": "See how we do it",
+                                                "link": {
+                                                    "url": "/plumbiq/service-details/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "selected_icon": {
+                                                    "value": "elementor-icons eicon-arrow-right",
+                                                    "library": "elementor-icons"
+                                                },
+                                                "icon_align": "row-reverse",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_transform_translate_popover_hover": "transform",
+                                                "_transform_translateX_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=74f4057",
+                                                    "button_text_color": "globals/colors?id=accent",
+                                                    "hover_color": "globals/colors?id=498ac84"
+                                                }
+                                            },
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "11fed960",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "40",
+                                    "row": "40",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "overflow": "hidden",
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Card",
+                                "flex_direction": "row",
+                                "flex_align_items": "center"
+                            },
+                            "elements": [
+                                {
+                                    "id": "49245fba",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-Service-809087895b36fc13c8368f95759840cb.png",
+                                            "id": 510,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "26d358a",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "30",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Content Wrap",
+                                        "width": {
+                                            "unit": "px",
+                                            "size": 434,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "15ad9c32",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_gap": {
+                                                    "column": "0",
+                                                    "row": "15",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Content"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "55cf2eb",
+                                                    "settings": {
+                                                        "title": "Remodeling Service",
+                                                        "header_size": "h4",
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "17756dfc",
+                                                    "settings": {
+                                                        "editor": "<p>In the new era of technology we look in the future with certainty and pride, that\u2019s why our theme looks so good whatever device.</p>",
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "4583c46f",
+                                            "settings": {
+                                                "text": "Explore our process",
+                                                "link": {
+                                                    "url": "/plumbiq/service-details/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "selected_icon": {
+                                                    "value": "elementor-icons eicon-arrow-right",
+                                                    "library": "elementor-icons"
+                                                },
+                                                "icon_align": "row-reverse",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_transform_translate_popover_hover": "transform",
+                                                "_transform_translateX_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=74f4057",
+                                                    "button_text_color": "globals/colors?id=accent",
+                                                    "hover_color": "globals/colors?id=498ac84"
+                                                }
+                                            },
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "1d874165",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "40",
+                                    "row": "40",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "overflow": "hidden",
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Card",
+                                "width": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_direction": "row",
+                                "flex_align_items": "center"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3f2e3110",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-Service-809087895b36fc13c8368f95759840cb.png",
+                                            "id": 510,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3f12b45e",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "30",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Content Wrap",
+                                        "width": {
+                                            "unit": "px",
+                                            "size": 434,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "70406e5a",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_gap": {
+                                                    "column": "0",
+                                                    "row": "15",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Content"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "7b5a98d1",
+                                                    "settings": {
+                                                        "title": "Drain Cleaning & Repairs",
+                                                        "header_size": "h4",
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "4e5896b9",
+                                                    "settings": {
+                                                        "editor": "<p>In the new era of technology we look in the future with certainty and pride, that\u2019s why our theme looks so good whatever device.</p>",
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "af9f4d3",
+                                            "settings": {
+                                                "text": "Learn more about this",
+                                                "link": {
+                                                    "url": "/plumbiq/service-details/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "selected_icon": {
+                                                    "value": "elementor-icons eicon-arrow-right",
+                                                    "library": "elementor-icons"
+                                                },
+                                                "icon_align": "row-reverse",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_transform_translate_popover_hover": "transform",
+                                                "_transform_translateX_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "_transform_keep_proportions_hover": "",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=74f4057",
+                                                    "button_text_color": "globals/colors?id=accent",
+                                                    "hover_color": "globals/colors?id=498ac84"
+                                                }
+                                            },
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "12bcef20",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "70",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "135",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals/colors?id=d8a4adb"
+                },
+                "_title": "Pricing",
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "7c171338",
+                    "settings": {
+                        "title": "Choose A Plan That is Suitable for Your Requirements",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 684,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center",
+                        "_animation": "fadeInUp"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "15a29568",
+                    "settings": {
+                        "container_type": "grid",
+                        "flex_direction": "row",
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "32",
+                            "row": "62",
+                            "isLinked": false,
+                            "unit": "px"
+                        },
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Wrap",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid",
+                        "__globals__": {
+                            "background_color": "globals/colors?id=74f4057"
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "353c9013",
+                            "settings": {
+                                "content_width": "full",
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Card",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=9080378",
+                                    "border_color": "globals/colors?id=0a27206"
+                                },
+                                "overflow": "hidden",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "animation": "fadeInUp"
+                            },
+                            "elements": [
+                                {
+                                    "id": "729b716b",
+                                    "settings": {
+                                        "ma_el_pricing_table_layout": "four",
+                                        "ma_el_pricing_table_head_color_scheme": "custom",
+                                        "ma_el_pricing_table_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "ma_el_pricing_table_heading": "Visiting Call",
+                                        "ma_el_pricing_table_heading_tag": "h5",
+                                        "ma_el_pricing_table_sub_heading": "An expert will visit your home or office to explore & fix the plumbing issue.",
+                                        "ma_el_pricing_table_price": "$10",
+                                        "ma_el_pricing_table_period": "/hour",
+                                        "ma_el_pricing_table_features_list": [
+                                            {
+                                                "ma_el_pricing_table_item_text": "Trusted, certified technicians",
+                                                "_id": "099f71f",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                }
+                                            },
+                                            {
+                                                "ma_el_pricing_table_item_text": "Available 7 days a week",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                },
+                                                "_id": "5f7c402"
+                                            },
+                                            {
+                                                "ma_el_pricing_table_item_text": "Exceptional Service Guarantee",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                },
+                                                "_id": "695d287"
+                                            }
+                                        ],
+                                        "ma_el_pricing_table_button_text": "Book A Visiting",
+                                        "ma_el_pricing_table_footer_additional_info": "",
+                                        "ma_el_pricing_table_header_bg_color_background": "classic",
+                                        "ma_el_pricing_table_header_bg_color_color": "#FFFFFF00",
+                                        "ma_el_pricing_table_heading_pattern_bg_color_background": "classic",
+                                        "ma_el_pricing_table_header_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_header_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_heading_color": "#1681FF",
+                                        "ma_el_pricing_table_heading_typography_typography": "custom",
+                                        "ma_el_pricing_table_heading_typography_font_family": "Inter",
+                                        "ma_el_pricing_table_heading_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_font_size_tablet": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_font_weight": "600",
+                                        "ma_el_pricing_table_heading_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 28,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": 26,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_sub_heading_color": "#495460",
+                                        "ma_el_pricing_table_pricing_element_bg_color": "#FFFFFF00",
+                                        "ma_el_pricing_table_pricing_element_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_pricing_element_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_price_color": "#171A1F",
+                                        "ma_el_pricing_table_currency_size": {
+                                            "unit": "px",
+                                            "size": 40,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_currency_vertical_position": "middle",
+                                        "ma_el_pricing_table_fractional-part_size": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_fractional_part_vertical_position": "",
+                                        "ma_el_pricing_table_show_period": "",
+                                        "ma_el_pricing_table_period_color": "#171A1F",
+                                        "ma_el_pricing_table_period_typography_typography": "custom",
+                                        "ma_el_pricing_table_period_typography_font_family": "Roboto",
+                                        "ma_el_pricing_table_period_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_font_weight": "400",
+                                        "ma_el_pricing_table_period_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_ribbon_title": "Popular",
+                                        "__globals__": {
+                                            "ma_el_pricing_table_header_bg_color_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_heading_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_heading_typography_typography": "globals/typography?id=4542bc2",
+                                            "ma_el_pricing_table_sub_heading_color": "globals/colors?id=text",
+                                            "ma_el_pricing_table_sub_heading_typography_typography": "globals/typography?id=text",
+                                            "ma_el_pricing_table_price_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_price_typography_typography": "globals/typography?id=c860405",
+                                            "ma_el_pricing_table_pricing_element_bg_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_period_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_period_typography_typography": "globals/typography?id=20a12bd",
+                                            "ma_el_pricing_table_heading_pattern_bg_color_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_features_list_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_features_list_typography_typography": "globals/typography?id=63c54a3",
+                                            "ma_el_pricing_table_button_text_color": "globals/colors?id=9080378",
+                                            "ma_el_pricing_table_button_background_color_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_button_hover_color": "globals/colors?id=9080378",
+                                            "ma_el_pricing_table_button_hover_border_color": "globals/colors?id=498ac84",
+                                            "ma_el_pricing_table_button_border_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_button_background_hover_color": "globals/colors?id=498ac84"
+                                        },
+                                        "ma_el_pricing_table_currency_symbol": "",
+                                        "ma_el_pricing_table_features_list_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_features_list_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_divider_color": "",
+                                        "ma_el_pricing_table_divider_height": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_divider_width": {
+                                            "unit": "%",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_divider_gap": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_footer_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_footer_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_button_background_color_background": "classic",
+                                        "ma_el_pricing_table_button_border_border": "solid",
+                                        "ma_el_pricing_table_button_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_text_padding": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "20",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_button_background_hover_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-pricing-table",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "74c108db",
+                            "settings": {
+                                "content_width": "full",
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Card",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=9080378",
+                                    "border_color": "globals/colors?id=0a27206"
+                                },
+                                "overflow": "hidden",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "animation": "fadeInUp"
+                            },
+                            "elements": [
+                                {
+                                    "id": "430ff34",
+                                    "settings": {
+                                        "ma_el_pricing_table_layout": "four",
+                                        "ma_el_pricing_table_head_color_scheme": "custom",
+                                        "ma_el_pricing_table_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "ma_el_pricing_table_heading": "Emergency Fixing",
+                                        "ma_el_pricing_table_heading_tag": "h5",
+                                        "ma_el_pricing_table_sub_heading": "An expert will visit your home or office to explore & fix the plumbing issue.",
+                                        "ma_el_pricing_table_price": "$24",
+                                        "ma_el_pricing_table_period": "/hour",
+                                        "ma_el_pricing_table_features_list": [
+                                            {
+                                                "ma_el_pricing_table_item_text": "Trusted, certified technicians",
+                                                "_id": "099f71f",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                }
+                                            },
+                                            {
+                                                "ma_el_pricing_table_item_text": "Available 7 days a week",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                },
+                                                "_id": "5f7c402"
+                                            },
+                                            {
+                                                "ma_el_pricing_table_item_text": "Exceptional Service Guarantee",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                },
+                                                "_id": "695d287"
+                                            }
+                                        ],
+                                        "ma_el_pricing_table_button_text": "Book A Visiting",
+                                        "ma_el_pricing_table_footer_additional_info": "",
+                                        "ma_el_pricing_table_header_bg_color_background": "classic",
+                                        "ma_el_pricing_table_header_bg_color_color": "#FFFFFF00",
+                                        "ma_el_pricing_table_heading_pattern_bg_color_background": "classic",
+                                        "ma_el_pricing_table_header_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_header_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_heading_color": "#1681FF",
+                                        "ma_el_pricing_table_heading_typography_typography": "custom",
+                                        "ma_el_pricing_table_heading_typography_font_family": "Inter",
+                                        "ma_el_pricing_table_heading_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_font_size_tablet": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_font_weight": "600",
+                                        "ma_el_pricing_table_heading_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 28,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": 26,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_sub_heading_color": "#495460",
+                                        "ma_el_pricing_table_pricing_element_bg_color": "#FFFFFF00",
+                                        "ma_el_pricing_table_pricing_element_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_pricing_element_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_price_color": "#171A1F",
+                                        "ma_el_pricing_table_currency_size": {
+                                            "unit": "px",
+                                            "size": 40,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_currency_vertical_position": "middle",
+                                        "ma_el_pricing_table_fractional-part_size": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_fractional_part_vertical_position": "",
+                                        "ma_el_pricing_table_show_period": "",
+                                        "ma_el_pricing_table_period_color": "#171A1F",
+                                        "ma_el_pricing_table_period_typography_typography": "custom",
+                                        "ma_el_pricing_table_period_typography_font_family": "Roboto",
+                                        "ma_el_pricing_table_period_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_font_weight": "400",
+                                        "ma_el_pricing_table_period_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_ribbon_title": "Popular",
+                                        "__globals__": {
+                                            "ma_el_pricing_table_header_bg_color_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_heading_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_heading_typography_typography": "globals/typography?id=4542bc2",
+                                            "ma_el_pricing_table_sub_heading_color": "globals/colors?id=text",
+                                            "ma_el_pricing_table_sub_heading_typography_typography": "globals/typography?id=text",
+                                            "ma_el_pricing_table_price_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_price_typography_typography": "globals/typography?id=c860405",
+                                            "ma_el_pricing_table_pricing_element_bg_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_period_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_period_typography_typography": "globals/typography?id=20a12bd",
+                                            "ma_el_pricing_table_heading_pattern_bg_color_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_features_list_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_features_list_typography_typography": "globals/typography?id=63c54a3",
+                                            "ma_el_pricing_table_button_text_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_button_background_color_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_button_hover_color": "globals/colors?id=9080378",
+                                            "ma_el_pricing_table_button_hover_border_color": "globals/colors?id=498ac84",
+                                            "ma_el_pricing_table_button_border_color": "globals/colors?id=0a27206",
+                                            "ma_el_pricing_table_footer_bg_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_button_background_hover_color": "globals/colors?id=accent"
+                                        },
+                                        "ma_el_pricing_table_currency_symbol": "",
+                                        "ma_el_pricing_table_features_list_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_features_list_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_divider_color": "",
+                                        "ma_el_pricing_table_divider_height": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_divider_width": {
+                                            "unit": "%",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_divider_gap": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_footer_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_footer_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_button_background_color_background": "classic",
+                                        "ma_el_pricing_table_button_border_border": "solid",
+                                        "ma_el_pricing_table_button_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_text_padding": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "20",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_button_background_hover_background": "classic",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-pricing-table",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "257047f6",
+                            "settings": {
+                                "content_width": "full",
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Card",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=9080378",
+                                    "border_color": "globals/colors?id=0a27206"
+                                },
+                                "overflow": "hidden",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "animation": "fadeInUp"
+                            },
+                            "elements": [
+                                {
+                                    "id": "60e433b4",
+                                    "settings": {
+                                        "ma_el_pricing_table_layout": "four",
+                                        "ma_el_pricing_table_head_color_scheme": "custom",
+                                        "ma_el_pricing_table_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "ma_el_pricing_table_heading": "Exclusive Fixing",
+                                        "ma_el_pricing_table_heading_tag": "h5",
+                                        "ma_el_pricing_table_sub_heading": "An expert will visit your home or office to explore & fix the plumbing issue.",
+                                        "ma_el_pricing_table_price": "$80",
+                                        "ma_el_pricing_table_period": "/hour",
+                                        "ma_el_pricing_table_features_list": [
+                                            {
+                                                "ma_el_pricing_table_item_text": "Trusted, certified technicians",
+                                                "_id": "099f71f",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                }
+                                            },
+                                            {
+                                                "ma_el_pricing_table_item_text": "Available 7 days a week",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                },
+                                                "_id": "5f7c402"
+                                            },
+                                            {
+                                                "ma_el_pricing_table_item_text": "Exceptional Service Guarantee",
+                                                "ma_el_pricing_table_item_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "ma_el_pricing_table_item_icon_color": "globals/colors?id=accent"
+                                                },
+                                                "_id": "695d287"
+                                            }
+                                        ],
+                                        "ma_el_pricing_table_button_text": "Book A Visiting",
+                                        "ma_el_pricing_table_footer_additional_info": "",
+                                        "ma_el_pricing_table_header_bg_color_background": "classic",
+                                        "ma_el_pricing_table_header_bg_color_color": "#FFFFFF00",
+                                        "ma_el_pricing_table_heading_pattern_bg_color_background": "classic",
+                                        "ma_el_pricing_table_header_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_header_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_heading_color": "#1681FF",
+                                        "ma_el_pricing_table_heading_typography_typography": "custom",
+                                        "ma_el_pricing_table_heading_typography_font_family": "Inter",
+                                        "ma_el_pricing_table_heading_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_font_size_tablet": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_font_weight": "600",
+                                        "ma_el_pricing_table_heading_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 28,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": 26,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_heading_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_sub_heading_color": "#495460",
+                                        "ma_el_pricing_table_pricing_element_bg_color": "#FFFFFF00",
+                                        "ma_el_pricing_table_pricing_element_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_pricing_element_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_price_color": "#171A1F",
+                                        "ma_el_pricing_table_currency_size": {
+                                            "unit": "px",
+                                            "size": 40,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_currency_vertical_position": "middle",
+                                        "ma_el_pricing_table_fractional-part_size": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_fractional_part_vertical_position": "",
+                                        "ma_el_pricing_table_show_period": "",
+                                        "ma_el_pricing_table_period_color": "#171A1F",
+                                        "ma_el_pricing_table_period_typography_typography": "custom",
+                                        "ma_el_pricing_table_period_typography_font_family": "Roboto",
+                                        "ma_el_pricing_table_period_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_font_weight": "400",
+                                        "ma_el_pricing_table_period_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_period_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_ribbon_title": "Popular",
+                                        "__globals__": {
+                                            "ma_el_pricing_table_header_bg_color_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_heading_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_heading_typography_typography": "globals/typography?id=4542bc2",
+                                            "ma_el_pricing_table_sub_heading_color": "globals/colors?id=text",
+                                            "ma_el_pricing_table_sub_heading_typography_typography": "globals/typography?id=text",
+                                            "ma_el_pricing_table_price_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_price_typography_typography": "globals/typography?id=c860405",
+                                            "ma_el_pricing_table_pricing_element_bg_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_period_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_period_typography_typography": "globals/typography?id=20a12bd",
+                                            "ma_el_pricing_table_heading_pattern_bg_color_color": "globals/colors?id=accent",
+                                            "ma_el_pricing_table_features_list_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_features_list_typography_typography": "globals/typography?id=63c54a3",
+                                            "ma_el_pricing_table_button_text_color": "globals/colors?id=primary",
+                                            "ma_el_pricing_table_button_background_color_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_button_hover_color": "globals/colors?id=9080378",
+                                            "ma_el_pricing_table_button_hover_border_color": "globals/colors?id=498ac84",
+                                            "ma_el_pricing_table_button_border_color": "globals/colors?id=0a27206",
+                                            "ma_el_pricing_table_footer_bg_color": "globals/colors?id=74f4057",
+                                            "ma_el_pricing_table_button_background_hover_color": "globals/colors?id=accent"
+                                        },
+                                        "ma_el_pricing_table_currency_symbol": "",
+                                        "ma_el_pricing_table_features_list_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_features_list_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_divider_color": "",
+                                        "ma_el_pricing_table_divider_height": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_divider_width": {
+                                            "unit": "%",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_divider_gap": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_el_pricing_table_footer_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_footer_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_button_background_color_background": "classic",
+                                        "ma_el_pricing_table_button_border_border": "solid",
+                                        "ma_el_pricing_table_button_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_pricing_table_button_text_padding": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "20",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_pricing_table_button_background_hover_background": "classic",
+                                        "_animation": "none",
+                                        "_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-pricing-table",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "3eb79a4a",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "60",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "overflow": "hidden",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "20",
+                    "bottom": "134",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "FAQ"
+            },
+            "elements": [
+                {
+                    "id": "271ec897",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 958,
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "16",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Content"
+                    },
+                    "elements": [
+                        {
+                            "id": "18c7021b",
+                            "settings": {
+                                "title": "Frequently Asked Questions",
+                                "align": "center",
+                                "_animation": "fadeInUp"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "455c8bc7",
+                            "settings": {
+                                "editor": "<p>Get answers of your common questions about our plumbing services and policies. It\u2019s easy to get started.</p>",
+                                "align": "center",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 548,
+                                    "sizes": []
+                                },
+                                "_flex_align_self": "center",
+                                "_animation": "fadeInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "7d3dbb1a",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 728,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Questions"
+                    },
+                    "elements": [
+                        {
+                            "id": "53ac4593",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "What plumbing services do you offer?",
+                                        "_id": "4b89e22",
+                                        "accordion_tab_default_active": "yes",
+                                        "accordion_content": "<p>We offer a wide range of plumbing services, including installation, repair, maintenance, and replacement of plumbing fixtures, faucets, pipes, and water heaters.</p>"
+                                    },
+                                    {
+                                        "tab_title": "Are your plumbers licensed and insured?",
+                                        "accordion_tab_default_active": "",
+                                        "accordion_content": "<p>We offer a wide range of plumbing services, including installation, repair, maintenance, and replacement of plumbing fixtures, faucets, pipes, and water heaters.</p>",
+                                        "_id": "0173df8"
+                                    },
+                                    {
+                                        "tab_title": "Do you offer emergency plumbing services?",
+                                        "accordion_tab_default_active": "",
+                                        "accordion_content": "<p>We offer a wide range of plumbing services, including installation, repair, maintenance, and replacement of plumbing fixtures, faucets, pipes, and water heaters.</p>",
+                                        "_id": "089ba87"
+                                    },
+                                    {
+                                        "tab_title": "How much do your plumbing services cost?",
+                                        "accordion_tab_default_active": "",
+                                        "accordion_content": "<p>We offer a wide range of plumbing services, including installation, repair, maintenance, and replacement of plumbing fixtures, faucets, pipes, and water heaters.</p>",
+                                        "_id": "afe242c"
+                                    },
+                                    {
+                                        "tab_title": "How do I schedule a plumbing service appointment?",
+                                        "accordion_tab_default_active": "",
+                                        "accordion_content": "<p>We offer a wide range of plumbing services, including installation, repair, maintenance, and replacement of plumbing fixtures, faucets, pipes, and water heaters.</p>",
+                                        "_id": "17e512d"
+                                    }
+                                ],
+                                "active_icon": {
+                                    "value": "simple-line-icons icon-arrow-right",
+                                    "library": "simple-line-icons"
+                                },
+                                "toggle_icon": {
+                                    "value": "simple-line-icons icon-arrow-up",
+                                    "library": "simple-line-icons"
+                                },
+                                "accordion_items_spacing": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "accordion_items_border_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "tab_title_bg_color_background": "classic",
+                                "tab_title_border_border": "none",
+                                "jltma_accordion_border_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "jltma_accordion_box_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "16",
+                                    "bottom": "20",
+                                    "left": "16",
+                                    "isLinked": false
+                                },
+                                "tab_content_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "16",
+                                    "bottom": "20",
+                                    "left": "16",
+                                    "isLinked": false
+                                },
+                                "toggle_icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "tab_icon_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "toggle_icon_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "accordion_items_border_color": "globals/colors?id=0a27206",
+                                    "tab_title_text_color": "globals/colors?id=primary",
+                                    "tab_title_bg_color_color": "globals/colors?id=74f4057",
+                                    "tab_content_text_color": "globals/colors?id=text",
+                                    "tab_content_bg_color": "globals/colors?id=74f4057",
+                                    "tab_content_typography_typography": "globals/typography?id=text",
+                                    "toggle_icon_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "widgetType": "ma-advanced-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "614974ef",
+            "settings": {
+                "flex_direction": "column",
+                "width": {
+                    "unit": "%",
+                    "size": ""
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1532,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "",
+                    "row": "",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": null
+                },
+                "overflow": "hidden",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "ma_el_slider_delay": "5000",
+                "_flex_size": "none",
+                "_title": "CTA",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "_element_width": "initial",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "width_tablet": {
+                    "unit": "%",
+                    "size": "",
+                    "sizes": []
+                },
+                "width_mobile": {
+                    "unit": "%",
+                    "size": "",
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "70d41acb",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "overflow": "hidden",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-Service-a7ce2bebd89596720c1287b1c2cafc0d.png",
+                            "id": 138,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "ma_el_slider_delay": "5000",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "127",
+                            "right": "0",
+                            "bottom": "127",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_title": "Wrap",
+                        "__globals__": {
+                            "background_color": "globals/colors?id=accent"
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "127",
+                            "right": "20",
+                            "bottom": "127",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1532,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5d6a9ca9",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 974,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_flex_align_self": "center",
+                                "_title": "Content",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1cc20c1b",
+                                    "settings": {
+                                        "title": "Having a Plumbing Problem? We\u2019ll Fixed it Today!",
+                                        "header_size": "h1",
+                                        "align": "center",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=9080378"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4329d781",
+                                    "settings": {
+                                        "editor": "<p>Whereby is the super simple way to connect over. No apps, downloads, or long meeting links.</p>",
+                                        "align": "center",
+                                        "_element_width": "initial",
+                                        "_element_custom_width": {
+                                            "unit": "px",
+                                            "size": 388,
+                                            "sizes": []
+                                        },
+                                        "_flex_align_self": "center",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=9080378"
+                                        },
+                                        "_element_custom_width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "26f28c42",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_justify_content": "center",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "16",
+                                    "row": "24",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "animation": "fadeInUp",
+                                "_title": "Buttons"
+                            },
+                            "elements": [
+                                {
+                                    "id": "42d04ba",
+                                    "settings": {
+                                        "text": "Book A Visiting",
+                                        "link": {
+                                            "url": "/plumbiq/service/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals/colors?id=9080378",
+                                            "button_text_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5d049715",
+                                    "settings": {
+                                        "text": "Call us: +1 271 281 9795",
+                                        "link": {
+                                            "url": "/plumbiq/contact/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-call",
+                                            "library": "material-icons"
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals/colors?id=cdee8d1",
+                                            "button_text_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

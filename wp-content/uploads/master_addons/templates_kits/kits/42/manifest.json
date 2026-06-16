@@ -1,0 +1,893 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Culinary",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "restaurant",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/kit-default-kit.webp",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.webp",
+    "preview_url": "https://el.master-addons.com/culinary",
+    "created_date": "2026-05-20 03:48:23",
+    "last_updated": "2026-05-25 08:51:21",
+    "template_count": 9,
+    "export_date": "2026-05-25 08:54:53",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Culinary - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/culinary",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 997,
+            "name": "Blog Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Blog-Details.webp",
+            "source": "templates/Blog-Details.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/blog-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 999,
+            "name": "Blog",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Blog.webp",
+            "source": "templates/Blog.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/blog/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1001,
+            "name": "Contact",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Contact.webp",
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1003,
+            "name": "Book",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Book.webp",
+            "source": "templates/Book.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/book/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1005,
+            "name": "Menu",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Menu.webp",
+            "source": "templates/Menu.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/menu/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1007,
+            "name": "About",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/About.webp",
+            "source": "templates/About.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/about/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1009,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Home.webp",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1052,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Footer.webp",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1060,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/42/screenshots/Header.webp",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/culinary/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.6",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.9",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Mask-group-4.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-group-4.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 128256,
+            "dimensions": [
+                1071,
+                700
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 12176,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-2.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-2.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 19294,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-3.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-3.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 11050,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-4.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-4.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 9686,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-5.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-5.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 6006,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-6.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-6.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 7556,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-7.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-7.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 16284,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Menu-8.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Menu-8.webp",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 13572,
+            "dimensions": [
+                306,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-1.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 2107,
+            "dimensions": [
+                152,
+                25
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-2.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 1721,
+            "dimensions": [
+                118,
+                25
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-3.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 1628,
+            "dimensions": [
+                152,
+                25
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-4.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 2138,
+            "dimensions": [
+                191,
+                25
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-5.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 3363,
+            "dimensions": [
+                166,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-6.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-6.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 2790,
+            "dimensions": [
+                167,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-7.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-7.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 2503,
+            "dimensions": [
+                151,
+                31
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-8.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-8.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 1460,
+            "dimensions": [
+                138,
+                25
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-9.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-9.png",
+            "templates": [
+                {
+                    "source": "templates/Menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 2379,
+            "dimensions": [
+                158,
+                31
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 104688,
+            "dimensions": [
+                599,
+                566
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "video-overlay-bg.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-video-overlay-bg.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 182362,
+            "dimensions": [
+                1600,
+                690
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Information.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Information.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 49632,
+            "dimensions": [
+                555,
+                680
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Ellipse-19.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Ellipse-19.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10462,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image-1.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10437,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image-2.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11916,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Hero-bg.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Hero-bg.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 102532,
+            "dimensions": [
+                1600,
+                802
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Caterings.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Caterings.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44484,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Birthdays.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Birthdays.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 36404,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Weddings.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Weddings.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 31202,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Events.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Events.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 39052,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mid-shot-chef-holding-plate-with-pasta-making-ok-sign-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-mid-shot-chef-holding-plate-with-pasta-making-ok-sign-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 54628,
+            "dimensions": [
+                431,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 35678,
+            "dimensions": [
+                290,
+                333
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sadj-iron-pot-with-various-salads-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sadj-iron-pot-with-various-salads-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 37686,
+            "dimensions": [
+                290,
+                240
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "footer-logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-footer-logo.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4598,
+            "dimensions": [
+                207,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-group.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-group.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 64095,
+            "dimensions": [
+                194,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-group-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-group-1.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 73899,
+            "dimensions": [
+                194,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-group-2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-group-2.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 86417,
+            "dimensions": [
+                194,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-group-3.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-group-3.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 76092,
+            "dimensions": [
+                194,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "header-logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-header-logo.png",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4783,
+            "dimensions": [
+                207,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

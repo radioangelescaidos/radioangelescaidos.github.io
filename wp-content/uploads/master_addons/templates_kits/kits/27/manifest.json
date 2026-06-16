@@ -1,0 +1,452 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Finix",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "business",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/kit-default-kit.jpg",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.jpg",
+    "preview_url": "https://el.master-addons.com/finix",
+    "created_date": "2026-01-11 04:39:51",
+    "last_updated": "2026-02-01 06:20:46",
+    "template_count": 12,
+    "export_date": "2026-04-07 04:49:36",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Finix - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/finix",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 548,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Header.jpg",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 542,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Footer.jpg",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 530,
+            "name": "Terms & Conditions",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Terms-Conditions.jpg",
+            "source": "templates/Terms-Conditions.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/terms-conditions/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 518,
+            "name": "Refund Policy",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Refund-Policy.jpg",
+            "source": "templates/Refund-Policy.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/refund-policy/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 506,
+            "name": "Privacy Policy",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Privacy-Policy.jpg",
+            "source": "templates/Privacy-Policy.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/privacy-policy/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 494,
+            "name": "Pricing",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Pricing.jpg",
+            "source": "templates/Pricing.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/pricing/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 479,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Home.jpg",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 467,
+            "name": "Features",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Features.jpg",
+            "source": "templates/Features.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/features/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 455,
+            "name": "Contact",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Contact.jpg",
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 440,
+            "name": "Case Study Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Case-Study-Details.jpg",
+            "source": "templates/Case-Study-Details.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/case-study-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 427,
+            "name": "Case Studies",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/Case-Studies.jpg",
+            "source": "templates/Case-Studies.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/case-studies/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 418,
+            "name": "About Us",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/27/screenshots/About-Us.jpg",
+            "source": "templates/About-Us.json",
+            "preview_url": "https://el.master-addons.com/finix/template-kit/about-us/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.5",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Master Addons for Elementor Premium",
+            "version": "2.1.0",
+            "file": "master-addons-pro/master-addons.php",
+            "author": "Jewel Theme"
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.1",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Logo.png",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1686,
+            "dimensions": [
+                130,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Dashboard.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Dashboard.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 239541,
+            "dimensions": [
+                2100,
+                1313
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Scheduled-Transfers.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Scheduled-Transfers.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 98709,
+            "dimensions": [
+                1074,
+                980
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-Details.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Client-Details.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 14935,
+            "dimensions": [
+                378,
+                341
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-333.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-image-333.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                },
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 171595,
+            "dimensions": [
+                400,
+                234
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-334.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-image-334.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                },
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 131343,
+            "dimensions": [
+                400,
+                234
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-337.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-image-337.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 150965,
+            "dimensions": [
+                400,
+                234
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-338.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-image-338.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 105304,
+            "dimensions": [
+                400,
+                234
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image.webp",
+            "templates": [
+                {
+                    "source": "templates/About-Us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 37526,
+            "dimensions": [
+                435,
+                586
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-335.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-image-335.webp",
+            "templates": [
+                {
+                    "source": "templates/About-Us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 60498,
+            "dimensions": [
+                432,
+                536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,1117 @@
+{
+    "version": "0.4",
+    "template_id": 1072,
+    "title": "Product Details",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6a196bfb",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "column": "44",
+                    "row": "32",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 44
+                },
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "52",
+                    "right": "0",
+                    "bottom": "130",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Product Details"
+            },
+            "elements": [
+                {
+                    "id": "7d284635",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000",
+                        "animation": "fadeInUp",
+                        "animation_duration": "slow",
+                        "_title": "Image"
+                    },
+                    "elements": [
+                        {
+                            "id": "5df867cd",
+                            "settings": {
+                                "jltma_image_carousel_images": [
+                                    {
+                                        "id": 442,
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-43-Product-Details-b446c3646bc5bc18211fa9e6d672b7ab.webp"
+                                    },
+                                    {
+                                        "id": 441,
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-43-Product-Details-1eb5749d2a0fc31290a81e0c004f95e4.webp"
+                                    },
+                                    {
+                                        "id": 440,
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-43-Product-Details-d954b05676bbb501d9f9fc31ff8d1c86.webp"
+                                    }
+                                ],
+                                "jltma_image_carousel_image_size": "full",
+                                "enable_lightbox": "",
+                                "navigation": "dots",
+                                "dynamic_bullets": "yes",
+                                "hide_arrow_on_mobile": "",
+                                "nav_arrows_next_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "columns": "1",
+                                "slides_to_scroll": "1",
+                                "item_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "item_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "dots_color": "#93A2A3",
+                                "dots_nnx_position": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "dots_nny_position": {
+                                    "unit": "px",
+                                    "size": -53,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "custom_css": "selector figure.jltma-image-carousel-figure img {\n    width: 100%;\n    height: 554px;\n    object-position: center;\n    object-fit: fill;\n}\n\nselector .jltma-image-carousel-wrapper {\n    padding: 0 !important;\n    margin: 0 !important;\n}\n\nselector .jltma-arrows {\n    width: 98px !important;\n    height: 32px !important;\n    background: #FFFFFFB3;\n    backdrop-filter: blur(20px);\n    left: 50% !important\n    ;\n    transform: translateX(-50%);\n    border-radius: 50px;\n    align-items: center;\n    gap: 12px;\n    padding: 10px;\n}\n\nselector .jltma-arrows span {\n    width: 12px;\n    height: 12px;\n    border-radius: 999px;\n}\n\nselector .jltma-arrows span[aria-current=\"true\"]{\n    background-color: #fff !important;\n}",
+                                "__globals__": {
+                                    "dots_color": ""
+                                },
+                                "columns_laptop": "1",
+                                "columns_tablet": "1",
+                                "columns_mobile": "1",
+                                "slides_to_scroll_laptop": "1",
+                                "dots_nny_position_tablet": {
+                                    "unit": "px",
+                                    "size": -40,
+                                    "sizes": []
+                                },
+                                "dots_nny_position_mobile": {
+                                    "unit": "px",
+                                    "size": -40,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "ma-image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "2f3a427d",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "32",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Content"
+                    },
+                    "elements": [
+                        {
+                            "id": "55b95de1",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "8",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Title"
+                            },
+                            "elements": [
+                                {
+                                    "id": "61c08079",
+                                    "settings": {
+                                        "title": "Relaxed Fit Cotton Jean",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5e6c8e73",
+                                    "settings": {
+                                        "title": "$17.49",
+                                        "header_size": "div",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=ac94209",
+                                            "title_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "1d9e7d26",
+                            "settings": {
+                                "text": "Divider",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "color": "globals/colors?id=7eb93e5"
+                                }
+                            },
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "560c9fb0",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Buy Now"
+                            },
+                            "elements": [
+                                {
+                                    "id": "458cd7e3",
+                                    "settings": {
+                                        "editor": "<p><strong>Product Number:</strong> 5672-9013-4826<br /><strong>Category:</strong> Ring<br /><strong>Tags:</strong> Bracelet, Accessories</p>",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=65246f0"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5940410a",
+                                    "settings": {
+                                        "creative_button_effect": "jltma-creative-button--ujarak",
+                                        "ma_el_creative_button_alignment": "center",
+                                        "creative_button_text": "Buy Now",
+                                        "creative_alternative_button_text": "Buy Now",
+                                        "ma_el_creative_button_icon": {
+                                            "value": "fas fa-shopping-cart",
+                                            "library": "fa-solid"
+                                        },
+                                        "ma_el_creative_button_icon_indent": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "ma_el_creative_button_padding": {
+                                            "unit": "px",
+                                            "top": "14",
+                                            "right": "24",
+                                            "bottom": "14",
+                                            "left": "24",
+                                            "isLinked": false
+                                        },
+                                        "ma_el_creative_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "59",
+                                            "right": "59",
+                                            "bottom": "59",
+                                            "left": "59",
+                                            "isLinked": true
+                                        },
+                                        "ma_el_creative_button_icon_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "ma_el_creative_button_text_color": "globals/colors?id=primary",
+                                            "ma_el_creative_button_background_color": "globals/colors?id=accent",
+                                            "ma_el_creative_button_icon_color": "globals/colors?id=primary",
+                                            "ma_el_creative_button_typography_typography": "globals/typography?id=accent",
+                                            "ma_el_creative_button_hover_text_color": "globals/colors?id=primary",
+                                            "ma_el_creative_button_hover_background_color": "globals/colors?id=accent",
+                                            "ma_el_creative_button_hover_icon_color": "globals/colors?id=primary"
+                                        },
+                                        "ma_el_creative_button_icon_alignment": "left",
+                                        "ma_el_creative_button_width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "ma_el_creative_button_width_laptop": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_creative_button_width_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_creative_button_width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "ma-creative-buttons",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2392e3d2",
+                                    "settings": {
+                                        "icon_list": [
+                                            {
+                                                "text": "Secured checkout using Stripe",
+                                                "selected_icon": {
+                                                    "value": "simple-line-icons icon-lock",
+                                                    "library": "simple-line-icons"
+                                                },
+                                                "_id": "e5d7cdd"
+                                            }
+                                        ],
+                                        "icon_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "text_indent": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "icon_color": "globals/colors?id=text",
+                                            "icon_typography_typography": "globals/typography?id=text",
+                                            "text_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "icon-list",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "20ef05f7",
+                            "settings": {
+                                "text": "Divider",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "color": "globals/colors?id=7eb93e5"
+                                }
+                            },
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "55318154",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Description"
+                            },
+                            "elements": [
+                                {
+                                    "id": "26d2fead",
+                                    "settings": {
+                                        "title": "Description",
+                                        "header_size": "h5",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2aabdd",
+                                    "settings": {
+                                        "editor": "<p>Financial freedom is more than just a buzzword; it's a life-altering concept that can significantly improve your quality of life and provide you with the freedom to pursue your dreams. In this blog post, we will explore the importance of financial freedom and provide you with practical steps to take control of your finances and embark on the path to economic independence.</p><p>Here are some compelling reasons why financial freedom matters:</p><p><strong>1. Reduced Stress:</strong> Financial worries are a significant source of stress for many people. Achieving financial freedom can alleviate this stress and improve your overall well-being.</p><p><strong>2. Pursue Your Passions:</strong> When you're financially free, you have the flexibility to pursue your passions and hobbies without the constraints of a 9-to-5 job.</p><p><strong>3. Secure Retirement:</strong> Financial freedom allows you to build a secure retirement fund, ensuring you can enjoy your golden years without financial worries.</p><p><strong>4. Generational Wealth:</strong> It enables you to leave a legacy and provide for your family, ensuring a brighter future for generations to come.</p>",
+                                        "paragraph_spacing": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "a8cfc19",
+            "settings": {
+                "flex_gap": {
+                    "column": "0",
+                    "row": "63",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "114",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Related Products"
+            },
+            "elements": [
+                {
+                    "id": "37ddfd56",
+                    "settings": {
+                        "title": "Related Products",
+                        "header_size": "h3",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "4bd75ad4",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Product Lists",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "7e461315",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "29738fc",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3c05474a",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-43-Product-Details-5b9e7fb9bdc86d67d04e51be9b457e9d.png",
+                                                    "id": 866,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "44b5a741",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5ac37f2",
+                                            "settings": {
+                                                "title": "Relaxed Fit Cotton Jean",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "37af46e4",
+                                            "settings": {
+                                                "editor": "<p>High-quality bowls for long term use</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1f54481d",
+                                            "settings": {
+                                                "title": "$22.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "374eb21e",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "14af2be0",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative",
+                                        "_title": "Image"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7d58b805",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-43-Product-Details-2fef3146e44dbe4ed8b6518d484cf78d.webp",
+                                                    "id": 617,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5c317c86",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "width_laptop": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "min_height": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "background_background": "classic",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "10",
+                                                    "bottom": "2",
+                                                    "left": "10",
+                                                    "isLinked": false
+                                                },
+                                                "ma_el_position_type": "absolute",
+                                                "ma_el_position_top": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "ma_el_position_left": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "_title": "Tag",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=939175e"
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6a2edc2c",
+                                                    "settings": {
+                                                        "editor": "<p>NEW</p>",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals/typography?id=7684131",
+                                                            "text_color": "globals/colors?id=primary"
+                                                        }
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "585e1c7e",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "42d727e4",
+                                            "settings": {
+                                                "title": "Corduroy Jackets",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3620461b",
+                                            "settings": {
+                                                "editor": "<p>High-quality bowls for long term use</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1551d89d",
+                                            "settings": {
+                                                "title": "$39.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "22ecf927",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2db665d9",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7ebd6ccf",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-43-Product-Details-cd4f0477deed27f614216104411e421c.png",
+                                                    "id": 865,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "2b487316",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "37288194",
+                                            "settings": {
+                                                "title": "Solid Denim Jackets",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1f031fb4",
+                                            "settings": {
+                                                "editor": "<p>High-quality bowls for long term use</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6fd40f06",
+                                            "settings": {
+                                                "title": "$24.99",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "495fb7cc",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "434e4b66",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6ff00a1c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-43-Product-Details-e8b851ea1bf0293e34c20781dfff8b4b.webp",
+                                                    "id": 619,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "5c58efb3",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3fd17834",
+                                            "settings": {
+                                                "title": "Drawing Print shirt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "38c440be",
+                                            "settings": {
+                                                "editor": "<p>High-quality bowls for long term use</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1481ebd1",
+                                            "settings": {
+                                                "title": "$19.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

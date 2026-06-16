@@ -1,0 +1,368 @@
+{
+    "version": "0.4",
+    "template_id": 1003,
+    "title": "Book",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "3faa0c25",
+            "settings": {
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "_title": "Hero",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "ma_el_position_type": "relative"
+            },
+            "elements": [
+                {
+                    "id": "2910df68",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 576,
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "",
+                            "row": "",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": null
+                        },
+                        "overflow": "hidden",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "82",
+                            "right": "0",
+                            "bottom": "72",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_laptop": {
+                            "unit": "px",
+                            "top": "81",
+                            "right": "20",
+                            "bottom": "72",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "_title": "Content",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=secondary"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3ee30001",
+                            "settings": {
+                                "title": "Book A Table",
+                                "header_size": "h1",
+                                "align": "center",
+                                "_animation": "fadeInUp"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "369eef0b",
+                            "settings": {
+                                "editor": "<p>We consider all the drivers of change gives you the components you need to change to create a truly happens.<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=3a8ac67"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "6ef00ed1",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "350",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "ma_el_position_type": "relative",
+                        "_title": "Booking Form",
+                        "__globals__": {
+                            "background_color": ""
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "100",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "86",
+                            "left": "20",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2824d966",
+                            "settings": {
+                                "content_width": "full",
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "200",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ma_el_position_type": "absolute",
+                                "ma_el_position_top": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_title": "Overlay",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=secondary"
+                                },
+                                "min_height": {
+                                    "unit": "custom",
+                                    "size": "100%",
+                                    "sizes": []
+                                },
+                                "min_height_laptop": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "min_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "min_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "40107bb3",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "min_height": {
+                                            "unit": "custom",
+                                            "size": "100%",
+                                            "sizes": []
+                                        },
+                                        "min_height_laptop": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "min_height_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "min_height_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "ma_el_position_top": {
+                                            "unit": "px",
+                                            "size": 200,
+                                            "sizes": []
+                                        },
+                                        "_title": "Map"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7647441b",
+                                            "settings": {
+                                                "address": "London Eye, London, United Kingdom",
+                                                "_element_width": "initial",
+                                                "_element_custom_width": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "custom_css": "selector iframe {\n    height: 742px;\n}\n\n@media(max-width:993px){ \n    selector iframe {\n    height: 490px;\n}\n}"
+                                            },
+                                            "widgetType": "google_maps",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "26c8556f",
+                            "settings": {
+                                "boxed_width": {
+                                    "unit": "px",
+                                    "size": 797,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Form",
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 797,
+                                    "sizes": []
+                                },
+                                "background_background": "classic",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": true
+                                },
+                                "_flex_align_self": "center",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=d38fe51"
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "box_shadow_box_shadow_type": "yes",
+                                "box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 60,
+                                    "spread": 3,
+                                    "color": "rgba(0, 0, 0, 0.08)"
+                                },
+                                "animation": "fadeInUp",
+                                "ma_el_position_type_laptop": "relative",
+                                "ma_el_position_top": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "c2a3ca8",
+                                    "settings": {
+                                        "custom_css": "selector .form-row {\n   display: flex;\n   column-gap:22px;\n}\n\nselector .wpcf7-form input[type=\"submit\"] {\nwidth: 100%;\n}\n\nselector select {\n    border-color: #DBDFD0;\n    padding: 18px 24px;\n    border-radius: 12px;\n    background: transparent;\n    font-size: 16px;\n    line-height: 24px;\n    color: #2C2F24;\n    font-family: 'DM Sans';\n}\n\n@media (max-width: 425px) {\n   selector .form-row {\n        flex-direction: column;\n    }\n}",
+                                        "ma_cf7ainer_border_top": "",
+                                        "ma_cf7_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_cf7_title_typography_typography": "custom",
+                                        "ma_cf7_title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ma_cf7_title_typography_line_height": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ma_cf7_typography_label_typography": "globals\/typography?id=adb58b0",
+                                            "text_color_label": "globals\/colors?id=primary",
+                                            "ma_cf7_button_bg_color_normal_color": "globals\/colors?id=accent",
+                                            "ma_cf7_button_text_color_normal": "globals\/colors?id=d38fe51",
+                                            "ma_cf7_button_typography_typography": "globals\/typography?id=accent",
+                                            "ma_cf7_button_text_color_hover": "globals\/colors?id=d38fe51",
+                                            "ma_cf7_button_bg_color_hover_color": "globals\/colors?id=a0ee96a"
+                                        },
+                                        "ma_cf7_button_bg_color_normal_background": "classic",
+                                        "ma_cf7_button_bg_color_hover_background": "classic",
+                                        "ma_cf7_button_border_color_hover": "",
+                                        "ma_cf7_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        },
+                                        "ma_cf7_list": "732"
+                                    },
+                                    "widgetType": "ma-contact-form-7",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

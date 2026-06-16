@@ -1,0 +1,627 @@
+{
+    "version": "0.4",
+    "template_id": 351,
+    "title": "Terms & Privacy",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "a95a185",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "background_color": "#F2EDFB",
+                "ma_el_slider_delay": "5000",
+                "border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "49a5f49",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_align_items": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "14806ae",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Terms-Privacy-754c6773923268d3b5b1b5cad0ffc19c.jpg",
+                                        "id": 47
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b6ce51f",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "94f291e",
+                                    "settings": {
+                                        "title": "Terms & Privacy",
+                                        "header_size": "h1",
+                                        "align": "center",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Roboto",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 72,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "600",
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -2.5,
+                                            "sizes": []
+                                        },
+                                        "title_color": "#371A5B",
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "76c4460",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Terms-Privacy-6960349ae2275f8bea6cc844ac80b8cc.jpg",
+                                        "id": 49
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_orientation_v": "end",
+                                "size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "d7451b7",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "10",
+                    "bottom": "80",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "f9fb606",
+                    "settings": {
+                        "editor": "<p>The details included in a Terms and Conditions (T&amp;C) agreement can vary depending on the specific service or product being offered. However, here are some of the common elements you'll typically find in a T&amp;C for a subscription-based design agency:</p>",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 22,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 18,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "typography_letter_spacing_mobile": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#371A5B"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "2903420",
+                    "settings": {
+                        "title": "1. Introduction and Definitions:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "3fab736",
+                    "settings": {
+                        "editor": "<ul><li>This section outlines the basic information,\u00a0such as the date the agreement is established,\u00a0the parties involved (your agency and the user),\u00a0and any definitions of key terms used within the document.</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "e4a6096",
+                    "settings": {
+                        "title": "2. Use of the Service:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "0c90514",
+                    "settings": {
+                        "editor": "<ul><li>This section details the user's rights and limitations when using your subscription design service. It might specify:</li><li>Permitted uses of the designs created for the user.</li><li>Restrictions on using the platform or design services for illegal or unethical purposes.</li><li>User responsibility for providing accurate and complete information during the design request process.</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "f1f627a",
+                    "settings": {
+                        "title": "3. Subscription Plans and Fees:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5e9fa30",
+                    "settings": {
+                        "editor": "<ul><li>This section clarifies the details of your subscription plans, including:</li><li>Description of different subscription tiers and their features (number of design requests, project complexity, etc.).</li><li>Payment terms, including billing cycles, accepted payment methods, and any applicable taxes.</li><li>Information on automatic renewals and the process for cancellation.</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "1fa440a",
+                    "settings": {
+                        "title": "4. Intellectual Property:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "a5cb01c",
+                    "settings": {
+                        "editor": "<ul><li>This section outlines ownership rights of the designs created for the user. It typically states that:</li><li>You (the agency) retain ownership of the original design concepts and copyright.</li><li>The user receives a license to use the final designs for their specific purposes as outlined in the agreement.</li><li>Limitations on modifying or redistributing the designs without your permission.</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "b6bb4c1",
+                    "settings": {
+                        "title": "5. Disclaimers and Warranties:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "d11a658",
+                    "settings": {
+                        "editor": "<ul><li>This section outlines limitations on your liability. It might clarify that:</li><li>The service is provided \"as is\" and there are no guarantees of specific results.</li><li>You are not liable for any damages caused by the use of the designs by the user.</li><li>You are not responsible for any delays or disruptions in the service.</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "20b5ba0",
+                    "settings": {
+                        "title": "6. Dispute Resolution:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "0ffc7e8",
+                    "settings": {
+                        "editor": "<ul><li>This section outlines the process for resolving any disagreements between you and the user. It might specify:</li><li>The preferred method of resolving disputes (e.g., mediation, arbitration).</li><li>Governing law that applies to the agreement.</li><li>pen_spark\\</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "f27f69f",
+                    "settings": {
+                        "title": "7. Termination:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "3fa1873",
+                    "settings": {
+                        "editor": "<ul><li>This section outlines ownership rights of the designs created for the user. It typically states that:</li><li>You (the agency) retain ownership of the original design concepts and copyright.</li><li>The user receives a license to use the final designs for their specific purposes as outlined in the agreement.</li><li>Limitations on modifying or redistributing the designs without your permission.</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "0c2df58",
+                    "settings": {
+                        "title": "8. Entire Agreement and Amendments:",
+                        "header_size": "h3",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 28,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1.5,
+                            "sizes": []
+                        },
+                        "title_color": "#371A5B",
+                        "_z_index": 2
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "a39fb23",
+                    "settings": {
+                        "editor": "<ul><li>This section clarifies that the T&amp;C constitutes the entire agreement between you and the user, superseding any prior communications.</li><li>It also specifies the process for amending the terms and conditions in the future.</li></ul>",
+                        "align": "start",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -0.5,
+                            "sizes": []
+                        },
+                        "text_color": "#595E65"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

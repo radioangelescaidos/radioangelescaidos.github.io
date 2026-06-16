@@ -1,0 +1,601 @@
+{
+    "version": "0.4",
+    "template_id": 400,
+    "title": "Service Details",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "084dfce",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "background_color": "#000000",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "d913f3f",
+                    "settings": {
+                        "title": "Blockchain",
+                        "header_size": "span",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "title_color": "#998CFF"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "6c8853b",
+                    "settings": {
+                        "title": "Blockchain Development",
+                        "header_size": "h1",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Inter",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 64,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "typography_letter_spacing": {
+                            "unit": "px",
+                            "size": -1,
+                            "sizes": []
+                        },
+                        "title_color": "#FFFFFF"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "31aa954",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000",
+                        "margin": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "0",
+                            "bottom": "50",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "981a619",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Service-Details-bff1f011813e92eb69b17c468a90614b.webp",
+                                    "id": 417,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "40a93fe",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "616ab59",
+                            "settings": {
+                                "editor": "<p>Discuss the impact of blockchain on supply chain transparency, traceability, and efficiency, reducing fraud and enhancing trust. Investigate how artificial intelligence and blockchain technology can complement each other, driving innovation in various industries.</p>",
+                                "text_color": "#FFFFFF"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "c1da9d4",
+                            "settings": {
+                                "title": "Blockchain and Sustainable Development",
+                                "title_color": "#FFFFFF"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "a9ed407",
+                            "settings": {
+                                "editor": "<p>Explore how blockchain technology can contribute to sustainable development goals, environmental conservation, and responsible business practices. Blockchain in Healthcare: Investigate the applications of blockchain in healthcare, such as patient data management, drug traceability, and securing health records.</p>",
+                                "text_color": "#FFFFFF"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ee5873f",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Service-Details-30d0ae4e78e96b063bdde1c495b0f30e.webp",
+                                    "id": 418,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align": "start"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6624d84",
+                            "settings": {
+                                "editor": "<p>We continued our partnership with SoFi, allowing their members to access the world of crypto with exciting new features and benefits. Our CEO, Peter Smith, shared his thoughts on the migration process for these users, and looks forward at how this changes Blockchain.com\u2019s Community.</p><p>This information is provided for informational purposes only and is not intended to substitute for obtaining accounting, tax or financial advice from a professional advisor.</p><p>The purchase of crypto entails a risk. The value of crypto can fluctuate and capital involved in a crypto transaction is subject to market volatility and loss.</p><p>Digital currencies are not bank deposits, are not legal tender, and are not backed by the government. Blockchain.com\u2019s products and services are not subject to any governmental or government-backed deposit protection schemes. Legislative and regulatory changes or actions in any jurisdiction in which Blockchain.com\u2019s customers are located may adversely affect the use, transfer, exchange, and value of digital currencies.</p><p>Zeta is available to buy, sell, swap, trade, and hold in your Blockchain.com Account now. Find out all the information you need to know about the latest token added in this article.</p><p>You can also start earning daily bonuses with Zeta simply:</p><p>1. Buy or swap into Zeta within your Account<br />Unlock ZetaChain rewards. Buy or swap Zeta within your Blockchain.com account, seamlessly. Start now.</p><p>2. Unlock daily a bonus, right into your Account<br />Your Zeta holdings pay a bonus on a daily basis, right into your Blockchain.com Account. Proportional to your share of the total Zeta within the Blockchain.com platform.</p><p>Any reward rate referenced herein is not guaranteed and is subject to change in accordance with Passive Rewards terms of the Blockchain.com User Agreement. Digital currencies and the Passive Rewards Account in particular are not bank deposits, are not legal tender, and are not backed by the government. Blockchain.com\u2019s products and services are not subject to any governmental or government-backed deposit protection schemes. Legislative and regulatory changes or actions in any jurisdiction in which Blockchain.com\u2019s customers are located may adversely affect the use, transfer, exchange, and value of digital currencies.</p>",
+                                "text_color": "#FFFFFF"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "752aac8",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "background_color": "#000000",
+                "background_image": {
+                    "id": "31",
+                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-11-Service-Details-471d73d4d771758f07fe877ec97f5436.jpg"
+                },
+                "background_position": "bottom center",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#07060EB5",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "gradient_color_list": [
+                    {
+                        "ma_el_animated_gradient_color": "#00a6d8",
+                        "_id": "627e17d"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#b800c9",
+                        "_id": "2832998"
+                    },
+                    {
+                        "ma_el_animated_gradient_color": "#e57600",
+                        "_id": "24aabad"
+                    }
+                ],
+                "ma_el_slider_delay": "5000"
+            },
+            "elements": [
+                {
+                    "id": "2699924",
+                    "settings": {
+                        "width": {
+                            "unit": "%",
+                            "size": 22,
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "look": "line_icon",
+                        "text": "Divider",
+                        "icon": {
+                            "value": "fas fa-sun",
+                            "library": "fa-solid"
+                        },
+                        "icon_size": {
+                            "unit": "px",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "primary_color": "#B16BFF",
+                        "icon_spacing": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "rotate": {
+                            "unit": "deg",
+                            "size": -35,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "0",
+                            "bottom": "-148",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_display_conditions": [
+                            {
+                                "_id": "ed30d4c"
+                            }
+                        ],
+                        "jltma_element_tooltip_text": "This is Element Tooltip"
+                    },
+                    "widgetType": "divider",
+                    "elType": "widget"
+                },
+                {
+                    "id": "f947f88",
+                    "settings": {
+                        "background_color": "#000000",
+                        "background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "bottom right",
+                        "background_attachment": "scroll",
+                        "background_repeat": "no-repeat",
+                        "padding": {
+                            "unit": "px",
+                            "top": "148",
+                            "right": "0",
+                            "bottom": "148",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "96",
+                            "right": "0",
+                            "bottom": "96",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "z_index": 1,
+                        "custom_css": "selector{\n    backdrop-filter: blur(7px)\n}",
+                        "gradient_color_list": [
+                            {
+                                "ma_el_animated_gradient_color": "#00a6d8",
+                                "_id": "b1f4cd1"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#b800c9",
+                                "_id": "0652351"
+                            },
+                            {
+                                "ma_el_animated_gradient_color": "#e57600",
+                                "_id": "8dfe207"
+                            }
+                        ],
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "e8b679a",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "flex_align_items": "center",
+                                "_flex_align_self": "center",
+                                "gradient_color_list": [
+                                    {
+                                        "ma_el_animated_gradient_color": "#00a6d8",
+                                        "_id": "d301ba1"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#b800c9",
+                                        "_id": "004c5f5"
+                                    },
+                                    {
+                                        "ma_el_animated_gradient_color": "#e57600",
+                                        "_id": "3bb85b9"
+                                    }
+                                ],
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "c42b769",
+                                    "settings": {
+                                        "title": "Embrace the Future of Web3 and Blockchain",
+                                        "align": "center",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Hanken Grotesk",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 64,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "500",
+                                        "title_color": "#FFFFFF",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "e51adf2"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "typography_font_size_tablet": {
+                                            "unit": "px",
+                                            "size": 40,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 30,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5c1f82f",
+                                    "settings": {
+                                        "editor": "<p>Let's collaborate to shape a future where opportunities are limitless.</p>",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Hanken Grotesk",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "text_color": "#B6B3BD",
+                                        "jltma_display_conditions": [
+                                            {
+                                                "_id": "a5b9b30"
+                                            }
+                                        ],
+                                        "jltma_element_tooltip_text": "This is Element Tooltip",
+                                        "align": "center"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7040ce2",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_justify_content": "center",
+                                        "gradient_color_list": [
+                                            {
+                                                "ma_el_animated_gradient_color": "#00a6d8",
+                                                "_id": "2270ead"
+                                            },
+                                            {
+                                                "ma_el_animated_gradient_color": "#b800c9",
+                                                "_id": "2e5c8f3"
+                                            },
+                                            {
+                                                "ma_el_animated_gradient_color": "#e57600",
+                                                "_id": "f0744bf"
+                                            }
+                                        ],
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "592b037",
+                                            "settings": {
+                                                "text": "Get in touch",
+                                                "selected_icon": {
+                                                    "value": "jltma-feather-icon jltma-feather-icon-arrow-up-right",
+                                                    "library": "feather-icons"
+                                                },
+                                                "icon_align": "row-reverse",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Hanken Grotesk",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "500",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.20000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#FFFFFF",
+                                                "background_color": "#998CFF",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "20",
+                                                    "bottom": "14",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "jltma_display_conditions": [
+                                                    {
+                                                        "_id": "7e2bfef"
+                                                    }
+                                                ],
+                                                "jltma_element_tooltip_text": "This is Element Tooltip",
+                                                "hover_color": "#FFFFFF",
+                                                "button_background_hover_color": "#4C4C4DB8",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "hover_animation": "shrink",
+                                                "link": {
+                                                    "url": "/tokenaid/contact/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4ac72ab",
+                                            "settings": {
+                                                "text": "Learn more",
+                                                "icon_align": "row-reverse",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 8,
+                                                    "sizes": []
+                                                },
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Hanken Grotesk",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "500",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.20000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#FFFFFF",
+                                                "background_color": "#4C4C4DB8",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "20",
+                                                    "bottom": "14",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "jltma_display_conditions": [
+                                                    {
+                                                        "_id": "7e2bfef"
+                                                    }
+                                                ],
+                                                "jltma_element_tooltip_text": "This is Element Tooltip",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "border_color": "#858585",
+                                                "button_background_hover_color": "#998CFF",
+                                                "button_hover_border_color": "#FFFFFF",
+                                                "button_hover_transition_duration": {
+                                                    "unit": "s",
+                                                    "size": 0.29999999999999999,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "shrink",
+                                                "link": {
+                                                    "url": "/tokenaid/features/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

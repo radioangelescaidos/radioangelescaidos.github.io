@@ -1,0 +1,1019 @@
+{
+    "version": "0.4",
+    "template_id": 826,
+    "title": "About Us",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "57eecd45",
+            "settings": {
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "83",
+                    "right": "0",
+                    "bottom": "136",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "flex_gap_tablet": {
+                    "column": "0",
+                    "row": "40",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "83",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "41f578e4",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "16",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "122211fa",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Our Story",
+                                "jltma_gradient_heading_alignment": "left",
+                                "title_html_tag": "h1",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "jltma_gradient_heading_color": "globals/colors?id=primary",
+                                    "jltma_gradient_heading_second_color": "globals/colors?id=c427424"
+                                },
+                                "_animation": "slideInDown"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1d34e5a1",
+                            "settings": {
+                                "editor": "<div>We partner closely with the most progressive companies in the world to improve their customer support operations. As consumers, we all have our own version of that one call to customer support.</div><div>\u00a0</div><p>On the other end of the line are well-meaning, talented people doing their best with what they have: a tangled web of tribal knowledge, spreadsheets, and outdated systems. Our technology provides teams a way to balance efficiency and performance with a caring and empowering environment.</p>",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 656,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "750bef8f",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "flex_gap_tablet": {
+                            "column": "0",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "ma_el_position_type": "relative"
+                    },
+                    "elements": [
+                        {
+                            "id": "4c85b139",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "container_type": "grid",
+                                "grid_columns_grid": {
+                                    "unit": "fr",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "grid_rows_grid": {
+                                    "unit": "fr",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "grid_gaps": {
+                                    "column": "26",
+                                    "row": "26",
+                                    "isLinked": true,
+                                    "unit": "px"
+                                },
+                                "presetTitle": "Grid",
+                                "presetIcon": "eicon-container-grid"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4bad6cdd",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "317",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2970b9ac",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-00c53d62089c48c9dec62a3479b13446.png",
+                                                    "id": 365,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "73f1dccb",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "26",
+                                            "row": "26",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 26
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "229",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1b29ab00",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-6fcbfb79484f7d765c8bb7480d3ad9ea.png",
+                                                    "id": 366,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5ab517a9",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-c9edd68b349baa4151f8f340a46aaa38.png",
+                                                    "id": 367,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "3bb7ea8e",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_justify_content_tablet": "center",
+                                        "flex_gap": {
+                                            "column": "26",
+                                            "row": "26",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 26
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "133",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2f4402dd",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-294a484aac57b20dd3f5fad474683352.png",
+                                                    "id": 368,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "4696f85",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "26",
+                                            "row": "26",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 26
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "-133",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6b2bcf7c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-8b2c0deee500cab0a0144b5bb52b7970.png",
+                                                    "id": 373,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "f913ffa",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-2aabfe765ffa9585cb116480cf8e7c2f.png",
+                                                    "id": 369,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "10ad0718",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 497,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "30",
+                                    "row": "30",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "ma_el_position_type": "absolute",
+                                "ma_el_position_type_tablet": "relative",
+                                "ma_el_position_right": {
+                                    "unit": "px",
+                                    "size": 53,
+                                    "sizes": []
+                                },
+                                "ma_el_position_right_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "ma_el_position_bottom": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "ma_el_position_bottom_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1c06310",
+                                    "settings": {
+                                        "title": "Growing since 2020",
+                                        "header_size": "h4"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "76efbc86",
+                                    "settings": {
+                                        "editor": "<p>On the other end of the line are well-meaning, talented people doing their best with what they have: a tangled web of tribal knowledge, spreadsheets, and outdated systems. <br /><br />Our technology provides teams a way to balance efficiency and performance with a caring and empowering environment.</p>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "578ce3c1",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "106",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "106",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7a6d3559",
+                    "settings": {
+                        "flex_direction": "column",
+                        "container_type": "grid",
+                        "content_width": "full",
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 3,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "48",
+                            "row": "48",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "grid_gaps_tablet": {
+                            "column": "32",
+                            "row": "32",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "411cd7bb",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-0bdbe71681b5432c7cca2a2e6d548734.png",
+                                    "id": 383,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Dianne Russell",
+                                "ma_el_team_member_designation": "Account Manager, Supply Partnerships",
+                                "ma_el_team_member_description": "",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "686f240"
+                                    },
+                                    {
+                                        "_id": "e6d1a9e"
+                                    },
+                                    {
+                                        "_id": "45893b9"
+                                    },
+                                    {
+                                        "_id": "7268aa1"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_members_style_thumb_margin": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ma_el_title_color": "#0C1523",
+                                "ma_el_designation_color": "#3C4147",
+                                "designation_typography_typography": "custom",
+                                "designation_typography_font_family": "Inter",
+                                "designation_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "designation_typography_font_weight": "400",
+                                "designation_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.6000000000000001,
+                                    "sizes": []
+                                },
+                                "ma_el_team_member_social_icon_size": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ma_el_title_color": "globals/colors?id=primary",
+                                    "title_typography_typography": "globals/typography?id=3cfa98f",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=f61889b"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "abd6f8d",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-76f8af9a51a8a6e829a6417b7991bed6.png",
+                                    "id": 384,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Annette Black",
+                                "ma_el_team_member_designation": "Associate Product Writer",
+                                "ma_el_team_member_description": "",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "686f240"
+                                    },
+                                    {
+                                        "_id": "e6d1a9e"
+                                    },
+                                    {
+                                        "_id": "45893b9"
+                                    },
+                                    {
+                                        "_id": "7268aa1"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_members_style_thumb_margin": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ma_el_title_color": "globals/colors?id=primary",
+                                    "title_typography_typography": "globals/typography?id=3cfa98f",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=f61889b"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5cf46c9b",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-187c305aa83876ac8c8b60cf23ba8e04.png",
+                                    "id": 385,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Ralph Edwards",
+                                "ma_el_team_member_designation": "Recruiter",
+                                "ma_el_team_member_description": "",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "686f240"
+                                    },
+                                    {
+                                        "_id": "e6d1a9e"
+                                    },
+                                    {
+                                        "_id": "45893b9"
+                                    },
+                                    {
+                                        "_id": "7268aa1"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_members_style_thumb_margin": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ma_el_title_color": "globals/colors?id=primary",
+                                    "title_typography_typography": "globals/typography?id=3cfa98f",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=f61889b"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6e073528",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-09da7ebaf01b642ffa2fa99c544cc605.png",
+                                    "id": 386,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Jenny Wilson",
+                                "ma_el_team_member_designation": "Account Manager",
+                                "ma_el_team_member_description": "",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "686f240"
+                                    },
+                                    {
+                                        "_id": "e6d1a9e"
+                                    },
+                                    {
+                                        "_id": "45893b9"
+                                    },
+                                    {
+                                        "_id": "7268aa1"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_members_style_thumb_margin": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ma_el_title_color": "globals/colors?id=primary",
+                                    "title_typography_typography": "globals/typography?id=3cfa98f",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=f61889b"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6e0ef1ca",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-53aca500a76442ab2e99963874fcc632.png",
+                                    "id": 387,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Eleanor Pena",
+                                "ma_el_team_member_designation": "Technical Account Manager",
+                                "ma_el_team_member_description": "",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "686f240"
+                                    },
+                                    {
+                                        "_id": "e6d1a9e"
+                                    },
+                                    {
+                                        "_id": "45893b9"
+                                    },
+                                    {
+                                        "_id": "7268aa1"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_members_style_thumb_margin": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ma_el_title_color": "globals/colors?id=primary",
+                                    "title_typography_typography": "globals/typography?id=3cfa98f",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=f61889b"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3aee6a7c",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-22e9adf32e52971621eeaeca16f3e836.png",
+                                    "id": 388,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Jacob Jones",
+                                "ma_el_team_member_designation": "Pre-sales Manager",
+                                "ma_el_team_member_description": "",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "686f240"
+                                    },
+                                    {
+                                        "_id": "e6d1a9e"
+                                    },
+                                    {
+                                        "_id": "45893b9"
+                                    },
+                                    {
+                                        "_id": "7268aa1"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_members_style_thumb_margin": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ma_el_title_color": "globals/colors?id=primary",
+                                    "title_typography_typography": "globals/typography?id=3cfa98f",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=f61889b"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4649b30a",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-36-About-Us-907304316bbf995a6ceea0e24831ae51.png",
+                                    "id": 389,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Theresa Webb",
+                                "ma_el_team_member_designation": "VP of Marketing",
+                                "ma_el_team_member_description": "",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "686f240"
+                                    },
+                                    {
+                                        "_id": "e6d1a9e"
+                                    },
+                                    {
+                                        "_id": "45893b9"
+                                    },
+                                    {
+                                        "_id": "7268aa1"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_members_style_thumb_margin": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ma_el_title_color": "globals/colors?id=primary",
+                                    "title_typography_typography": "globals/typography?id=3cfa98f",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=f61889b"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": true
+        }
+    ]
+}

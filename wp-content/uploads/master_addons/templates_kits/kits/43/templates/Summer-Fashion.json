@@ -1,0 +1,1948 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta charset="UTF-8"></head><body><p>{
+    "version": "0.4",
+    "template_id": 1089,
+    "title": "Summer Fashion",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2ed30567",
+            "settings": {
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "94",
+                    "right": "0",
+                    "bottom": "78",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "Summer Fashion",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "78",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4f7a4cd2",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "16",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Title"
+                    },
+                    "elements": [
+                        {
+                            "id": "26e8efc1",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "custom",
+                                    "size": "max-content",
+                                    "sizes": []
+                                },
+                                "width_laptop": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_direction": "row",
+                                "flex_justify_content": "center",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "16",
+                                    "row": "16",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "flex_wrap": "nowrap",
+                                "ma_el_slider_delay": "5000",
+                                "_flex_align_self": "center",
+                                "_title": "Breadcrumb",
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [
+                                {
+                                    "id": "357dceb8",
+                                    "settings": {
+                                        "editor": "</p><p><a href="/wp-content/uploads/master_addons/templates_kits/kits/43/templates//sartivo/">Home</a></p>",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "typography_text_decoration": "none",
+                                        "typography_line_height": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.29999999999999999,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_mobile": {
+                                            "unit": "px",
+                                            "size": -0.10000000000000001,
+                                            "sizes": []
+                                        },
+                                        "link_color": "#5B6966",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=a2fc3d4",
+                                            "text_color": "",
+                                            "link_color": "globals/colors?id=text"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5902cf14",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward_ios",
+                                            "library": "material-icons"
+                                        },
+                                        "size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "custom_css": "selector .elementor-icon-wrapper {\n    height: 16px;\n}"
+                                    },
+                                    "widgetType": "icon",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "19b53a96",
+                                    "settings": {
+                                        "title": "Summer Fashion",
+                                        "header_size": "h6",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "600",
+                                        "typography_text_decoration": "none",
+                                        "typography_line_height": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": 28,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.29999999999999999,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_tablet": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_mobile": {
+                                            "unit": "px",
+                                            "size": -0.10000000000000001,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "typography_typography": ""
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "4c15e965",
+                            "settings": {
+                                "title": "Summer Fashion",
+                                "align": "center",
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__dynamic__": []
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "60a5b9ed",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Product Lists",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "62bacaaf",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3e1da7e2",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3428e846",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-3c6abf95aa0ea7a433652ab400d30f94.jpg",
+                                                    "id": 966,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "3894bcfa",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4a2d33b5",
+                                            "settings": {
+                                                "title": "Alpine Fleece Pullover",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7dfb5d99",
+                                            "settings": {
+                                                "editor": "<p>Warm fleece sweatshirt made for daily wear.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "e798d73",
+                                            "settings": {
+                                                "title": "$65.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "10c1f6b0",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "701c6d2",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "66986f65",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-250487710b7f2f388974b744049ca6fa.jpg",
+                                                    "id": 963,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "14274cea",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1f36011c",
+                                            "settings": {
+                                                "title": "CozyBlend Crewneck",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "151bcc49",
+                                            "settings": {
+                                                "editor": "<p>Soft cotton sweatshirt built for lasting use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2f5308a3",
+                                            "settings": {
+                                                "title": "$55.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "b300fc9",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "642c5e3d",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1a5f423",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-5d755509dc2bb5a91217146edde95669.jpg",
+                                                    "id": 964,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "538892db",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "e144e10",
+                                            "settings": {
+                                                "title": "Heritage Warm Sweatshirt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6e917700",
+                                            "settings": {
+                                                "editor": "<p>Durable crewneck sweatshirt with timeless style.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7be95d7b",
+                                            "settings": {
+                                                "title": "$79.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "156c265b",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4b06697b",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3fa2f9f3",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-df509227d7aaa4ed3feadde5afd0712f.jpg",
+                                                    "id": 962,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "431f5e49",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "width_laptop": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "min_height": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "background_background": "classic",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "10",
+                                                    "bottom": "2",
+                                                    "left": "10",
+                                                    "isLinked": false
+                                                },
+                                                "ma_el_position_type": "absolute",
+                                                "ma_el_position_top": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "ma_el_position_left": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "_title": "Tag",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=939175e"
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "48fe8163",
+                                                    "settings": {
+                                                        "editor": "<p>NEW</p>",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals/typography?id=7684131",
+                                                            "text_color": "globals/colors?id=primary"
+                                                        }
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "48aa7234",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "45b1db1c",
+                                            "settings": {
+                                                "title": "Urban Fit Pullover",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "50caf394",
+                                            "settings": {
+                                                "editor": "<p>Premium casual sweatshirt for everyday comfort.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "18a627d9",
+                                            "settings": {
+                                                "title": "$45.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "33264b29",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1148041b",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "507af661",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-34e23825c572682d11acc44c142aee68.jpg",
+                                                    "id": 961,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "51237537",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "592c5e35",
+                                            "settings": {
+                                                "title": "Classic Comfort Sweatshirt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5d05652c",
+                                            "settings": {
+                                                "editor": "<p>Premium metal-frame eyewear with timeless style.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6b4a1811",
+                                            "settings": {
+                                                "title": "$39.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "62a746e1",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "457fc130",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "54072e5c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-339e8ef93a586243f37d3935c5526a4f.jpg",
+                                                    "id": 965,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "41a926d7",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "373c6383",
+                                            "settings": {
+                                                "title": "Essential Layer Sweatshirt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "466f55c2",
+                                            "settings": {
+                                                "editor": "<p>Lightweight sweatshirt designed for all-day comfort.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "43de0102",
+                                            "settings": {
+                                                "title": "$89.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "16f95a4c",
+            "settings": {
+                "flex_gap": {
+                    "column": "0",
+                    "row": "53",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Best Sellers"
+            },
+            "elements": [
+                {
+                    "id": "3f52cdc1",
+                    "settings": {
+                        "title": "Best Sellers",
+                        "header_size": "h3",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "60493fd4",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Product Lists",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "3e3078b5",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4a37bdad",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4e932b7",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-2a130654d4c8bc8c53d1079e462f6d78.jpg",
+                                                    "id": 939,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "73e71d58",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "width_laptop": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "min_height": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "background_background": "classic",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "10",
+                                                    "bottom": "2",
+                                                    "left": "10",
+                                                    "isLinked": false
+                                                },
+                                                "ma_el_position_type": "absolute",
+                                                "ma_el_position_top": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "ma_el_position_left": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "_title": "Tag",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=939175e"
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "5d16b2ae",
+                                                    "settings": {
+                                                        "editor": "<p>NEW</p>",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals/typography?id=7684131",
+                                                            "text_color": "globals/colors?id=primary"
+                                                        }
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "793d31e3",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "972503",
+                                            "settings": {
+                                                "title": "Classic Black Shades",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "63f9a9a5",
+                                            "settings": {
+                                                "editor": "<p>High-quality sunglasses for long-term daily use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "32a3042",
+                                            "settings": {
+                                                "title": "$49.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "6e8aab61",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "714b3ee4",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7ff2227",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-5b9e7fb9bdc86d67d04e51be9b457e9d.png",
+                                                    "id": 866,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "443c8439",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1b279fd4",
+                                            "settings": {
+                                                "title": "Fleece Hoodie Jacket",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "105c7f5a",
+                                            "settings": {
+                                                "editor": "<p>High-quality hoodie for long-term daily use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2f0f138d",
+                                            "settings": {
+                                                "title": "$45.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "25e1be09",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2339a6b0",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative",
+                                        "_title": "Image"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "8267f1a",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-bca5cf6d1d99be59302f358b47284461.webp",
+                                                    "id": 697,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "22bf03b8",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "width_laptop": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "background_background": "classic",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "12",
+                                                    "bottom": "8",
+                                                    "left": "12",
+                                                    "isLinked": false
+                                                },
+                                                "ma_el_position_type": "absolute",
+                                                "ma_el_position_top": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "_title": "Tag",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=accent"
+                                                },
+                                                "ma_el_position_right": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "3ecadc59",
+                                                    "settings": {
+                                                        "editor": "<p>Sale</p>",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals/typography?id=7684131",
+                                                            "text_color": "globals/colors?id=primary"
+                                                        }
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "14656bed",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5350f62b",
+                                            "settings": {
+                                                "title": "Corduroy Jackets",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "34207989",
+                                            "settings": {
+                                                "editor": "<p>High-quality bowls for long term use</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "209b0166",
+                                            "settings": {
+                                                "title": "$39.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "122330d7",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "f1ed0f5",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "609470c0",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Summer-Fashion-8cd8d64d7efae2776dfea77c9cfbcc7e.jpg",
+                                                    "id": 1015,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "5b80527f",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5acd05ed",
+                                            "settings": {
+                                                "title": "Premium Leather Belt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "640f8a26",
+                                            "settings": {
+                                                "editor": "<p>High-quality belt for long-term durable use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1e608a3b",
+                                            "settings": {
+                                                "title": "$79.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}</body></html>

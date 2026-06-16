@@ -1,0 +1,493 @@
+{
+    "version": "0.4",
+    "template_id": 1239,
+    "title": "Book Demo",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "83b2256",
+            "settings": {
+                "width": {
+                    "unit": "px",
+                    "size": 658,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "100",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "127",
+                    "right": "0",
+                    "bottom": "127",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "Book Demo",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "20",
+                    "bottom": "120",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2f8634a7",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "px",
+                            "size": 658,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Content"
+                    },
+                    "elements": [
+                        {
+                            "id": "55961a1b",
+                            "settings": {
+                                "title": "Book A Free Demo",
+                                "header_size": "h1",
+                                "_animation": "slideInDown"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "941b604",
+                            "settings": {
+                                "editor": "<p>We partner closely with the most progressive companies in the world to improve their customer support operations.</p>",
+                                "__globals__": {
+                                    "typography_typography": "globals/typography?id=edc19cb"
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "23a4a910",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_justify_content": "space-between",
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Form Wrap",
+                        "flex_direction_tablet": "column",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "60",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "36ccda54",
+                            "settings": {
+                                "flex_direction": "column",
+                                "grid_columns_grid_tablet": {
+                                    "unit": "fr",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "grid_rows_grid": {
+                                    "unit": "fr",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "grid_gaps": {
+                                    "column": "80",
+                                    "row": "0",
+                                    "isLinked": false,
+                                    "unit": "px"
+                                },
+                                "grid_gaps_tablet": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": false,
+                                    "unit": "px"
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "animation": "fadeInUp",
+                                "_title": "Features",
+                                "presetTitle": "Container",
+                                "presetIcon": "eicon-container",
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 397,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "40",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "grid_columns_grid": {
+                                    "unit": "fr",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "648a92d2",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_justify_content_mobile": "center",
+                                        "flex_gap": {
+                                            "column": "20",
+                                            "row": "20",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 20
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Info"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "473e3d0f",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": {
+                                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-38-Book-Demo-82c8e6ac11737c0a32864dcb26701ffe.jpg",
+                                                        "id": 770
+                                                    },
+                                                    "library": "svg"
+                                                },
+                                                "align": "start",
+                                                "align_mobile": "start",
+                                                "size": {
+                                                    "unit": "px",
+                                                    "size": 45,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "icon",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "469b913",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Contebt"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "5407002",
+                                                    "settings": {
+                                                        "editor": "<p>A dynamic array of layouts that empower you to create eye-catching websites.</p>",
+                                                        "align_mobile": "center"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "2097b26d",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_justify_content_mobile": "center",
+                                        "flex_gap": {
+                                            "column": "20",
+                                            "row": "20",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 20
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Info"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3260a8dd",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": {
+                                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-38-Book-Demo-08296f961c08bed364e1528fec9ce98c.jpg",
+                                                        "id": 769
+                                                    },
+                                                    "library": "svg"
+                                                },
+                                                "align": "start",
+                                                "size": {
+                                                    "unit": "px",
+                                                    "size": 45,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "icon",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "69445b37",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Contebt"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "57033adf",
+                                                    "settings": {
+                                                        "editor": "<p>A game-changing collection of App Snippets to showcase your software on-brand and in style.</p>",
+                                                        "align_mobile": "center"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "77a40b5e",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_justify_content_mobile": "center",
+                                        "flex_gap": {
+                                            "column": "20",
+                                            "row": "20",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 20
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Info"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "579e0b0c",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": {
+                                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-38-Book-Demo-0e161ec1d09b472b70f3dcec4f6cac93.jpg",
+                                                        "id": 768
+                                                    },
+                                                    "library": "svg"
+                                                },
+                                                "align": "start",
+                                                "size": {
+                                                    "unit": "px",
+                                                    "size": 45,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "icon",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "585cd054",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Contebt"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "1b9f2053",
+                                                    "settings": {
+                                                        "editor": "<p>Carefully crafted components that seamlessly adapt to your style changes.</p>",
+                                                        "align_mobile": "center"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "2f55d8d9",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 538,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Form",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "background_background": "classic",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "32",
+                                    "right": "32",
+                                    "bottom": "32",
+                                    "left": "32",
+                                    "isLinked": true
+                                },
+                                "animation": "fadeInUp",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=8614451"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2e67eb18",
+                                    "settings": {
+                                        "ma_cf7_list": "1031",
+                                        "ma_cf7ainer_border_top": "",
+                                        "ma_cf7_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_cf7_button_bg_color_normal_background": "classic",
+                                        "ma_cf7_button_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ma_cf7_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "text_color_label": "globals/colors?id=primary",
+                                            "ma_cf7_typography_label_typography": "globals/typography?id=6249b22",
+                                            "ma_cf7_button_border_color_normal": "globals/colors?id=primary",
+                                            "ma_cf7_button_text_color_hover": "globals/colors?id=1205092",
+                                            "ma_cf7_button_border_color_hover": "globals/colors?id=67b79cd",
+                                            "ma_cf7_button_typography_typography": "globals/typography?id=5e61a5e",
+                                            "ma_cf7_button_bg_color_normal_color": "globals/colors?id=primary",
+                                            "ma_cf7_field_bg": "globals/colors?id=1205092",
+                                            "ma_cf7_field_text_color": "globals/colors?id=text",
+                                            "field_border_color": "globals/colors?id=c604394"
+                                        },
+                                        "ma_cf7_field_padding": {
+                                            "unit": "px",
+                                            "top": "14",
+                                            "right": "18",
+                                            "bottom": "14",
+                                            "left": "18",
+                                            "isLinked": false,
+                                            "size": 15
+                                        },
+                                        "field_border_border": "solid",
+                                        "field_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ma_cf7_field_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "ma-contact-form-7",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

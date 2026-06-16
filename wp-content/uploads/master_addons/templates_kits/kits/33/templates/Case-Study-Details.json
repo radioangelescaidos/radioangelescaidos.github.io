@@ -1,0 +1,431 @@
+{
+    "version": "0.4",
+    "template_id": 632,
+    "title": "Case Study Details",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6b5c3c9",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7eac3d51",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 70,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "3c1c10a6",
+                            "settings": {
+                                "title": "June 2023",
+                                "header_size": "span",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals/colors?id=e17d178"
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "119e838d",
+                            "settings": {
+                                "title": "Plamax sees over 300% ROI on Drift.",
+                                "header_size": "h1",
+                                "align": "center"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "29e109d0",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-Case-Study-Details-7a74c4ff2e642bbf8a096c9449831cda.webp",
+                                    "id": 275,
+                                    "size": "",
+                                    "alt": "Plamax sees over 300% ROI on",
+                                    "source": "library"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1ad16c50",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1045d4e0",
+                                    "settings": {
+                                        "title": "Introduction",
+                                        "header_size": "h5"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3bea78aa",
+                                    "settings": {
+                                        "editor": "<p>Our primary objective is to enhance the AI\u2019s ability to comprehend complex queries and provide accurate and contextually relevant responses. We aim to equip it with the capability to reason, analyze, and synthesize information from diverse sources, enabling users to tap into a vast pool of knowledge effortlessly.<br /><br />As a Customer Support Specialist, we expect you to be up-to-date with the latest digital technologies and social media trends. You should have excellent communication skills and be able to assist our customers in a fast, efficient and professional manner. If you enjoy fixing issues and helping improve the overall customer experience, this job is for you<br /><br /></p><ul role=\"list\"><li>Real-time messaging and file sharing for team communication and collaboration.</li><li>Organize tasks into boards, lists, and cards for visual project tracking.</li><li>Connects various apps to automate repetitive tasks and data transfers.</li></ul>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "45887e69",
+                                    "settings": {
+                                        "title": "Challenge",
+                                        "header_size": "h5"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1f55f066",
+                                    "settings": {
+                                        "editor": "<p>If you are running ads to your Shopify store, between 40-60% of purchases will no longer display in Facebook ads manager. This means for every 10 sales you generate, roughly only 5 of them will track back to the ad they came from. The other 5 sales are not reported at all inside your ads manager. Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.<br /><br />Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway</p>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "30024559",
+                                    "settings": {
+                                        "title": "Challenge",
+                                        "header_size": "h5"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "41ca4f01",
+                                    "settings": {
+                                        "editor": "<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.<br /><br /></p><ul><li>Sed blandit gravida arcu risus congue malesuada proin et lectus.</li><li>Egestas massa massa euismod dolor curabitur.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li></ul><p><br />Dolor sit amet, consectetur adipiscing elit. Sed blandit gravida arcu risus congue malesuada proin et lectus. Egestas massa massa euismod dolor curabitur.<br />Interdum eget amet tellus adipiscing nullam a. Eget fermentum viverra viverra mattis nisi viverra elementum.</p>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "2d339fd6",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "10",
+                    "bottom": "60",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4f5dc0e1",
+                    "settings": {
+                        "title": "Read more stories",
+                        "align": "start"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "230082a5",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "ma_el_slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4610b49b",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "15",
+                                    "row": "15",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7b08ad25",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-Case-Study-Details-509a1d7f69def9c76574c0ef3b379715.webp",
+                                            "id": 271,
+                                            "size": "",
+                                            "alt": "Waverio Reaches it\u2019s revenue goals faster with Davton.",
+                                            "source": "library"
+                                        },
+                                        "image_size": "full",
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2be7f81b",
+                                    "settings": {
+                                        "title": "June 2023",
+                                        "header_size": "span"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3c8253e",
+                                    "settings": {
+                                        "title": "Waverio Reaches it\u2019s revenue goals faster with Drift.",
+                                        "header_size": "h3"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1fee274a",
+                                    "settings": {
+                                        "text": "Read Full Story",
+                                        "link": {
+                                            "url": "https://el.master-addons.com/drift/case-study-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "fas fa-angle-right",
+                                            "library": "fa-solid"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "button_text_color": "globals/colors?id=0208af7",
+                                            "background_color": "globals/colors?id=a601d85"
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "3f2b0078",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "15",
+                                    "row": "15",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5867606",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-Case-Study-Details-1eb242a7682fc67d8f7942105e981a60.webp",
+                                            "id": 272,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_size": "full",
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "252b66d9",
+                                    "settings": {
+                                        "title": "June 2023",
+                                        "header_size": "span"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6e50e751",
+                                    "settings": {
+                                        "title": "Darlene closes 21% of her deal, thanks to Drift.",
+                                        "header_size": "h3"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "33ae10ff",
+                                    "settings": {
+                                        "text": "Read Full Story",
+                                        "link": {
+                                            "url": "https://el.master-addons.com/drift/case-study-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "fas fa-angle-right",
+                                            "library": "fa-solid"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "button_text_color": "globals/colors?id=0208af7",
+                                            "background_color": "globals/colors?id=a601d85"
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}
