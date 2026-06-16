@@ -1,0 +1,579 @@
+{
+    "version": "0.4",
+    "template_id": 1078,
+    "title": "Contact",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7fc9b6e0",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 680,
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "20",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Hero"
+            },
+            "elements": [
+                {
+                    "id": "eda199f",
+                    "settings": {
+                        "title": "Request A Free Call",
+                        "header_size": "h1",
+                        "align": "center",
+                        "_animation": "fadeInUp"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5a6a40b1",
+                    "settings": {
+                        "editor": "<p>Reliable, trustworthy, and affordable plumbing solutions for your home or business<\/p>",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 432,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center",
+                        "_animation": "fadeInUp"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "68dfb4f8",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "125",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Contact Form"
+            },
+            "elements": [
+                {
+                    "id": "573c7ee4",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "80",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 80
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Wrap",
+                        "flex_align_items": "flex-start",
+                        "flex_gap_tablet": {
+                            "column": "40",
+                            "row": "40",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 40
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "48b42c91",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 464,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "49",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "35",
+                                    "bottom": "48",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "_title": "Form Info",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=d8a4adb"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "46d2a1eb",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "28147bd0",
+                                            "settings": {
+                                                "title": "Contact details",
+                                                "header_size": "h4",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "65695754",
+                                            "settings": {
+                                                "editor": "<p>At risus viverra adipiscing at in tellus integer feugiat. Nisl pretium fusce id velit ut tortor.<\/p>",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "697bea7f",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "25",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "_title": "Info"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "513c54d5",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "row",
+                                                "flex_gap": {
+                                                    "column": "40",
+                                                    "row": "20",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 40
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Card",
+                                                "flex_wrap": "nowrap"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "5fd65f90",
+                                                    "settings": {
+                                                        "selected_icon": {
+                                                            "value": "im im-location",
+                                                            "library": "iconic-fonts"
+                                                        },
+                                                        "view": "stacked",
+                                                        "align": "start",
+                                                        "size": {
+                                                            "unit": "px",
+                                                            "size": 26,
+                                                            "sizes": []
+                                                        },
+                                                        "icon_padding": {
+                                                            "unit": "px",
+                                                            "size": 18,
+                                                            "sizes": []
+                                                        },
+                                                        "border_radius": {
+                                                            "unit": "px",
+                                                            "top": "999",
+                                                            "right": "999",
+                                                            "bottom": "999",
+                                                            "left": "999",
+                                                            "isLinked": true
+                                                        },
+                                                        "__globals__": {
+                                                            "primary_color": "globals\/colors?id=0a27206",
+                                                            "secondary_color": "globals\/colors?id=accent"
+                                                        },
+                                                        "size_tablet": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "icon",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "15a19a03",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_gap": {
+                                                            "column": "0",
+                                                            "row": "15",
+                                                            "isLinked": false,
+                                                            "unit": "px",
+                                                            "size": 0
+                                                        },
+                                                        "ma_el_slider_delay": "5000",
+                                                        "_title": "Content"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "3abc2a4d",
+                                                            "settings": {
+                                                                "title": "Visit our office",
+                                                                "header_size": "h6",
+                                                                "_animation": "fadeInUp"
+                                                            },
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "4d560537",
+                                                            "settings": {
+                                                                "editor": "<p>49W 70th St, 9000, 2A Flat Los Angeles, CA<\/p>",
+                                                                "_animation": "fadeInUp"
+                                                            },
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "4dad3c43",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "row",
+                                                "flex_gap": {
+                                                    "column": "40",
+                                                    "row": "20",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 40
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Card",
+                                                "flex_wrap": "nowrap"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "273685d2",
+                                                    "settings": {
+                                                        "selected_icon": {
+                                                            "value": "jltma-material-icon jltma-material-icon-email",
+                                                            "library": "material-icons"
+                                                        },
+                                                        "view": "stacked",
+                                                        "align": "start",
+                                                        "size": {
+                                                            "unit": "px",
+                                                            "size": 26,
+                                                            "sizes": []
+                                                        },
+                                                        "icon_padding": {
+                                                            "unit": "px",
+                                                            "size": 18,
+                                                            "sizes": []
+                                                        },
+                                                        "border_radius": {
+                                                            "unit": "px",
+                                                            "top": "999",
+                                                            "right": "999",
+                                                            "bottom": "999",
+                                                            "left": "999",
+                                                            "isLinked": true
+                                                        },
+                                                        "__globals__": {
+                                                            "primary_color": "globals\/colors?id=0a27206",
+                                                            "secondary_color": "globals\/colors?id=accent"
+                                                        },
+                                                        "size_tablet": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "icon",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "2fa1395a",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_gap": {
+                                                            "column": "0",
+                                                            "row": "15",
+                                                            "isLinked": false,
+                                                            "unit": "px",
+                                                            "size": 0
+                                                        },
+                                                        "ma_el_slider_delay": "5000",
+                                                        "_title": "Content"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "5fbb614a",
+                                                            "settings": {
+                                                                "title": "Send message",
+                                                                "header_size": "h6",
+                                                                "_animation": "fadeInUp"
+                                                            },
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "441351a9",
+                                                            "settings": {
+                                                                "editor": "<p>contact@plumby.com<\/p>",
+                                                                "_animation": "fadeInUp"
+                                                            },
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "7ba75bae",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "row",
+                                                "flex_gap": {
+                                                    "column": "40",
+                                                    "row": "20",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 40
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "_title": "Card",
+                                                "flex_wrap": "nowrap"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6290b39a",
+                                                    "settings": {
+                                                        "selected_icon": {
+                                                            "value": "jltma-material-icon jltma-material-icon-call",
+                                                            "library": "material-icons"
+                                                        },
+                                                        "view": "stacked",
+                                                        "align": "start",
+                                                        "size": {
+                                                            "unit": "px",
+                                                            "size": 26,
+                                                            "sizes": []
+                                                        },
+                                                        "icon_padding": {
+                                                            "unit": "px",
+                                                            "size": 18,
+                                                            "sizes": []
+                                                        },
+                                                        "border_radius": {
+                                                            "unit": "px",
+                                                            "top": "999",
+                                                            "right": "999",
+                                                            "bottom": "999",
+                                                            "left": "999",
+                                                            "isLinked": true
+                                                        },
+                                                        "__globals__": {
+                                                            "primary_color": "globals\/colors?id=0a27206",
+                                                            "secondary_color": "globals\/colors?id=accent"
+                                                        },
+                                                        "size_tablet": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "_animation": "fadeInUp"
+                                                    },
+                                                    "widgetType": "icon",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "2a72e416",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_gap": {
+                                                            "column": "0",
+                                                            "row": "15",
+                                                            "isLinked": false,
+                                                            "unit": "px",
+                                                            "size": 0
+                                                        },
+                                                        "ma_el_slider_delay": "5000",
+                                                        "_title": "Content"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "69a11778",
+                                                            "settings": {
+                                                                "title": "Call us",
+                                                                "header_size": "h6",
+                                                                "_animation": "fadeInUp"
+                                                            },
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "799a9662",
+                                                            "settings": {
+                                                                "editor": "<p>+1 234-231-2123<\/p>",
+                                                                "_animation": "fadeInUp"
+                                                            },
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "51dd19d0",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 752,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Form"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1e3bda8c",
+                                    "settings": {
+                                        "ma_cf7_list": "1045",
+                                        "ma_cf7ainer_border_top": "",
+                                        "ma_cf7_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "ma_cf7_button_bg_color_normal_background": "classic",
+                                        "ma_cf7_button_border_color_normal": "",
+                                        "ma_cf7_button_bg_color_hover_background": "classic",
+                                        "ma_cf7_button_border_color_hover": "",
+                                        "ma_cf7_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "8",
+                                            "right": "8",
+                                            "bottom": "8",
+                                            "left": "8",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "text_color_label": "globals\/colors?id=primary",
+                                            "ma_cf7_typography_label_typography": "globals\/typography?id=63c54a3",
+                                            "ma_cf7_button_bg_color_normal_color": "globals\/colors?id=accent",
+                                            "ma_cf7_button_typography_typography": "globals\/typography?id=accent",
+                                            "ma_cf7_button_text_color_normal": "globals\/colors?id=9080378",
+                                            "ma_cf7_button_text_color_hover": "globals\/colors?id=9080378",
+                                            "ma_cf7_button_bg_color_hover_color": "globals\/colors?id=498ac84"
+                                        },
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "widgetType": "ma-contact-form-7",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "version": "0.4",
+    "template_id": 932,
+    "title": "Single Post",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "1adff26e",
+            "settings": {
+                "ma_el_slider_delay": "5000",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "114",
+                    "right": "0",
+                    "bottom": "114",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "9d540b9",
+                    "settings": {
+                        "title": "Animi est numquam ipsa ut a ut\n",
+                        "__dynamic__": [],
+                        "header_size": "h1",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 70,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "586a132d",
+                    "settings": {
+                        "__dynamic__": {
+                            "editor": "[elementor-tag id=\"ff08f68\" name=\"jltma-post-date\" settings=\"%7B%7D\"]"
+                        },
+                        "align": "center",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "024",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "text_color": "globals/colors?id=text"
+                        }
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "66d025df",
+                    "settings": {
+                        "image_size": "full",
+                        "width": {
+                            "unit": "px",
+                            "size": 856,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "px",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "px",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "91",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__dynamic__": [],
+                        "image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-32-Single-Post-5c5c62ea83bb5a505c1e44ee69eb2eee.jpg",
+                            "id": 780,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        }
+                    },
+                    "widgetType": "image",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7ecff0bd",
+                    "settings": {
+                        "editor": "<h4>Introduction</h4><p>\u00a0</p><p>If you are running ads to your Shopify store, between 40-60% of purchases will no longer display in Facebook ads manager. This means for every 10 sales you generate, roughly only 5 of them will track back to the ad they came from. The other 5 sales are not reported at all inside your ads manager.</p><p>\u00a0</p><p>Quam interdum eget amet tellus adipiscing nullam a. Eget fermentum viverra viverra mattis nisi viverra elementum.</p><p>\u00a0</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li><li>Sed blandit gravida arcu risus congue malesuada proin et lectus.</li><li>Egestas massa massa euismod dolor curabitur.</li></ul><p>\u00a0</p><p>Dolor sit amet, consectetur adipiscing elit. Sed blandit gravida arcu risus congue malesuada proin et lectus. Egestas massa massa euismod dolor curabitur.</p><p>\u00a0</p><p>Interdum eget amet tellus adipiscing nullam a. Eget fermentum viverra viverra mattis nisi viverra elementum.</p><p>\u00a0</p><h4>How to get started</h4><p>\u00a0</p><p>If you are running ads to your Shopify store, between 40-60% of purchases will no longer display in Facebook ads manager. This means for every 10 sales you generate, roughly only 5 of them will track back to the ad they came from. The other 5 sales are not reported at all inside your ads manager.</p><p>\u00a0</p><p>Quam interdum eget amet tellus adipiscing nullam a. Eget fermentum viverra viverra mattis nisi viverra elementum.</p><p>\u00a0</p><ul role=\"list\"><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li><li>Sed blandit gravida arcu risus congue malesuada proin et lectus.</li><li>Egestas massa massa euismod dolor curabitur.</li></ul><p>\u00a0</p><p>Dolor sit amet, consectetur adipiscing elit. Sed blandit gravida arcu risus congue malesuada proin et lectus. Egestas massa massa euismod dolor curabitur.</p><p>Interdum eget amet tellus adipiscing nullam a. Eget fermentum viverra viverra mattis nisi viverra elementum.</p>",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "53",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 856,
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

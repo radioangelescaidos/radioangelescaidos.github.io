@@ -1,0 +1,813 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Drift",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "startup",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/kit-default-kit.png",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.png",
+    "preview_url": "https://el.master-addons.com/drift",
+    "created_date": "2026-02-04 04:57:20",
+    "last_updated": "2026-04-06 07:26:44",
+    "template_count": 21,
+    "export_date": "2026-04-07 04:50:53",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Drift - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/drift",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 465,
+            "name": "404",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/404.png",
+            "source": "templates/404.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/404/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 532,
+            "name": "Integration",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Integration.png",
+            "source": "templates/Integration.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/integration/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 537,
+            "name": "Integration Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Integration-Details.png",
+            "source": "templates/Integration-Details.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/integration-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 542,
+            "name": "Pricing",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Pricing.png",
+            "source": "templates/Pricing.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/pricing/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 547,
+            "name": "Privacy Policy",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Privacy-Policy.png",
+            "source": "templates/Privacy-Policy.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/privacy-policy/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 552,
+            "name": "Terms and Conditions",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Terms-and-Conditions.png",
+            "source": "templates/Terms-and-Conditions.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/terms-and-conditions/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 557,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Header.png",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 563,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Footer.png",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 569,
+            "name": "Short Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Short-Footer.png",
+            "source": "templates/Short-Footer.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/short-footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 527,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Home.png",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 522,
+            "name": "Features",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Features.png",
+            "source": "templates/Features.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/features/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 516,
+            "name": "Contact",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Contact.png",
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 470,
+            "name": "About",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/About.png",
+            "source": "templates/About.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/about/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 476,
+            "name": "Blog",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Blog.png",
+            "source": "templates/Blog.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/blog/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 482,
+            "name": "Blog Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Blog-Details.png",
+            "source": "templates/Blog-Details.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/blog-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 487,
+            "name": "Career",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Career.png",
+            "source": "templates/Career.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/career/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 492,
+            "name": "Career Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Career-Details.png",
+            "source": "templates/Career-Details.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/career-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 497,
+            "name": "Career Submit",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Career-Submit.png",
+            "source": "templates/Career-Submit.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/career-submit/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 502,
+            "name": "Case Study",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Case-Study.png",
+            "source": "templates/Case-Study.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/case-study/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 511,
+            "name": "Changelog",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Changelog.png",
+            "source": "templates/Changelog.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/changelog/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 632,
+            "name": "Case Study Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/33/screenshots/Case-Study-Details.png",
+            "source": "templates/Case-Study-Details.json",
+            "preview_url": "https://el.master-addons.com/drift/template-kit/case-study-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.5",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.1",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Original-Logo.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Original-Logo.webp",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates/Short-Footer.json",
+                    "name": "Short Footer"
+                }
+            ],
+            "filesize": 970,
+            "dimensions": [
+                131,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Gmail.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Gmail.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 50585,
+            "dimensions": [
+                975,
+                654
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-office-workspace-with-desk-and-compute.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-home-office-workspace-with-desk-and-compute.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 116306,
+            "dimensions": [
+                2500,
+                2610
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Home.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Home.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 112654,
+            "dimensions": [
+                783,
+                577
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Team-Report.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Team-Report.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 170638,
+            "dimensions": [
+                785,
+                618
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mobile-phone-with-data.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mobile-phone-with-data.webp",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 22656,
+            "dimensions": [
+                487,
+                614
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mobile-phone-with-data-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mobile-phone-with-data-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 21034,
+            "dimensions": [
+                487,
+                614
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "User-dashboard.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-User-dashboard.webp",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 17944,
+            "dimensions": [
+                487,
+                614
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Weve-been-helping-customer-globally.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Weve-been-helping-customer-globally.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 136120,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Revolutionize-your-business-with-Drift.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Revolutionize-your-business-with-Drift.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 165068,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "two-businessmen-give-and-take-us-dollar-banknote-u-2026-01-08-02-18-22-utc.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-two-businessmen-give-and-take-us-dollar-banknote-u-2026-01-08-02-18-22-utc.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 123316,
+            "dimensions": [
+                2500,
+                1250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "close-up-of-black-woman-paying-contactless-with-he-.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-close-up-of-black-woman-paying-contactless-with-he.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 75388,
+            "dimensions": [
+                2500,
+                1250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "saving-money-with-hand-putting-coins-in-jug-glass.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-saving-money-with-hand-putting-coins-in-jug-glass.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 72826,
+            "dimensions": [
+                2500,
+                1250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "business-people-phone-and-hands-for-group-network.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-business-people-phone-and-hands-for-group-network.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 57350,
+            "dimensions": [
+                2500,
+                1250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "top-view-hand-of-businessman-hold-light-bulb-with.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-top-view-hand-of-businessman-hold-light-bulb-with.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 85700,
+            "dimensions": [
+                2500,
+                1250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Career.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Career.webp",
+            "templates": [
+                {
+                    "source": "templates/Career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 146576,
+            "dimensions": [
+                3000,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Waverio-Reaches-its-revenue-goals-faster-with-Davton.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Waverio-Reaches-its-revenue-goals-faster-with-Davton.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates/Changelog.json",
+                    "name": "Changelog"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 118766,
+            "dimensions": [
+                2500,
+                1607
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Darlene-closes-21-of-her-deal-thanks-to-Drift.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Darlene-closes-21-of-her-deal-thanks-to-Drift.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates/Changelog.json",
+                    "name": "Changelog"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 69644,
+            "dimensions": [
+                2500,
+                1607
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Carbonia-Reaches-its-revenue-goals-faster.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Carbonia-Reaches-its-revenue-goals-faster.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 121118,
+            "dimensions": [
+                2500,
+                1607
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Alterbone-closes-32-more-deals.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Alterbone-closes-32-more-deals.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 112632,
+            "dimensions": [
+                1800,
+                1157
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Plamax-sees-over-300-ROI-on.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Plamax-sees-over-300-ROI-on.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates/Changelog.json",
+                    "name": "Changelog"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 127466,
+            "dimensions": [
+                1800,
+                1157
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Incantos-call-got-3x-in-just-couple-of-months.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Incantos-call-got-3x-in-just-couple-of-months.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 55036,
+            "dimensions": [
+                2500,
+                1607
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

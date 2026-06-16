@@ -1,0 +1,1286 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Sartivo",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "fashion",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/kit-default-kit.webp",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.webp",
+    "preview_url": "https://el.master-addons.com/sartivo",
+    "created_date": "2026-05-29 18:05:43",
+    "last_updated": "2026-06-07 11:36:27",
+    "template_count": 14,
+    "export_date": "2026-06-07 11:38:26",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Sartivo - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/sartivo",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 1062,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Home.webp",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1160,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Footer.webp",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1119,
+            "name": "404",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/404.webp",
+            "source": "templates/404.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/404/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1114,
+            "name": "Tips Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Tips-Details.webp",
+            "source": "templates/Tips-Details.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/tips-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1109,
+            "name": "Tips",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Tips.webp",
+            "source": "templates/Tips.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/tips/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1104,
+            "name": "Winter Clothes",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Winter-Clothes.webp",
+            "source": "templates/Winter-Clothes.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/winter-clothes/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1099,
+            "name": "Sweat Shirts",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Sweat-Shirts.webp",
+            "source": "templates/Sweat-Shirts.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/sweat-shirts/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1094,
+            "name": "Sunglasses",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Sunglasses.webp",
+            "source": "templates/Sunglasses.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/sunglasses/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1089,
+            "name": "Summer Fashion",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Summer-Fashion.webp",
+            "source": "templates/Summer-Fashion.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/summer-fashion/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1082,
+            "name": "New Arrivals",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/New-Arrivals.webp",
+            "source": "templates/New-Arrivals.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/new-arrivals/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1077,
+            "name": "Fashion Accessories",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Fashion-Accessories.webp",
+            "source": "templates/Fashion-Accessories.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/fashion-accessories/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1072,
+            "name": "Product Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Product-Details.webp",
+            "source": "templates/Product-Details.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/product-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1067,
+            "name": "Category",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Category.webp",
+            "source": "templates/Category.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/category/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1165,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/43/screenshots/Header.webp",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/sartivo/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "4.1.1",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "collection-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-collection-1.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 125559,
+            "dimensions": [
+                416,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "collection-2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-collection-2.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 32714,
+            "dimensions": [
+                416,
+                276
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "collection-3.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-collection-3.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 54769,
+            "dimensions": [
+                416,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 22464,
+            "dimensions": [
+                918,
+                1050
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-2.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-2.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Product-Details.json",
+                    "name": "Product Details"
+                },
+                {
+                    "source": "templates/Category.json",
+                    "name": "Category"
+                }
+            ],
+            "filesize": 10456,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-3.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-3.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Category.json",
+                    "name": "Category"
+                }
+            ],
+            "filesize": 17644,
+            "dimensions": [
+                918,
+                1050
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-4.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-4.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Product-Details.json",
+                    "name": "Product Details"
+                }
+            ],
+            "filesize": 10694,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-5.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-5.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13312,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-6.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-6.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 101556,
+            "dimensions": [
+                918,
+                1050
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-7.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-7.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8480,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-8.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-8.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19060,
+            "dimensions": [
+                918,
+                1050
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Hoodie.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Hoodie.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 52349,
+            "dimensions": [
+                378,
+                329
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sneakers.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Sneakers.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 49889,
+            "dimensions": [
+                378,
+                329
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Best-Sellers-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Best-Sellers-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 142790,
+            "dimensions": [
+                918,
+                1050
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Best-Sellers-2.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Best-Sellers-2.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                },
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                },
+                {
+                    "source": "templates/New-Arrivals.json",
+                    "name": "New Arrivals"
+                },
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 16970,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Best-Sellers-3.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Best-Sellers-3.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 24256,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Best-Sellers-4.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Best-Sellers-4.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Category.json",
+                    "name": "Category"
+                }
+            ],
+            "filesize": 47780,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Flashsale-Banner.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Flashsale-Banner.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 143336,
+            "dimensions": [
+                1296,
+                623
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-404.png",
+            "templates": [
+                {
+                    "source": "templates/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 10691,
+            "dimensions": [
+                713,
+                448
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Tips-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Tips-1.png",
+            "templates": [
+                {
+                    "source": "templates/Tips-Details.json",
+                    "name": "Tips Details"
+                }
+            ],
+            "filesize": 72447,
+            "dimensions": [
+                415,
+                285
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Winter-Clothes\u200b-1.avif",
+            "thumbnail_url": "https://el.master-addons.com/sartivo/wp-content/uploads/sites/43/2026/06/Winter-Clothes\u200b-1.avif",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                }
+            ],
+            "filesize": 14245,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-10.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-10.png",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                },
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                },
+                {
+                    "source": "templates/New-Arrivals.json",
+                    "name": "New Arrivals"
+                },
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                },
+                {
+                    "source": "templates/Product-Details.json",
+                    "name": "Product Details"
+                },
+                {
+                    "source": "templates/Category.json",
+                    "name": "Category"
+                }
+            ],
+            "filesize": 54591,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Product-9.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Product-9.png",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                },
+                {
+                    "source": "templates/Product-Details.json",
+                    "name": "Product Details"
+                }
+            ],
+            "filesize": 49797,
+            "dimensions": [
+                306,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Winter-Clothes\u200b-3.avif",
+            "thumbnail_url": "https://el.master-addons.com/sartivo/wp-content/uploads/sites/43/2026/06/Winter-Clothes\u200b-3.avif",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                }
+            ],
+            "filesize": 13466,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Winter-Clothes\u200b-4.avif",
+            "thumbnail_url": "https://el.master-addons.com/sartivo/wp-content/uploads/sites/43/2026/06/Winter-Clothes\u200b-4.avif",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                }
+            ],
+            "filesize": 16961,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Winter-Clothes\u200b-5.avif",
+            "thumbnail_url": "https://el.master-addons.com/sartivo/wp-content/uploads/sites/43/2026/06/Winter-Clothes\u200b-5.avif",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                }
+            ],
+            "filesize": 38207,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sweat-Shirts-4.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Sweat-Shirts-4.avif",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                },
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                },
+                {
+                    "source": "templates/New-Arrivals.json",
+                    "name": "New Arrivals"
+                },
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 10671,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-1.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-1.avif",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                },
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                },
+                {
+                    "source": "templates/New-Arrivals.json",
+                    "name": "New Arrivals"
+                },
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 12702,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Fashion-Accessories-3.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Fashion-Accessories-3.avif",
+            "templates": [
+                {
+                    "source": "templates/Winter-Clothes.json",
+                    "name": "Winter Clothes"
+                },
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                },
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 14824,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sweat-Shirts-1.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Sweat-Shirts-1.avif",
+            "templates": [
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                }
+            ],
+            "filesize": 11554,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sweat-Shirts-2.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Sweat-Shirts-2.avif",
+            "templates": [
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                }
+            ],
+            "filesize": 18712,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sweat-Shirts-3.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Sweat-Shirts-3.avif",
+            "templates": [
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                }
+            ],
+            "filesize": 9247,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sweat-Shirts-5.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Sweat-Shirts-5.avif",
+            "templates": [
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                }
+            ],
+            "filesize": 6790,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sweat-Shirts-6.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Sweat-Shirts-6.avif",
+            "templates": [
+                {
+                    "source": "templates/Sweat-Shirts.json",
+                    "name": "Sweat Shirts"
+                },
+                {
+                    "source": "templates/Summer-Fashion.json",
+                    "name": "Summer Fashion"
+                }
+            ],
+            "filesize": 11177,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-2.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-2.avif",
+            "templates": [
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 9114,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-3.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-3.avif",
+            "templates": [
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 11249,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-4.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-4.avif",
+            "templates": [
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 8714,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-5.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-5.avif",
+            "templates": [
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 15482,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-6.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-6.avif",
+            "templates": [
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 7184,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-7.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-7.avif",
+            "templates": [
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 12964,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses-8.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses-8.avif",
+            "templates": [
+                {
+                    "source": "templates/Sunglasses.json",
+                    "name": "Sunglasses"
+                }
+            ],
+            "filesize": 16511,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Fashion-Accessories-1.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Fashion-Accessories-1.avif",
+            "templates": [
+                {
+                    "source": "templates/New-Arrivals.json",
+                    "name": "New Arrivals"
+                },
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 26644,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Fashion-Accessories.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Fashion-Accessories.avif",
+            "templates": [
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                },
+                {
+                    "source": "templates/Category.json",
+                    "name": "Category"
+                }
+            ],
+            "filesize": 14189,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Fashion-Accessories-2.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Fashion-Accessories-2.avif",
+            "templates": [
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 27556,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Fashion-Accessories-4.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Fashion-Accessories-4.avif",
+            "templates": [
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 16375,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Fashion-Accessories-5.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Fashion-Accessories-5.avif",
+            "templates": [
+                {
+                    "source": "templates/Fashion-Accessories.json",
+                    "name": "Fashion Accessories"
+                }
+            ],
+            "filesize": 12701,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunglasses1.avif",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-sunglasses1.avif",
+            "templates": [
+                {
+                    "source": "templates/Category.json",
+                    "name": "Category"
+                }
+            ],
+            "filesize": 8176,
+            "dimensions": [
+                300,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo.png",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2633,
+            "dimensions": [
+                141,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

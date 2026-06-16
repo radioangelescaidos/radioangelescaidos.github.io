@@ -1,0 +1,873 @@
+{
+    "version": "0.4",
+    "template_id": 1157,
+    "title": "Footer",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "18aaa9cf",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "overflow": "hidden",
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "31",
+                    "right": "0",
+                    "bottom": "31",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "Ticker Wrap",
+                "__globals__": {
+                    "background_color": "globals/colors?id=cdee8d1"
+                },
+                "custom_css": "\nselector {\n    white-space: nowrap;\n}\n\nselector:hover div {\n     animation-play-state: paused;\n}",
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "ma_el_position_type": "relative",
+                "flex_align_items": "center"
+            },
+            "elements": [
+                {
+                    "id": "69161500",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "48",
+                            "row": "48",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 48
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 6,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "48",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px"
+                        },
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "custom_css": "selector {\n    display: inline-flex;\n    align-items: center;\n    will-change: transform;\n    animation: ticker 18s linear infinite;\n}\n\n@keyframes ticker {\n  0% {\n    transform: translateX(100%);\n  }\n  100% {\n    transform: translateX(-100%);\n  }\n}",
+                        "_title": "Ticker",
+                        "__globals__": {
+                            "background_color": ""
+                        },
+                        "presetTitle": "Container",
+                        "presetIcon": "eicon-container",
+                        "width_mobile": {
+                            "unit": "px",
+                            "size": 1500,
+                            "sizes": []
+                        },
+                        "width": {
+                            "unit": "px",
+                            "size": 2400,
+                            "sizes": []
+                        },
+                        "flex_direction": "row",
+                        "flex_wrap": "nowrap",
+                        "flex_gap_mobile": {
+                            "column": "24",
+                            "row": "24",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 24
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "70c7cc8f",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "48",
+                                    "row": "48",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 48
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "flex_gap_mobile": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "flex_wrap": "nowrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3c7a8a4f",
+                                    "settings": {
+                                        "title": "CALL US TODAY",
+                                        "_element_custom_width": {
+                                            "unit": "custom",
+                                            "size": "min-con",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "41c3643b",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "im im-drop",
+                                            "library": "iconic-fonts"
+                                        },
+                                        "size": {
+                                            "unit": "px",
+                                            "size": 26,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "primary_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "icon",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "36ad900e",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "flex_direction": "row",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "48",
+                                    "row": "48",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 48
+                                },
+                                "flex_gap_mobile": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "flex_wrap": "nowrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "34b50a92",
+                                    "settings": {
+                                        "title": "CALL US TODAY",
+                                        "_element_custom_width": {
+                                            "unit": "custom",
+                                            "size": "min-con",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "59ce16a7",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "im im-drop",
+                                            "library": "iconic-fonts"
+                                        },
+                                        "size": {
+                                            "unit": "px",
+                                            "size": 26,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "primary_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "icon",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "60d7ecc5",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "flex_direction": "row",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "48",
+                                    "row": "48",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 48
+                                },
+                                "flex_gap_mobile": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "flex_wrap": "nowrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2d64a699",
+                                    "settings": {
+                                        "title": "CALL US TODAY",
+                                        "_element_custom_width": {
+                                            "unit": "custom",
+                                            "size": "min-con",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "88eeb3e",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "im im-drop",
+                                            "library": "iconic-fonts"
+                                        },
+                                        "size": {
+                                            "unit": "px",
+                                            "size": 26,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "primary_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "icon",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "2f959842",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "flex_direction": "row",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "48",
+                                    "row": "48",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 48
+                                },
+                                "flex_gap_mobile": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "flex_wrap": "nowrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5cfd95b9",
+                                    "settings": {
+                                        "title": "CALL US TODAY",
+                                        "_element_custom_width": {
+                                            "unit": "custom",
+                                            "size": "min-con",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "788724d",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "im im-drop",
+                                            "library": "iconic-fonts"
+                                        },
+                                        "size": {
+                                            "unit": "px",
+                                            "size": 26,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "primary_color": "globals/colors?id=primary"
+                                        }
+                                    },
+                                    "widgetType": "icon",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "7ae5038b",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "flex_direction": "row",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "48",
+                                    "row": "48",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 48
+                                },
+                                "flex_gap_mobile": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "flex_wrap": "nowrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "479ac716",
+                                    "settings": {
+                                        "title": "CALL US TODAY",
+                                        "_element_custom_width": {
+                                            "unit": "custom",
+                                            "size": "min-con",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_tablet": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_element_custom_width_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "1042c9c8",
+            "settings": {
+                "flex_direction": "row",
+                "flex_direction_mobile": "column",
+                "flex_gap": {
+                    "column": "254",
+                    "row": "24",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 254
+                },
+                "flex_gap_tablet": {
+                    "column": "34",
+                    "row": "34",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 34
+                },
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "114",
+                    "right": "0",
+                    "bottom": "114",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "114",
+                    "right": "20",
+                    "bottom": "114",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Footer",
+                "__globals__": {
+                    "background_color": "globals/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "62686308",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 30,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "30",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Info"
+                    },
+                    "elements": [
+                        {
+                            "id": "11191596",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-Footer-ac2c7b9ec98e5daf19aa71596c264a77.png",
+                                    "id": 324,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start",
+                                "jltma_section_element_link": {
+                                    "url": "/plumbiq/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3a504012",
+                            "settings": {
+                                "editor": "<p>Use and re-use tons of responsive sections too a main create perfect layout. Sections are firmly done.</p>",
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=secondary"
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3ef4c617",
+                            "settings": {
+                                "editor": "<p>\u00a9 2026 Plumbiq. All rights reserved.</p>",
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=secondary"
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "7621f79e",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 70,
+                            "sizes": []
+                        },
+                        "flex_direction": "row",
+                        "flex_justify_content": "space-between",
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Menu"
+                    },
+                    "elements": [
+                        {
+                            "id": "6275be8c",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 180,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "43",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "e73e7",
+                                    "settings": {
+                                        "title": "Pages",
+                                        "header_size": "h6",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=9080378"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3fb03cf0",
+                                    "settings": {
+                                        "icon_list": [
+                                            {
+                                                "text": "About us",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "_id": "964dc10",
+                                                "link": {
+                                                    "url": "/plumbiq/about/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            {
+                                                "text": "Services",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "link": {
+                                                    "url": "/plumbiq/services/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "_id": "6235c77"
+                                            },
+                                            {
+                                                "text": "Contact",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "link": {
+                                                    "url": "/plumbiq/contact/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "_id": "3457902"
+                                            },
+                                            {
+                                                "text": "Blog",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "link": {
+                                                    "url": "/plumbiq/blog/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "_id": "9103eb8"
+                                            }
+                                        ],
+                                        "space_between": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "icon_typography_typography": "globals/typography?id=c4ffd3e",
+                                            "text_color": "globals/colors?id=9080378",
+                                            "text_color_hover": "globals/colors?id=498ac84"
+                                        }
+                                    },
+                                    "widgetType": "icon-list",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "71e067a5",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 250,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "43",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7492b4fc",
+                                    "settings": {
+                                        "title": "Company Info",
+                                        "header_size": "h6",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=9080378"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7484b2cc",
+                                    "settings": {
+                                        "icon_list": [
+                                            {
+                                                "text": "Call Us: +1 271 281 9795",
+                                                "selected_icon": {
+                                                    "value": "simple-line-icons icon-phone",
+                                                    "library": "simple-line-icons"
+                                                },
+                                                "_id": "964dc10"
+                                            },
+                                            {
+                                                "text": "info@plumbiq.com",
+                                                "selected_icon": {
+                                                    "value": "jltma-material-icon jltma-material-icon-email",
+                                                    "library": "material-icons"
+                                                },
+                                                "_id": "6235c77"
+                                            }
+                                        ],
+                                        "space_between": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "icon_size": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "text_indent": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "icon_typography_typography": "globals/typography?id=c4ffd3e",
+                                            "text_color": "globals/colors?id=9080378",
+                                            "text_color_hover": "globals/colors?id=498ac84",
+                                            "icon_color": "globals/colors?id=secondary"
+                                        }
+                                    },
+                                    "widgetType": "icon-list",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "7372d17a",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 250,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "43",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7e002fc1",
+                                    "settings": {
+                                        "title": "Location",
+                                        "header_size": "h6",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=9080378"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "540b7808",
+                                    "settings": {
+                                        "icon_list": [
+                                            {
+                                                "text": "425 1st Street, San Francisco, California, USA",
+                                                "selected_icon": {
+                                                    "value": "simple-line-icons icon-location-pin",
+                                                    "library": "simple-line-icons"
+                                                },
+                                                "_id": "964dc10"
+                                            },
+                                            {
+                                                "text": "Monday - Friday, 9am - 6pm; Sunday closed",
+                                                "selected_icon": {
+                                                    "value": "jltma-material-icon jltma-material-icon-access_time",
+                                                    "library": "material-icons"
+                                                },
+                                                "_id": "301d047"
+                                            }
+                                        ],
+                                        "space_between": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "icon_size": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "text_indent": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "icon_self_vertical_align": "flex-start",
+                                        "_animation": "fadeInUp",
+                                        "__globals__": {
+                                            "icon_typography_typography": "globals/typography?id=c4ffd3e",
+                                            "text_color": "globals/colors?id=9080378",
+                                            "text_color_hover": "globals/colors?id=498ac84",
+                                            "icon_color": "globals/colors?id=secondary"
+                                        }
+                                    },
+                                    "widgetType": "icon-list",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

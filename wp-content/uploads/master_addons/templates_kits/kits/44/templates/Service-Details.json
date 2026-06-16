@@ -1,0 +1,419 @@
+{
+    "version": "0.4",
+    "template_id": 924,
+    "title": "Service Details",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "680e0982",
+            "settings": {
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 604,
+                    "sizes": []
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "0",
+                    "bottom": "104",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Hero",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "20",
+                    "bottom": "88",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6a31c048",
+                    "settings": {
+                        "title": "Physiotherapy",
+                        "header_size": "h1",
+                        "align": "center",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "50a68933",
+                    "settings": {
+                        "editor": "<p>Our physiotherapy services are tailored to meet your individual needs, whether you're recovering from an injury, a chronic condition.</p>",
+                        "align": "center",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "232756fc",
+            "settings": {
+                "flex_direction": "row",
+                "flex_direction_tablet": "column",
+                "flex_align_items": "flex-start",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "130",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "130",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Service Details",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "32",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 24
+                }
+            },
+            "elements": [
+                {
+                    "id": "78ad7843",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "px",
+                            "size": 856,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "flex_gap_tablet": {
+                            "column": "32",
+                            "row": "32",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 32
+                        },
+                        "flex_gap_mobile": {
+                            "column": "",
+                            "row": "",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": null
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Details",
+                        "overflow": "hidden"
+                    },
+                    "elements": [
+                        {
+                            "id": "74b7374b",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-44-Service-Details-b4ea2c3799c0b88650d636b00452ceb3.webp",
+                                    "id": 310,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeIn",
+                                "animation_duration": "slow"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1f3d2efb",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "16",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Content"
+                            },
+                            "elements": [
+                                {
+                                    "id": "620107f7",
+                                    "settings": {
+                                        "title": "Why should you take this therapy?",
+                                        "header_size": "h3",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "43fcf753",
+                                    "settings": {
+                                        "editor": "<p>At BalancePoint, our skilled physiotherapists are dedicated to helping clients overcome physical limitations, reduce pain, and regain their optimal level of function and mobility. Through a comprehensive, holistic approach, we empower individuals to take an active role in their recovery and improve function, and regain their independence wellness journey.</p><p>Chronic or persistent pain can significantly impact an individual's quality of life. Our physiotherapists utilize evidence-based modalities, such as therapeutic exercises, electrical stimulation, and specialized manual techniques.</p>",
+                                        "paragraph_spacing": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "7bfb10b0",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "16",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Content"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4b7fc6ef",
+                                    "settings": {
+                                        "title": "Why should you take this therapy?",
+                                        "header_size": "h3",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5626acea",
+                                    "settings": {
+                                        "editor": "<p>We understand the impact that pain can have on your quality of life. Our physiotherapy services focus on relieving pain through targeted interventions, including manual therapy techniques, therapeutic exercises, and education on pain management strategies.</p>",
+                                        "paragraph_spacing": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7f01bf10",
+                                    "settings": {
+                                        "icon_list": [
+                                            {
+                                                "text": "Skilled manual techniques to ease specific areas.",
+                                                "_id": "65fe502"
+                                            },
+                                            {
+                                                "text": "Personalized exercise programs to alleviate discomfort, strengthen.",
+                                                "_id": "d288a2b"
+                                            },
+                                            {
+                                                "text": "Use of therapies like heat, cold, ultrasound, and electrical.",
+                                                "_id": "f61d1c0"
+                                            },
+                                            {
+                                                "text": "Valuable guidance to understand and manage pain triggers.",
+                                                "_id": "8f0bb19"
+                                            }
+                                        ],
+                                        "space_between": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        },
+                                        "text_indent": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "icon_color": "globals/colors?id=accent",
+                                            "text_color": "globals/colors?id=primary",
+                                            "icon_typography_typography": "globals/typography?id=dc93459"
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "widgetType": "icon-list",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "6d7ca9de",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "px",
+                            "size": 416,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "32",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 24
+                        },
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "28",
+                            "right": "28",
+                            "bottom": "40",
+                            "left": "28",
+                            "isLinked": false
+                        },
+                        "_title": "Booking form",
+                        "__globals__": {
+                            "background_color": "globals/colors?id=primary"
+                        },
+                        "overflow": "hidden"
+                    },
+                    "elements": [
+                        {
+                            "id": "37891edd",
+                            "settings": {
+                                "title": "Book A Free Appointment",
+                                "header_size": "h4",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals/colors?id=03ccfd4"
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "52aeb66d",
+                            "settings": {
+                                "ma_cf7_list": "780",
+                                "ma_cf7ainer_border_top": "",
+                                "ma_cf7_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "custom_css": "selector form input, form textarea {\n   border-radius: 0 !important;\n   margin: 0 !important;\n}\n\nselector form label {\n    margin: 0;\n    margin-bottom: 16px;\n}\n\nselector form input[type=\"submit\"] {\n    width: 100%;\n}",
+                                "ma_cf7_button_bg_color_normal_background": "classic",
+                                "ma_cf7_button_text_color_hover": "",
+                                "ma_cf7_button_border_color_hover": "",
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "ma_cf7_button_bg_color_normal_color": "globals/colors?id=accent"
+                                }
+                            },
+                            "widgetType": "ma-contact-form-7",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

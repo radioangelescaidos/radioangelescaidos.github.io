@@ -1,0 +1,759 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Klyro",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "agency",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/kit-default-kit.webp",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.webp",
+    "preview_url": "https://el.master-addons.com/klyro",
+    "created_date": "2026-01-15 08:18:28",
+    "last_updated": "2026-04-05 10:27:15",
+    "template_count": 9,
+    "export_date": "2026-04-07 04:49:52",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Klyro - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/klyro",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 515,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/Home.jpg",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 889,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/Header.jpg",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 901,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/Footer.jpg",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 605,
+            "name": "About",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/About.png",
+            "source": "templates/About.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/about/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 853,
+            "name": "Services",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/Services.jpg",
+            "source": "templates/Services.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/services/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 625,
+            "name": "Blog",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/Blog.jpg",
+            "source": "templates/Blog.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/blog/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 631,
+            "name": "Blog Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/Blog-Details.jpg",
+            "source": "templates/Blog-Details.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/blog-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 878,
+            "name": "Contact Us\u200b",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/Contact-Usu200b.jpg",
+            "source": "templates/Contact-Us\u200b.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/contact-us/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 907,
+            "name": "404",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/30/screenshots/404.jpg",
+            "source": "templates/404.json",
+            "preview_url": "https://el.master-addons.com/klyro/template-kit/404/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.5",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.1",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "trust-rate-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-trust-rate-1.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3036,
+            "dimensions": [
+                123,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "christmas-present-gift-box-man-with-microphone.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-christmas-present-gift-box-man-with-microphone.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 72852,
+            "dimensions": [
+                607,
+                424
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "puzzled-bearded-adult-man-looks-doubtful-at-archit.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-puzzled-bearded-adult-man-looks-doubtful-at-archit.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 58562,
+            "dimensions": [
+                607,
+                424
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "camera-equipment-and-accessories-for-video-product.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-camera-equipment-and-accessories-for-video-product.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 70648,
+            "dimensions": [
+                607,
+                424
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "SEO-Expert-Team.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-SEO-Expert-Team.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1181,
+            "dimensions": [
+                31,
+                31
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Strategic-Planning.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Strategic-Planning.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1205,
+            "dimensions": [
+                29,
+                29
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-young-fashion-deisgner-in-her-studio-concep.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-happy-young-fashion-deisgner-in-her-studio-concep.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 56872,
+            "dimensions": [
+                526,
+                468
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "laptop-with-business-graph-on-the-wooden-table-wit.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-laptop-with-business-graph-on-the-wooden-table-wit.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 98534,
+            "dimensions": [
+                928,
+                628
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "im-all-about-achieving-my-goals-portrait-of-a-spo.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-im-all-about-achieving-my-goals-portrait-of-a-spo.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8921,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-young-confident-smiling-asian-business.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-portrait-of-young-confident-smiling-asian-business.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6124,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-young-asian-woman-people-relaxing-outdoors-2026-01-08-01-27-22-utc.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-happy-young-asian-woman-people-relaxing-outdoors-2026-01-08-01-27-22-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9542,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "keep-chasing-success.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-keep-chasing-success.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7119,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-smiling-young-woman.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-portrait-of-smiling-young-woman.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8430,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "she-can-help-you-with-anything-business-shot-of-a.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-she-can-help-you-with-anything-business-shot-of-a.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7665,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-diverse-businesspeople-discussing-business.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-happy-diverse-businesspeople-discussing-business.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 53399,
+            "dimensions": [
+                416,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "a-smiling-retail-employee-working-in-a-modern-stor.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-a-smiling-retail-employee-working-in-a-modern-stor.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 60091,
+            "dimensions": [
+                416,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-professional-designer-lady-sitting-at-laptop.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-happy-professional-designer-lady-sitting-at-laptop.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 43924,
+            "dimensions": [
+                416,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Original-Logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Original-Logo.png",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2460,
+            "dimensions": [
+                125,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Footer-Logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Footer-Logo.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1610,
+            "dimensions": [
+                100,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-hero.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-about-hero.jpg",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 95149,
+            "dimensions": [
+                620,
+                507
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "handsome-stylish-man-in-studio.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-handsome-stylish-man-in-studio.jpg",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 62078,
+            "dimensions": [
+                603,
+                693
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Online-Marketing.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Online-Marketing.png",
+            "templates": [
+                {
+                    "source": "templates/Services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 541,
+            "dimensions": [
+                38,
+                29
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Startup-Business.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Startup-Business.png",
+            "templates": [
+                {
+                    "source": "templates/Services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 398,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Business-Growth.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Business-Growth.png",
+            "templates": [
+                {
+                    "source": "templates/Services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 432,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Development.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Development.png",
+            "templates": [
+                {
+                    "source": "templates/Services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 506,
+            "dimensions": [
+                31,
+                29
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Blog-Details-hero.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Blog-Details-hero.jpg",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 98095,
+            "dimensions": [
+                1293,
+                739
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Toll-Free-Number.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Toll-Free-Number.png",
+            "templates": [
+                {
+                    "source": "templates/Contact-Us\u200b.json",
+                    "name": "Contact Us\u200b"
+                }
+            ],
+            "filesize": 675,
+            "dimensions": [
+                24,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Working-Hours.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Working-Hours.png",
+            "templates": [
+                {
+                    "source": "templates/Contact-Us\u200b.json",
+                    "name": "Contact Us\u200b"
+                }
+            ],
+            "filesize": 684,
+            "dimensions": [
+                24,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Office-Address.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Office-Address.png",
+            "templates": [
+                {
+                    "source": "templates/Contact-Us\u200b.json",
+                    "name": "Contact Us\u200b"
+                }
+            ],
+            "filesize": 725,
+            "dimensions": [
+                24,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

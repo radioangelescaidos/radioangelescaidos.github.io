@@ -1,0 +1,360 @@
+{
+    "version": "0.4",
+    "template_id": 559,
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "138b00f",
+            "settings": {
+                "flex_justify_content": "center",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "64f6a0c",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 70,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "b623878",
+                            "settings": {
+                                "title": "Popular Destinations",
+                                "typography_font_family": "Manrope",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_line_height": {
+                                    "unit": "custom",
+                                    "size": "1.2",
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.5,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=36d6da5"
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f62b084",
+                            "settings": {
+                                "editor": "<p>Venture Tours was founded with the vision of providing unforgettable travel experiences that inspire, educate, and enrich the lives of our clients<\/p>",
+                                "typography_font_family": "Lexend",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "custom",
+                                    "size": "1.8",
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "4071680",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000",
+                        "margin": {
+                            "unit": "px",
+                            "top": "60",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 70,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "d6f10ac",
+                            "settings": {
+                                "items": [
+                                    {
+                                        "item_title": "Can I book travel arrangements for a group?",
+                                        "_id": "fc40c06"
+                                    },
+                                    {
+                                        "item_title": "How can I check the status of my booking?",
+                                        "_id": "d6b0234"
+                                    },
+                                    {
+                                        "item_title": "What do I need to bring on my trip?",
+                                        "_id": "8ba64d4"
+                                    },
+                                    {
+                                        "item_title": " Are travel insurance policies included in the packages?",
+                                        "_id": "8ed1672"
+                                    }
+                                ],
+                                "accordion_item_title_position_horizontal": "start",
+                                "accordion_item_title_icon_position": "start",
+                                "faq_schema": "yes",
+                                "accordion_item_title_space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "accordion_item_title_distance_from_content": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "accordion_border_normal_border": "solid",
+                                "accordion_border_normal_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "accordion_border_normal_color": "#F1F1F1",
+                                "accordion_border_active_border": "none",
+                                "title_typography_font_family": "Inter",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "600",
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                },
+                                "content_border_border": "solid",
+                                "content_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "content_border_color": "#F1F1F1",
+                                "title_tag": "h5",
+                                "__globals__": {
+                                    "normal_title_color": "globals\/colors?id=36d6da5"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "42a613a",
+                                    "settings": {
+                                        "_title": "item #1",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "90150e0",
+                                            "settings": {
+                                                "editor": "<p>Yes, we specialize in group travel arrangements! Whether you're planning a corporate event, family reunion, or any other group travel experience, we can help with customized packages, accommodations, and activities. Please contact us with the details of your group trip, and we'll work with you to create a tailored itinerary that meets your needs.<\/p>",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Lexend",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "text_color": "#535554"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "5113450",
+                                    "settings": {
+                                        "_title": "item #2",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "0fd4c99",
+                                            "settings": {
+                                                "editor": "<p>Yes, we specialize in group travel arrangements! Whether you're planning a corporate event, family reunion, or any other group travel experience, we can help with customized packages, accommodations, and activities. Please contact us with the details of your group trip, and we'll work with you to create a tailored itinerary that meets your needs.<\/p>",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Lexend",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "text_color": "#535554"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "8dd397a",
+                                    "settings": {
+                                        "_title": "item #3",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "37eafd6",
+                                            "settings": {
+                                                "editor": "<p>Yes, we specialize in group travel arrangements! Whether you're planning a corporate event, family reunion, or any other group travel experience, we can help with customized packages, accommodations, and activities. Please contact us with the details of your group trip, and we'll work with you to create a tailored itinerary that meets your needs.<\/p>",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Lexend",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "text_color": "#535554"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "06b0497",
+                                    "settings": {
+                                        "_title": "item #3",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "552a16c",
+                                            "settings": {
+                                                "editor": "<p>Yes, we specialize in group travel arrangements! Whether you're planning a corporate event, family reunion, or any other group travel experience, we can help with customized packages, accommodations, and activities. Please contact us with the details of your group trip, and we'll work with you to create a tailored itinerary that meets your needs.<\/p>",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Lexend",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "text_color": "#535554"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "widgetType": "nested-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

@@ -1,0 +1,577 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Sabrion",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "agency",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/kit-default-kit.png",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.png",
+    "preview_url": "https://el.master-addons.com/sabrion",
+    "created_date": "2026-02-07 11:21:50",
+    "last_updated": "2026-04-05 11:07:40",
+    "template_count": 11,
+    "export_date": "2026-04-07 04:50:59",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Sabrion - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/sabrion",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 760,
+            "name": "404",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/404.png",
+            "source": "templates/404.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/404/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 843,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Header.png",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 802,
+            "name": "Terms & Conditions\u200b",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Terms-Conditionsu200b.png",
+            "source": "templates/Terms-Conditions\u200b.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/terms-conditions/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 797,
+            "name": "Sign Up",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Sign-Up.png",
+            "source": "templates/Sign-Up.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/sign-up/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 792,
+            "name": "Sign In",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Sign-In.png",
+            "source": "templates/Sign-In.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/sign-in/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 787,
+            "name": "Privacy Policy\u200b",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Privacy-Policyu200b.png",
+            "source": "templates/Privacy-Policy\u200b.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/privacy-policy/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 782,
+            "name": "Pricing",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Pricing.png",
+            "source": "templates/Pricing.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/pricing/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 777,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Home.png",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 769,
+            "name": "Contact",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Contact.png",
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 767,
+            "name": "About",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/About.png",
+            "source": "templates/About.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/about-2/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 852,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/34/screenshots/Footer.png",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/sabrion/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.5",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.1",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Group-272.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-272.png",
+            "templates": [
+                {
+                    "source": "templates/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 42180,
+            "dimensions": [
+                585,
+                439
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo.png",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates/Sign-Up.json",
+                    "name": "Sign Up"
+                },
+                {
+                    "source": "templates/Sign-In.json",
+                    "name": "Sign In"
+                }
+            ],
+            "filesize": 2883,
+            "dimensions": [
+                123,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-271-7.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-271-7.png",
+            "templates": [
+                {
+                    "source": "templates/Sign-Up.json",
+                    "name": "Sign Up"
+                },
+                {
+                    "source": "templates/Sign-In.json",
+                    "name": "Sign In"
+                }
+            ],
+            "filesize": 57962,
+            "dimensions": [
+                722,
+                995
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-271.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-271.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8505,
+            "dimensions": [
+                1598,
+                870
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-BG.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44497,
+            "dimensions": [
+                826,
+                643
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-satisfied-handsome-young-man-in-shirt-standi.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-happy-satisfied-handsome-young-man-in-shirt-standi.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 39645,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "astonished-young-red-haired-woman-in-yellow-blouse.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-astonished-young-red-haired-woman-in-yellow-blouse.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44941,
+            "dimensions": [
+                227,
+                227
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-joyful-african-american-man-smiling.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-portrait-of-joyful-african-american-man-smiling.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 48366,
+            "dimensions": [
+                192,
+                192
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Dot.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Dot.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-271-2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-271-2.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 32314,
+            "dimensions": [
+                1600,
+                868
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "glad-african-american-woman-uses-mobile-phone-for.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-glad-african-american-woman-uses-mobile-phone-for.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 55197,
+            "dimensions": [
+                388,
+                586
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-271-3-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-271-3-1.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10191,
+            "dimensions": [
+                458,
+                540
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Dot-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Dot-1.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2188,
+            "dimensions": [
+                148,
+                135
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-271-4.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-271-4.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5006,
+            "dimensions": [
+                196,
+                210
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-271-5.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-271-5.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1364,
+            "dimensions": [
+                136,
+                137
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-image-1.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 118780,
+            "dimensions": [
+                636,
+                504
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-Group-1-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-Group-1-1.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 121363,
+            "dimensions": [
+                416,
+                510
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-Group-1024x636.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-Group-1024x636.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1024,
+                636
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "white-logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-white-logo.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2298,
+            "dimensions": [
+                123,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

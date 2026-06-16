@@ -1,0 +1,142 @@
+{
+    "version": "0.4",
+    "template_id": 465,
+    "title": "404",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "c08bf72",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "c2bb8dc",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 65,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "3974f86",
+                            "settings": {
+                                "jltma_gradient_heading_title": "404",
+                                "title_html_tag": "h1",
+                                "jltma_gradient_heading_color_type": "gradient",
+                                "jltma_gradient_heading_color": "#FF9E9E",
+                                "jltma_gradient_heading_second_color": "#FFFFFF",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 84,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Outfit",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 180,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "600",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "jltma_gradient_heading_title_typo_typography": ""
+                                }
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1878899",
+                            "settings": {
+                                "title": "The page you are looking for doesn’t exist",
+                                "align": "center"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "c0be47b",
+                            "settings": {
+                                "editor": "<p>Try to use a correct url or go back to homepage to start again<\/p>",
+                                "align": "center"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "8997683",
+                            "settings": {
+                                "text": "Go Back to Homepage",
+                                "align": "center",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "button_text_color": "globals\/colors?id=secondary",
+                                    "background_color": "globals\/colors?id=17b61a1",
+                                    "border_color": "globals\/colors?id=17b61a1",
+                                    "hover_color": "globals\/colors?id=17b61a1",
+                                    "button_background_hover_color": "globals\/colors?id=a601d85",
+                                    "button_hover_border_color": "globals\/colors?id=17b61a1"
+                                }
+                            },
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

@@ -1,0 +1,455 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "grip",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "creative",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/kit-default-kit.jpg",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.jpg",
+    "preview_url": "https://el.master-addons.com/grip",
+    "created_date": "2026-01-10 04:58:01",
+    "last_updated": "2026-03-14 08:41:55",
+    "template_count": 7,
+    "export_date": "2026-04-07 04:49:22",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "grip - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/grip",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 298,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/Header.jpg",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/grip/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 289,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/Footer.jpg",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/grip/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 277,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/Home.jpg",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/grip/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 268,
+            "name": "Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/Details.jpg",
+            "source": "templates/Details.json",
+            "preview_url": "https://el.master-addons.com/grip/template-kit/details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 253,
+            "name": "Contact",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/Contact.jpg",
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/grip/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 244,
+            "name": "Case Studies",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/Case-Studies.jpg",
+            "source": "templates/Case-Studies.json",
+            "preview_url": "https://el.master-addons.com/grip/template-kit/case-studies/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 235,
+            "name": "About",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/26/screenshots/About.jpg",
+            "source": "templates/About.json",
+            "preview_url": "https://el.master-addons.com/grip/template-kit/about/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.5",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Master Addons for Elementor Premium",
+            "version": "2.1.0",
+            "file": "master-addons-pro/master-addons.php",
+            "author": "Jewel Theme"
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.1",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Logo.png",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2421,
+            "dimensions": [
+                154,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "white-logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-white-logo.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3886,
+            "dimensions": [
+                338,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-image.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-hero-image.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 122252,
+            "dimensions": [
+                1600,
+                969
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Vector.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6125,
+            "dimensions": [
+                210,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Work-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Work-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Details.json",
+                    "name": "Details"
+                },
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 24600,
+            "dimensions": [
+                579,
+                779
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Work-2.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Work-2.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Details.json",
+                    "name": "Details"
+                },
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 19702,
+            "dimensions": [
+                579,
+                779
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "media.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-media.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29298,
+            "dimensions": [
+                1600,
+                770
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Details.json",
+                    "name": "Details"
+                }
+            ],
+            "filesize": 78306,
+            "dimensions": [
+                1600,
+                641
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Work-4.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Work-4.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 55638,
+            "dimensions": [
+                528,
+                711
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Work-3.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Work-3.webp",
+            "templates": [
+                {
+                    "source": "templates/Case-Studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 64460,
+            "dimensions": [
+                528,
+                711
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83016,
+            "dimensions": [
+                3200,
+                1282
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Work-3.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Work-3.jpg",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 91302,
+            "dimensions": [
+                1056,
+                1421
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "media-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-media-1.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 67528,
+            "dimensions": [
+                1054,
+                1196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "media-2.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-media-2.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 62582,
+            "dimensions": [
+                1054,
+                1196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "media-3.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-media-3.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 70498,
+            "dimensions": [
+                1054,
+                1196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

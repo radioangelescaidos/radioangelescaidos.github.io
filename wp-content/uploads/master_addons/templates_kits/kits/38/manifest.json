@@ -1,0 +1,1004 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Craftova",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "creative",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/kit-default-kit.png",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.png",
+    "preview_url": "https://el.master-addons.com/craftova",
+    "created_date": "2026-05-04 08:56:38",
+    "last_updated": "2026-05-11 07:47:49",
+    "template_count": 14,
+    "export_date": "2026-05-11 08:23:19",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Craftova - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/craftova",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 1172,
+            "name": "Blog",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Blog.png",
+            "source": "templates/Blog.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/blog/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1276,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Footer.png",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1271,
+            "name": "Home",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Home.png",
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1263,
+            "name": "About",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/About.png",
+            "source": "templates/About.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/about/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1255,
+            "name": "Pricing",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Pricing.png",
+            "source": "templates/Pricing.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/pricing/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1250,
+            "name": "Features",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Features.png",
+            "source": "templates/Features.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/features/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1239,
+            "name": "Book Demo",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Book-Demo.png",
+            "source": "templates/Book-Demo.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/book-demo/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1234,
+            "name": "Contact",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Contact.png",
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1223,
+            "name": "Case Study",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Case-Study.png",
+            "source": "templates/Case-Study.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/case-study/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1215,
+            "name": "Case Study Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Case-Study-Details.png",
+            "source": "templates/Case-Study-Details.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/case-study-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1207,
+            "name": "Terms & Conditions",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Terms-Conditions.png",
+            "source": "templates/Terms-Conditions.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/terms-conditions/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1193,
+            "name": "Privacy Policy",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Privacy-Policy.png",
+            "source": "templates/Privacy-Policy.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/privacy-policy/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1185,
+            "name": "Blog Details",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Blog-Details.png",
+            "source": "templates/Blog-Details.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/blog-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 1287,
+            "name": "Header",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/38/screenshots/Header.png",
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/craftova/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.5",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.7",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "cta-bg.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-cta-bg.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 9024,
+            "dimensions": [
+                1600,
+                602
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Original-Logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Original-Logo.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2698,
+            "dimensions": [
+                155,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "alex.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-alex.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 107240,
+            "dimensions": [
+                522,
+                475
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Blur.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Blur.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 199994,
+            "dimensions": [
+                440,
+                488
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "customers-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-customers-1.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2801,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "customers-2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-customers-2.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2870,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "customers-3.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-customers-3.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2976,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "revenue-graph.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-revenue-graph.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2153,
+            "dimensions": [
+                274,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Trustpilot-logo.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Trustpilot-logo.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates/Pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 2673,
+            "dimensions": [
+                186,
+                46
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-427319025.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-427319025.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates/Pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 3684,
+            "dimensions": [
+                185,
+                51
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates/Pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1319,
+            "dimensions": [
+                43,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "HeroBusiness-optimized.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-HeroBusiness-optimized.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 71682,
+            "dimensions": [
+                550,
+                468
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Project-Success-Shap.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Project-Success-Shap.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3433,
+            "dimensions": [
+                238,
+                186
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "process.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-process.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 62483,
+            "dimensions": [
+                535,
+                441
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Business-Startup-Shap.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Business-Startup-Shap.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2407,
+            "dimensions": [
+                129,
+                149
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Business-Analytics.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Business-Analytics.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 88276,
+            "dimensions": [
+                451,
+                490
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Business-Analytics-Shape.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Business-Analytics-Shape.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 4389,
+            "dimensions": [
+                297,
+                236
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-3.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Vector-3.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 109050,
+            "dimensions": [
+                522,
+                475
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-4.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Vector-4.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 70285,
+            "dimensions": [
+                435,
+                370
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-5.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Vector-5.png",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2308,
+            "dimensions": [
+                151,
+                126
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-1-1.png",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 75677,
+            "dimensions": [
+                516,
+                333
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-6.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Vector-6.png",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 66457,
+            "dimensions": [
+                460,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "startup-business.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-startup-business.png",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 65601,
+            "dimensions": [
+                483,
+                444
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-7.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Vector-7.png",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 2291,
+            "dimensions": [
+                142,
+                134
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Empower-Business-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Empower-Business-1.png",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 81219,
+            "dimensions": [
+                535,
+                441
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-8.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Vector-8.png",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 2416,
+            "dimensions": [
+                112,
+                159
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-1.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 64535,
+            "dimensions": [
+                504,
+                325
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-2.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 5318,
+            "dimensions": [
+                306,
+                317
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-3.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 54606,
+            "dimensions": [
+                442,
+                378
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Studies-1.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Studies-1.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 104731,
+            "dimensions": [
+                579,
+                412
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-52.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-52.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 3463,
+            "dimensions": [
+                204,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Studies-2.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Studies-2.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 134290,
+            "dimensions": [
+                579,
+                412
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-55.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-55.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates/Case-Study-Details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 4206,
+            "dimensions": [
+                202,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Studies-3.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Studies-3.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 85079,
+            "dimensions": [
+                579,
+                412
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-8.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-8.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 3353,
+            "dimensions": [
+                208,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Studies-4.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Studies-4.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 128315,
+            "dimensions": [
+                579,
+                412
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-87.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-logo-87.png",
+            "templates": [
+                {
+                    "source": "templates/Case-Study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 3208,
+            "dimensions": [
+                205,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-group.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Mask-group.png",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 62480,
+            "dimensions": [
+                416,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

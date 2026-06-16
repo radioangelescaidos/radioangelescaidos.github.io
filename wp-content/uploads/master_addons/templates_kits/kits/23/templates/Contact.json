@@ -1,0 +1,378 @@
+{
+    "version": "0.4",
+    "template_id": 321,
+    "title": "Contact",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "a42d521",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "background_color": "#F2EDFB",
+                "ma_el_slider_delay": "5000",
+                "border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "8814981",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_align_items": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "dc0bedf",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Contact-754c6773923268d3b5b1b5cad0ffc19c.jpg",
+                                        "id": 47
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7b14fb9",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "b6aaf1a",
+                                    "settings": {
+                                        "title": "Get In Touch",
+                                        "header_size": "h1",
+                                        "align": "center",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Roboto",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 72,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "600",
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -2.5,
+                                            "sizes": []
+                                        },
+                                        "title_color": "#371A5B",
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "7c643a7",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Contact-6960349ae2275f8bea6cc844ac80b8cc.jpg",
+                                        "id": 49
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_orientation_v": "end",
+                                "size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "faedab9",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0"
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "80324b9",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "b474b3a",
+                            "settings": {
+                                "title": "Why should you </br>contact us?",
+                                "align": "start",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                },
+                                "title_color": "#371A5B",
+                                "_z_index": 2
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "03850d9",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Project Discussion",
+                                        "selected_icon": {
+                                            "value": "far fa-check-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "3e8d163"
+                                    },
+                                    {
+                                        "text": "General Conversation",
+                                        "selected_icon": {
+                                            "value": "far fa-check-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "e8a346e"
+                                    },
+                                    {
+                                        "text": "Get Reply within 24 Hours",
+                                        "selected_icon": {
+                                            "value": "far fa-check-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "0471e3f"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "icon_color": "#371A5B",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "400",
+                                "icon_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                },
+                                "text_color": "#371A5B"
+                            },
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "e11414d",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "background_background": "classic",
+                        "background_color": "#F2EDFB",
+                        "ma_el_slider_delay": "5000",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "0add461",
+                            "settings": {
+                                "ma_cf7_list": "268",
+                                "ma_cf7_width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ma_cf7_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "title_text_color": "#371A5B",
+                                "ma_cf7_title_typography_typography": "custom",
+                                "ma_cf7_title_typography_font_family": "Inter",
+                                "ma_cf7_title_typography_font_weight": "500",
+                                "field_border_border": "solid",
+                                "field_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "field_border_color": "#F0F0F0",
+                                "ma_cf7_field_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "text_color_label": "#371A5B",
+                                "ma_cf7_typography_label_typography": "custom",
+                                "ma_cf7_typography_label_font_family": "Inter",
+                                "ma_cf7_typography_label_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ma_cf7_typography_label_font_weight": "400",
+                                "ma_cf7_typography_label_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                },
+                                "ma_cf7_button_bg_color_normal_background": "gradient",
+                                "ma_cf7_button_bg_color_normal_color": "#371A5B",
+                                "ma_cf7_button_bg_color_normal_color_b": "#030720",
+                                "ma_cf7_button_bg_color_hover_background": "gradient",
+                                "ma_cf7_button_bg_color_hover_color": "#030720",
+                                "ma_cf7_button_bg_color_hover_color_b": "#371A5B",
+                                "ma_cf7_button_text_color_hover": "#FFFFFF",
+                                "ma_cf7_button_border_radius": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "ma-contact-form-7",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

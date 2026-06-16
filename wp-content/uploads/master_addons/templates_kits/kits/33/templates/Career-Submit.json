@@ -1,0 +1,102 @@
+{
+    "version": "0.4",
+    "template_id": 497,
+    "title": "Career Submit",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7f0fc80",
+            "settings": {
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6ef749e",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "13c37bb",
+                            "settings": {
+                                "title": "UI Designer",
+                                "header_size": "h1"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "cab0766",
+                            "settings": {
+                                "ma_cf7_list": "346",
+                                "ma_cf7_padding": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ma_cf7_button_bg_color_normal_background": "classic",
+                                "ma_cf7_button_bg_color_hover_background": "classic",
+                                "ma_cf7_button_border_width": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ma_cf7_button_border_radius": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "button_padding": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "ma_cf7_button_text_color_normal": "globals\/colors?id=secondary",
+                                    "ma_cf7_button_bg_color_normal_color": "globals\/colors?id=e17d178",
+                                    "ma_cf7_button_border_color_normal": "globals\/colors?id=e17d178",
+                                    "ma_cf7_button_text_color_hover": "globals\/colors?id=e17d178",
+                                    "ma_cf7_button_bg_color_hover_color": "globals\/colors?id=a601d85",
+                                    "ma_cf7_button_border_color_hover": "globals\/colors?id=e17d178"
+                                }
+                            },
+                            "widgetType": "ma-contact-form-7",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

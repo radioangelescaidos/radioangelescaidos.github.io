@@ -1,0 +1,1492 @@
+{
+    "version": "0.4",
+    "template_id": 929,
+    "title": "Service",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "3a8e9db1",
+            "settings": {
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 604,
+                    "sizes": []
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "0",
+                    "bottom": "104",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Hero",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "397a658",
+                    "settings": {
+                        "title": "Our Services",
+                        "header_size": "h1",
+                        "align": "center",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "49743a50",
+                    "settings": {
+                        "editor": "<p>At BalancePoint, we offer a comprehensive range of therapeutic services to support the mind, body, and spirit.</p>",
+                        "align": "center",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "6e77e765",
+            "settings": {
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "animation": "fadeInUp",
+                "animation_duration": "slow",
+                "_title": "Service",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "41942a25",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "overflow": "hidden",
+                        "ma_el_slider_delay": "5000",
+                        "animation": "none",
+                        "_title": "Card",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "83f716",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-44-Service-b4ea2c3799c0b88650d636b00452ceb3.webp",
+                                    "id": 310,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_laptop": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_animation": "none"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "30993b09",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "92",
+                                    "right": "72",
+                                    "bottom": "92",
+                                    "left": "72",
+                                    "isLinked": false
+                                },
+                                "padding_laptop": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "45",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "35",
+                                    "bottom": "35",
+                                    "left": "35",
+                                    "isLinked": true
+                                },
+                                "_title": "Content",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1c58fe5a",
+                                    "settings": {
+                                        "title": "Physiotherapy",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "141f82a",
+                                    "settings": {
+                                        "editor": "<p>Our physiotherapy services are tailored to meet your individual needs, whether you're recovering from an injury, a chronic condition.</p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5f69c409",
+                                    "settings": {
+                                        "text": "Learn More",
+                                        "link": {
+                                            "url": "/balanciq/service-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward",
+                                            "library": "material-icons"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f",
+                                            "button_text_color": "globals/colors?id=03ccfd4",
+                                            "background_color": "globals/colors?id=c8f1b81",
+                                            "hover_color": "globals/colors?id=accent"
+                                        },
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "11f440a",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "overflow": "hidden",
+                        "ma_el_slider_delay": "5000",
+                        "animation": "none",
+                        "_title": "Card",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "1bb8ebcf",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "92",
+                                    "right": "72",
+                                    "bottom": "92",
+                                    "left": "72",
+                                    "isLinked": false
+                                },
+                                "padding_laptop": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "45",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "35",
+                                    "bottom": "35",
+                                    "left": "35",
+                                    "isLinked": true
+                                },
+                                "_title": "Content",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6974cbaf",
+                                    "settings": {
+                                        "title": "Manual Therapy",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2c86abc6",
+                                    "settings": {
+                                        "editor": "<p>Manual therapy involves skilled manipulation and mobilization of the body's soft tissues and joints to address pain and dysfunction.</p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "36af7ca",
+                                    "settings": {
+                                        "text": "Learn More",
+                                        "link": {
+                                            "url": "/balanciq/service-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward",
+                                            "library": "material-icons"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f",
+                                            "button_text_color": "globals/colors?id=03ccfd4",
+                                            "background_color": "globals/colors?id=c8f1b81",
+                                            "hover_color": "globals/colors?id=accent"
+                                        },
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "390def6",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-44-Service-45edf3aa7f9515018f870a2ad59c9a3f.webp",
+                                    "id": 311,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_laptop": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_flex_order_tablet": "start",
+                                "_animation": "none"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "5213495c",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "overflow": "hidden",
+                        "ma_el_slider_delay": "5000",
+                        "animation": "none",
+                        "_title": "Card",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "74df0dda",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-44-Service-2de4b673fbd72b9c94315584b51d255a.webp",
+                                    "id": 312,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_laptop": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_animation": "none"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "36d76123",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "92",
+                                    "right": "72",
+                                    "bottom": "92",
+                                    "left": "72",
+                                    "isLinked": false
+                                },
+                                "padding_laptop": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "45",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "35",
+                                    "bottom": "35",
+                                    "left": "35",
+                                    "isLinked": true
+                                },
+                                "_title": "Content",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "29c43c4",
+                                    "settings": {
+                                        "title": "Massage Therapy",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "74641729",
+                                    "settings": {
+                                        "editor": "<p>Massage therapy involves the manipulation of soft tissues in the body to relieve muscle tension, improve circulation, and overall well-being.</p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "500cae2d",
+                                    "settings": {
+                                        "text": "Learn More",
+                                        "link": {
+                                            "url": "/balanciq/service-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward",
+                                            "library": "material-icons"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f",
+                                            "button_text_color": "globals/colors?id=03ccfd4",
+                                            "background_color": "globals/colors?id=c8f1b81",
+                                            "hover_color": "globals/colors?id=accent"
+                                        },
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "cf27fb3",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "overflow": "hidden",
+                        "ma_el_slider_delay": "5000",
+                        "animation": "none",
+                        "_title": "Card",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "3f87dad4",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "92",
+                                    "right": "72",
+                                    "bottom": "92",
+                                    "left": "72",
+                                    "isLinked": false
+                                },
+                                "padding_laptop": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "45",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "35",
+                                    "bottom": "35",
+                                    "left": "35",
+                                    "isLinked": true
+                                },
+                                "_title": "Content",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4b3389d3",
+                                    "settings": {
+                                        "title": "Sports Medicine",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "238676f3",
+                                    "settings": {
+                                        "editor": "<p>Sports medicine, also known as sport and exercise medicine, is a branch of medicine that deals with physical fitness and the treatment &amp; prevention of injuries related.</p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "53384077",
+                                    "settings": {
+                                        "text": "Learn More",
+                                        "link": {
+                                            "url": "/balanciq/service-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward",
+                                            "library": "material-icons"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f",
+                                            "button_text_color": "globals/colors?id=03ccfd4",
+                                            "background_color": "globals/colors?id=c8f1b81",
+                                            "hover_color": "globals/colors?id=accent"
+                                        },
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "42ec3a1b",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-44-Service-f80a8dd8d8307cd837fc15c06f09b045.webp",
+                                    "id": 744,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_laptop": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_flex_order_tablet": "start",
+                                "_animation": "none"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "505c8643",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "overflow": "hidden",
+                        "ma_el_slider_delay": "5000",
+                        "animation": "none",
+                        "_title": "Card",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "36cdb6fc",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-44-Service-7be1f15426c6ea463cb5df895eeae87a.webp",
+                                    "id": 745,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_laptop": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_animation": "none"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3a27a6e4",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "92",
+                                    "right": "72",
+                                    "bottom": "92",
+                                    "left": "72",
+                                    "isLinked": false
+                                },
+                                "padding_laptop": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "45",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "35",
+                                    "bottom": "35",
+                                    "left": "35",
+                                    "isLinked": true
+                                },
+                                "_title": "Content",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "c2df8d8",
+                                    "settings": {
+                                        "title": "Orthopedic",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "604f3a5b",
+                                    "settings": {
+                                        "editor": "<p>Orthopedic physical therapy is the foundation of our practice and represents the majority of our patient referrals.We specialists and experts.</p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4bcc3c39",
+                                    "settings": {
+                                        "text": "Learn More",
+                                        "link": {
+                                            "url": "/balanciq/service-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward",
+                                            "library": "material-icons"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f",
+                                            "button_text_color": "globals/colors?id=03ccfd4",
+                                            "background_color": "globals/colors?id=c8f1b81",
+                                            "hover_color": "globals/colors?id=accent"
+                                        },
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "d1a108b",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "overflow": "hidden",
+                        "ma_el_slider_delay": "5000",
+                        "animation": "none",
+                        "_title": "Card",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "3d3ab15c",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "92",
+                                    "right": "72",
+                                    "bottom": "92",
+                                    "left": "72",
+                                    "isLinked": false
+                                },
+                                "padding_laptop": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "45",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "35",
+                                    "bottom": "35",
+                                    "left": "35",
+                                    "isLinked": true
+                                },
+                                "_title": "Content",
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "635f3529",
+                                    "settings": {
+                                        "title": "Rehabilitation",
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "title_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6cc3469e",
+                                    "settings": {
+                                        "editor": "<p>A physician having completed training in this field is referred to as a physicist. Physicists specialise in restoring optimal function to people.</p>",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "text_color": "globals/colors?id=03ccfd4"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7f6fefe2",
+                                    "settings": {
+                                        "text": "Learn More",
+                                        "link": {
+                                            "url": "/balanciq/service-details/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward",
+                                            "library": "material-icons"
+                                        },
+                                        "icon_align": "row-reverse",
+                                        "border_border": "none",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "text_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=305d00f",
+                                            "button_text_color": "globals/colors?id=03ccfd4",
+                                            "background_color": "globals/colors?id=c8f1b81",
+                                            "hover_color": "globals/colors?id=accent"
+                                        },
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "f301838",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-44-Service-b6eb3c5c8d0becea4a2b850b003b3817.webp",
+                                    "id": 746,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_laptop": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_flex_order_tablet": "start",
+                                "_animation": "none"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": true
+        }
+    ]
+}

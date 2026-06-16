@@ -1,0 +1,1388 @@
+{
+    "version": "0.4",
+    "template_id": 639,
+    "title": "Testimonials",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "208517b",
+            "settings": {
+                "flex_direction": "column",
+                "min_height": {
+                    "unit": "vh",
+                    "size": 60,
+                    "sizes": []
+                },
+                "min_height_tablet": {
+                    "unit": "vh",
+                    "size": 40,
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": 30,
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-ec678774eb25154c6341af222f59c424.jpg",
+                    "id": 80,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "-95",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2a1ca41",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "b7d9c69",
+                            "settings": {
+                                "title": "Testimonials",
+                                "header_size": "h1",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height_mobile": {
+                                    "unit": "em",
+                                    "size": 1.3999999999999999,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -3.5,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing_mobile": {
+                                    "unit": "px",
+                                    "size": -1,
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "align": "center"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "6a90482",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1300,
+                    "sizes": []
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4599d5d",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_wrap_tablet": "wrap",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "c05af7c",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6d134a1",
+                                    "settings": {
+                                        "testimonial_content": "I was concerned about managing my rental property, but LandlordAssist took care of everything. Their management was excellent.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-5a4adfe0dbb85986f32a61f6766502e8.jpg",
+                                            "id": 154,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Stefan Persson",
+                                        "testimonial_job": "General Manager",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "915583f",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "ce96315",
+                                    "settings": {
+                                        "testimonial_content": "I was nervous about selling my home, but Homequest made it so easy. Their marketing was top-notch, and I received multiple offers within days of listing.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-35b4a1313e67edf1ec659adcda0e8eb9.jpg",
+                                            "id": 156,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Steve Cohen",
+                                        "testimonial_job": "Sales Representative",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "f5adda8",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "f715a81",
+                                    "settings": {
+                                        "testimonial_content": "Searching for a commercial space felt overwhelming, but BusinessRealtors made it easy.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-d2864ac9a134f06e5fd48b5d6e7a717b.jpg",
+                                            "id": 157,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Nicole Sparks",
+                                        "testimonial_job": "Product Manager",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "15fad19",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_wrap_tablet": "wrap",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "70a88c8",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4f162dd",
+                                    "settings": {
+                                        "testimonial_content": "I was concerned about managing my rental property, but LandlordAssist took care of everything. Their management was excellent.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-66e6195c3433a15f378f6212f66bc3cb.jpg",
+                                            "id": 158,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Tanvir Khan",
+                                        "testimonial_job": "General Secretary",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "77e9235",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "b83ae8e",
+                                    "settings": {
+                                        "testimonial_content": "I was unsure about buying my first home, but DreamHomes guided me every step. Their expertise was invaluable, and I found the perfect place quickly.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-016bb913de335b9eb3948fe6e0a119e0.jpg",
+                                            "id": 159,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Stefan Quandt",
+                                        "testimonial_job": "Marketing Specialist",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "30b9d81",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6a8b4e5",
+                                    "settings": {
+                                        "testimonial_content": "Searching for a commercial space felt overwhelming, but BusinessRealtors made it easy.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-c86070d56239a833455a91cc0938ab76.jpg",
+                                            "id": 160,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Kendall Egan",
+                                        "testimonial_job": "Project Manager",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "78d85f7",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_wrap_tablet": "wrap",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "848a12f",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "0df65bf",
+                                    "settings": {
+                                        "testimonial_content": "I had doubts about investing in real estate, but PropertyPros made it straightforward. Their advice was spot-on.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-1764fdeb42631c1d755cb0292da8ab05.jpg",
+                                            "id": 161,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "John Mars",
+                                        "testimonial_job": "Chief Technology Officer",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "b6cd495",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "9fd3483",
+                                    "settings": {
+                                        "testimonial_content": "I was overwhelmed by the home-buying process, but TopRealtors made it manageable.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-4afbcbee47dcf35417da1367f1fd52e4.jpg",
+                                            "id": 162,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Melissa Thibault",
+                                        "testimonial_job": "Vice President",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "3d336ed",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_justify_content": "flex-end",
+                                "background_background": "classic",
+                                "background_color": "#F7F6F4",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "8d8b2c2",
+                                    "settings": {
+                                        "testimonial_content": "I worried about the complexity of selling my home, but HouseMasters simplified the process.",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-90150ff51a9ada47229fd9175ff5bc13.jpg",
+                                            "id": 163,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Jim Walton",
+                                        "testimonial_job": "Chief Financial Officer",
+                                        "testimonial_image_position": "top",
+                                        "testimonial_alignment": "left",
+                                        "content_content_color": "#52525A",
+                                        "content_typography_typography": "custom",
+                                        "content_typography_font_family": "Inter",
+                                        "content_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "content_typography_font_weight": "400",
+                                        "content_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.80000000000000004,
+                                            "sizes": []
+                                        },
+                                        "name_text_color": "#0A0915",
+                                        "name_typography_typography": "custom",
+                                        "name_typography_font_family": "Inter",
+                                        "name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "name_typography_font_weight": "500",
+                                        "name_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "job_text_color": "#52525A",
+                                        "job_typography_typography": "custom",
+                                        "job_typography_font_family": "Inter",
+                                        "job_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "job_typography_font_weight": "400",
+                                        "job_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "image_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "53b95ab",
+            "settings": {
+                "flex_direction": "column",
+                "min_height": {
+                    "unit": "vh",
+                    "size": 70,
+                    "sizes": []
+                },
+                "min_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "flex_align_items": "center",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-18-Testimonials-5270057f2d3b47562717af3cb24b902b.jpg",
+                    "id": 64,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "ma_el_slider_delay": "5000",
+                "border_radius": {
+                    "unit": "px",
+                    "top": "25",
+                    "right": "25",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "804d1d5",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 60,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "72f9f27",
+                            "settings": {
+                                "title": "Ready to Make a\nMove? Contact Us Now!",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "rem",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "rem",
+                                    "size": 3.5,
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "rem",
+                                    "size": 2.5,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -2.5,
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing_tablet": {
+                                    "unit": "px",
+                                    "size": -2,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing_mobile": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ecc1a7f",
+                            "settings": {
+                                "editor": "<p>Contact us today to discuss your property needs and choose the right plan. We\u2019re here to guide you through every step of the process.</p>",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "rem",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "rem",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "rem",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.40000000000000002,
+                                    "sizes": []
+                                },
+                                "text_color": "#E9E9E9"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b7999f8",
+                            "settings": {
+                                "text": "Get Your Home",
+                                "align": "center",
+                                "button_text_color": "#000000",
+                                "background_color": "#DBFB1E",
+                                "hover_color": "#DBFB1E",
+                                "button_background_hover_color": "#02010100",
+                                "button_hover_border_color": "#DBFB1E",
+                                "button_hover_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.29999999999999999,
+                                    "sizes": []
+                                },
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "border_color": "#DBFB1E",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "25",
+                                    "bottom": "25",
+                                    "left": "25",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "24",
+                                    "bottom": "12",
+                                    "left": "24",
+                                    "isLinked": false
+                                },
+                                "link": {
+                                    "url": "/homeaxis/contact",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

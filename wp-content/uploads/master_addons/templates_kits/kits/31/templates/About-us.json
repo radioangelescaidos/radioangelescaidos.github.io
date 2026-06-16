@@ -1,0 +1,1469 @@
+{
+    "version": "0.4",
+    "template_id": 1789,
+    "title": "About us",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "028aa24",
+            "settings": {
+                "flex_gap": {
+                    "column": "0",
+                    "row": "80",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "flex_gap_tablet": {
+                    "column": "0",
+                    "row": "60",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Hero"
+            },
+            "elements": [
+                {
+                    "id": "b0c6978",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "px",
+                            "size": 629,
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "16",
+                            "row": "16",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 16
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_flex_align_self": "center",
+                        "_title": "Content"
+                    },
+                    "elements": [
+                        {
+                            "id": "49fbb51",
+                            "settings": {
+                                "title": "Great companies are made by great people",
+                                "header_size": "h1",
+                                "align": "center",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 477,
+                                    "sizes": []
+                                },
+                                "_flex_align_self": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5781a18",
+                            "settings": {
+                                "editor": "<p>Designers waste countless hours organizing, finding, approving, and sharing content \u2014 this mindless work gets in the way of the creative process.</p>",
+                                "align": "center"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "bf901b5",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Image"
+                    },
+                    "elements": [
+                        {
+                            "id": "fee81cd",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-f0bc61c8670eee48ef9f7829060c81a4.webp",
+                                    "id": 1087,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "eee2ef8",
+            "settings": {
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "84",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "86",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "86",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Facts"
+            },
+            "elements": [
+                {
+                    "id": "1326ed1",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "width": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "120",
+                            "row": "32",
+                            "isLinked": false,
+                            "unit": "px"
+                        },
+                        "grid_gaps_tablet": {
+                            "column": "80",
+                            "row": "32",
+                            "isLinked": false,
+                            "unit": "px"
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_flex_align_self": "center",
+                        "animation": "fadeInUp",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "829fd8b",
+                            "settings": {
+                                "ending_number": 2013,
+                                "title": "We\u2019ve been helping websites thrive for the last 10 years.",
+                                "title_horizontal_alignment": "start",
+                                "title_gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "number_position": "start",
+                                "__globals__": {
+                                    "typography_number_typography": "globals/typography?id=primary",
+                                    "typography_title_typography": "globals/typography?id=text",
+                                    "title_color": "globals/colors?id=primary",
+                                    "number_color": "globals/colors?id=accent"
+                                }
+                            },
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "9733f3a",
+                            "settings": {
+                                "ending_number": 70,
+                                "suffix": "+",
+                                "title": "We're a team of over 70 people working for better service.",
+                                "title_horizontal_alignment": "start",
+                                "title_gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "number_position": "start",
+                                "__globals__": {
+                                    "typography_number_typography": "globals/typography?id=primary",
+                                    "typography_title_typography": "globals/typography?id=text",
+                                    "title_color": "globals/colors?id=primary",
+                                    "number_color": "globals/colors?id=accent"
+                                }
+                            },
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d427e87",
+                            "settings": {
+                                "ending_number": 2,
+                                "suffix": "x",
+                                "title": "A multiple that suggests double revenue.",
+                                "title_horizontal_alignment": "start",
+                                "title_gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "number_position": "start",
+                                "__globals__": {
+                                    "typography_number_typography": "globals/typography?id=primary",
+                                    "typography_title_typography": "globals/typography?id=text",
+                                    "title_color": "globals/colors?id=primary",
+                                    "number_color": "globals/colors?id=accent"
+                                }
+                            },
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "c18c7f0",
+                    "settings": {
+                        "text": "Divider",
+                        "gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "color": "globals/colors?id=bc2e006"
+                        }
+                    },
+                    "widgetType": "divider",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "0436c73",
+            "settings": {
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "130",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Our story"
+            },
+            "elements": [
+                {
+                    "id": "5910b60",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                            "column": "188",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 188
+                        },
+                        "flex_gap_tablet": {
+                            "column": "0",
+                            "row": "40",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "flex_wrap_tablet": "wrap",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "a78df55",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "32",
+                                    "row": "32",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 32
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Content"
+                            },
+                            "elements": [
+                                {
+                                    "id": "f7be5d5",
+                                    "settings": {
+                                        "title": "Our story",
+                                        "_animation": "fadeInDown"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7c3d8ba",
+                                    "settings": {
+                                        "editor": "<p>Our platform is designed with user experience in mind, making it simple and intuitive for both your team and your customers to use.<br /><br />Our goal is to change the way that people succeed online, and we\u2019re starting with how they achieve growth through their websites. But, for us, it doesn\u2019t stop there.<br /><br />We grow through our own website. And even our internal culture encourages people to grow their careers by taking on new challenges.</p>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "4bb0187",
+                            "settings": {
+                                "content_width": "full",
+                                "container_type": "grid",
+                                "flex_gap": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "grid_columns_grid": {
+                                    "unit": "fr",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "grid_rows_grid": {
+                                    "unit": "fr",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "grid_gaps": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "isLinked": true,
+                                    "unit": "px"
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "_title": "Image",
+                                "presetTitle": "Grid",
+                                "presetIcon": "eicon-container-grid"
+                            },
+                            "elements": [
+                                {
+                                    "id": "05d5b49",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 24
+                                        },
+                                        "flex_gap_mobile": {
+                                            "column": "",
+                                            "row": "",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": null
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "90",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "35d33a8",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-91d98f5160cd8c5c83c35ba070a6cfa7.png",
+                                                    "id": 1103,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "align": "end",
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7c6f03c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-d42bfc444b6b54720cf7949c671acc5f.png",
+                                                    "id": 1104,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "align": "end",
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "c2256b3",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 24
+                                        },
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "9b59b46",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-b5b1023ddcdc8d4f50779ee05867f424.png",
+                                                    "id": 1105,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "align": "end",
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2c8a5da",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-776fb3ef398acff3eb09ac6936469781.png",
+                                                    "id": 1106,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "align": "end",
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "22502bc",
+            "settings": {
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "74",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "91",
+                    "right": "0",
+                    "bottom": "144",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "91",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Teams",
+                "__globals__": {
+                    "background_color": "globals/colors?id=6459e00"
+                }
+            },
+            "elements": [
+                {
+                    "id": "14b9b86",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "px",
+                            "size": 641,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "16",
+                            "row": "16",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 16
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_flex_align_self": "center",
+                        "_title": "Content"
+                    },
+                    "elements": [
+                        {
+                            "id": "0e16383",
+                            "settings": {
+                                "title": "Meet the team",
+                                "align": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "55d7dec",
+                            "settings": {
+                                "editor": "<p>You tell Simplly what's important to you and it flags the important insights from everywhere, including news sites, blogs, and newsletters</p>",
+                                "align": "center"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "fce714a",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "width": {
+                            "unit": "px",
+                            "size": 890,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "64",
+                            "row": "56",
+                            "isLinked": false,
+                            "unit": "px"
+                        },
+                        "grid_gaps_tablet": {
+                            "column": "40",
+                            "row": "40",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_flex_align_self": "center",
+                        "animation": "fadeInUp",
+                        "_title": "Team",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "e9722b7",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-749ab4244dca8eb84c7883e667487dee.png",
+                                    "id": 1111,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Clinton Mcclure",
+                                "ma_el_team_member_designation": "Co-Founder & CEO",
+                                "ma_el_team_member_description": "Clinton mainly focuses on the company strategy, product vision, and special growth projects for Simplly to enable a brighter future for customers and employees alike.",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "9a3b8d1"
+                                    },
+                                    {
+                                        "_id": "0667b10"
+                                    },
+                                    {
+                                        "_id": "bef54c9"
+                                    },
+                                    {
+                                        "_id": "b9d921f"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_name_margin": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_designation_margin": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_description_margin": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals/typography?id=2e4cad6",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=text",
+                                    "ma_el_description_color": "globals/colors?id=primary",
+                                    "ma_el_description_typography_typography": "globals/typography?id=text"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b8a3495",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-9e0600e6afcdfd4db0eb480801f592e7.png",
+                                    "id": 1112,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Benny Spanbauer",
+                                "ma_el_team_member_designation": "Co-Founder & CTO",
+                                "ma_el_team_member_description": "Benny runs the engineering infrastructure of Simplly and makes sure that our software is always available, secure, and high-performing.",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "9a3b8d1"
+                                    },
+                                    {
+                                        "_id": "0667b10"
+                                    },
+                                    {
+                                        "_id": "bef54c9"
+                                    },
+                                    {
+                                        "_id": "b9d921f"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_name_margin": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_designation_margin": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_description_margin": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals/typography?id=2e4cad6",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=text",
+                                    "ma_el_description_color": "globals/colors?id=primary",
+                                    "ma_el_description_typography_typography": "globals/typography?id=text"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "22ddbb9",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-3db73b6e995fce1cd118fbbc0cca7636.png",
+                                    "id": 1113,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Titus Kitamura",
+                                "ma_el_team_member_designation": "Head of Sales & Marketing",
+                                "ma_el_team_member_description": "Titus mainly focuses on the company strategy, product vision, and special growth projects for Simplly to enable a brighter future for customers and employees alike.",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "9a3b8d1"
+                                    },
+                                    {
+                                        "_id": "0667b10"
+                                    },
+                                    {
+                                        "_id": "bef54c9"
+                                    },
+                                    {
+                                        "_id": "b9d921f"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_name_margin": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_designation_margin": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_description_margin": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals/typography?id=2e4cad6",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=text",
+                                    "ma_el_description_color": "globals/colors?id=primary",
+                                    "ma_el_description_typography_typography": "globals/typography?id=text"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4ff4eea",
+                            "settings": {
+                                "ma_el_team_member_image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-77d348b08299a5c9c0981394ff9ef8c0.png",
+                                    "id": 1114,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ma_el_team_member_name": "Rayford Chenail",
+                                "ma_el_team_member_designation": "Senior Product Designer",
+                                "ma_el_team_member_description": "Rayford mainly focuses on the company strategy, product vision, and special growth projects for Simplly to enable a brighter future for customers and employees alike.",
+                                "ma_el_team_member_enable_social_profiles": "",
+                                "ma_el_team_member_social_profile_links": [
+                                    {
+                                        "_id": "9a3b8d1"
+                                    },
+                                    {
+                                        "_id": "0667b10"
+                                    },
+                                    {
+                                        "_id": "bef54c9"
+                                    },
+                                    {
+                                        "_id": "b9d921f"
+                                    }
+                                ],
+                                "jltma_team_members_thumb_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": true
+                                },
+                                "jltma_team_members_style_thumb_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_name_margin": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_designation_margin": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "jltma_team_member_description_margin": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals/typography?id=2e4cad6",
+                                    "ma_el_designation_color": "globals/colors?id=text",
+                                    "designation_typography_typography": "globals/typography?id=text",
+                                    "ma_el_description_color": "globals/colors?id=primary",
+                                    "ma_el_description_typography_typography": "globals/typography?id=text"
+                                }
+                            },
+                            "widgetType": "ma-team-members",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "6eec687",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "px",
+                            "size": 890,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "flex_gap": {
+                            "column": "100",
+                            "row": "32",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 100
+                        },
+                        "flex_wrap_tablet": "wrap",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "_flex_align_self": "center",
+                        "animation": "fadeInUp",
+                        "__globals__": {
+                            "background_color": "globals/colors?id=f2f2e32",
+                            "border_color": "globals/colors?id=bc2e006"
+                        },
+                        "_title": "Jobs"
+                    },
+                    "elements": [
+                        {
+                            "id": "d699be9",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "16",
+                                    "row": "16",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "71d7f46",
+                                    "settings": {
+                                        "title": "We are hiring now",
+                                        "header_size": "h3"
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "09a4492",
+                                    "settings": {
+                                        "editor": "<p>You tell Simplly what's important to you and it flags the important insights from everywhere, including news sites, blogs, and newsletters</p>",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_tablet": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 15,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "typography_text_decoration": "none",
+                                        "typography_line_height": {
+                                            "unit": "px",
+                                            "size": 27,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": 22,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.5,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_tablet": {
+                                            "unit": "px",
+                                            "size": -0.40000000000000002,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_mobile": {
+                                            "unit": "px",
+                                            "size": -0.29999999999999999,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "typography_typography": ""
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "b3c5eb3",
+                            "settings": {
+                                "text": "See Open Jobs",
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "20",
+                                    "bottom": "16",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 231,
+                                    "sizes": []
+                                },
+                                "link": {
+                                    "url": "/sempla/career/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "8c6d362",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 816,
+                    "sizes": []
+                },
+                "boxed_width_tablet": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "boxed_width_mobile": {
+                    "unit": "%",
+                    "size": "",
+                    "sizes": []
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "80",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "108",
+                    "right": "0",
+                    "bottom": "108",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Brands"
+            },
+            "elements": [
+                {
+                    "id": "6a7a689",
+                    "settings": {
+                        "title": "Our partners in this storied journey",
+                        "align": "center",
+                        "_animation": "fadeInDown"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "40fc3b4",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "grid_columns_grid_mobile": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "32",
+                            "row": "32",
+                            "isLinked": false,
+                            "unit": "px"
+                        },
+                        "grid_align_items": "center",
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Brands Logo",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "8b9c4fa",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-1c35a1050bedc3b6f965e00989821ff2.png",
+                                    "id": 1126,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d099b8d",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-e06baf322a8afe50303dc25a9ba63995.png",
+                                    "id": 1125,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "aed21da",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-bf014cdf94412c5cd45c21e9613377a5.png",
+                                    "id": 1124,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "194c4c4",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-d34b3263676caa7ff444835ec21cf641.png",
+                                    "id": 1127,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5d86d7e",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-08acdd53b96e107c25be5f040009e2ec.png",
+                                    "id": 1128,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5aee664",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-31-About-us-2c359f36d431f1a7f6e1f66e18081442.png",
+                                    "id": 1129,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "start"
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

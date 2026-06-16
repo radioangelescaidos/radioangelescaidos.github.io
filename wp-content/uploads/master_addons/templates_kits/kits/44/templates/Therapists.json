@@ -1,0 +1,1275 @@
+{
+    "version": "0.4",
+    "template_id": 919,
+    "title": "Therapists",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "62f7b67c",
+            "settings": {
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 813,
+                    "sizes": []
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Hero",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "363f3a22",
+                    "settings": {
+                        "title": "Meet Our Therapist Team",
+                        "header_size": "h1",
+                        "align": "center",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "3a74001",
+                    "settings": {
+                        "editor": "<p>Welcome to BalancePoint Therapy Center, where our compassionate therapists are committed to supporting your well-being journey.</p>",
+                        "align": "center",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "162e17a2",
+            "settings": {
+                "container_type": "grid",
+                "grid_rows_grid": {
+                    "unit": "fr",
+                    "size": 1,
+                    "sizes": []
+                },
+                "grid_gaps": {
+                    "column": "24",
+                    "row": "24",
+                    "isLinked": true,
+                    "unit": "px"
+                },
+                "ma_el_slider_delay": "5000",
+                "_title": "Team Menards",
+                "presetTitle": "Grid",
+                "presetIcon": "eicon-container-grid",
+                "grid_columns_grid_tablet": {
+                    "unit": "fr",
+                    "size": 2,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "132",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "overflow": "hidden",
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1cbe7225",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-e3c372f30532ca1caacf395d52d7b47a.webp",
+                            "id": 720,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Dr. Emily Johnson, Ph.D.",
+                        "ma_el_team_member_designation": "Founder & Lead Therapist",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "23e21758",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-207361fc5f11eaa378c8873baa993774.webp",
+                            "id": 721,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Sarah Martinez, LCSW",
+                        "ma_el_team_member_designation": "Clinical Social Worker",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5911ab57",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-71635b4e52ca32611c5af92243dfa052.webp",
+                            "id": 722,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Dr. Michael Patel, Psy.D.",
+                        "ma_el_team_member_designation": "Clinical Psychologist",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "45104b95",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-0962fe4738ee673c8ee865bcaed24c89.webp",
+                            "id": 723,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Rachel Nguyen, LMFT",
+                        "ma_el_team_member_designation": "Licensed Marriage, Family Therapist",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5d03701f",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-ad22a1a493fbf00784640c716483931f.webp",
+                            "id": 724,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Hannah Thompson, LCSW",
+                        "ma_el_team_member_designation": "Clinical Social Worker",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "664a8f20",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-19498c8ffbc2afa9fc1fae381ba8e9c2.webp",
+                            "id": 725,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Tyler Johnson, LPC",
+                        "ma_el_team_member_designation": "Licensed Professional Counselor",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "7d2a2280",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-cdfda0e37b30ffc2718c8c89e1e88504.webp",
+                            "id": 726,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Evan Carter, LMHC",
+                        "ma_el_team_member_designation": "Licensed Mental Health Counselor",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "4bc3f5ea",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-3ec1e9a12b87b17b3f230cfbba775225.webp",
+                            "id": 727,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Gabriela Morales, LPC",
+                        "ma_el_team_member_designation": "Clinical Psychologist",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                },
+                {
+                    "id": "323443db",
+                    "settings": {
+                        "ma_el_team_member_image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-44-Therapists-e04d4425b52f4b6fb6ac5d4b03048d64.webp",
+                            "id": 728,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "ma_el_team_member_name": "Dr. Michael Patel, Psy.D.",
+                        "ma_el_team_member_designation": "Licensed Professional Counselor",
+                        "ma_el_team_member_description": "",
+                        "ma_el_team_members_content_align": "center",
+                        "ma_el_team_member_social_profile_links": [
+                            {
+                                "social": {
+                                    "value": "fab fa-facebook-f",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "b6cb70b"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-twitter",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "166b545"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-google",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "1ed5cd7"
+                            },
+                            {
+                                "social": {
+                                    "value": "fab fa-github",
+                                    "library": "fa-brands"
+                                },
+                                "_id": "03eb7e0"
+                            }
+                        ],
+                        "ma_el_team_members_social_align": "center",
+                        "jltma_team_member_socials_padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true,
+                            "size": 8
+                        },
+                        "jltma_team_member_socials_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "custom_css": "selector ul.jltma-team-member-social {\n        padding: 0px !important;\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    margin-top: 20px;\n    \n}\n\nselector ul.jltma-team-member-social li {\n    margin: 0px !important;\n    \n}",
+                        "__globals__": {
+                            "ma_el_team_member_social_icon_color": "globals/colors?id=primary",
+                            "ma_el_team_member_social_color_1": "",
+                            "ma_el_team_members_bg": "globals/colors?id=secondary",
+                            "ma_el_team_member_social_icon_hover_color": "globals/colors?id=accent",
+                            "ma_el_title_color": "globals/colors?id=primary",
+                            "title_typography_typography": "globals/typography?id=5091f3b",
+                            "ma_el_designation_color": "globals/colors?id=text",
+                            "designation_typography_typography": "globals/typography?id=text"
+                        },
+                        "ma_el_team_members_bg": "#FFFFFF",
+                        "jltma_team_members_thumb_radius": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_members_style_thumb_padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "0",
+                            "bottom": "24",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_name_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_designation_margin": {
+                            "unit": "px",
+                            "top": "4",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "jltma_team_member_description_margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "ma_el_team_member_social_icon_color": "#FFFFFF",
+                        "ma_el_team_member_social_color_1": "",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "ma-team-members",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": true
+        }
+    ]
+}

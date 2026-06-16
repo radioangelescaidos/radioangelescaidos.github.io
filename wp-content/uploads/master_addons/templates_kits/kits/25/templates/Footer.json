@@ -1,0 +1,567 @@
+{
+    "version": "0.4",
+    "template_id": 249,
+    "title": "Footer",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "541adc25",
+            "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#131518",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7d6f3e78",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1295,
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "97",
+                            "right": "0",
+                            "bottom": "90",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "15ce5c82",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "232",
+                                    "row": "32",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 232
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "flex_wrap_tablet": "wrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2c286d28",
+                                    "settings": {
+                                        "image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-25-Footer-7bf0779f51ba075d33252aa6573659e3.png",
+                                            "id": 55,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_size": "full",
+                                        "jltma_section_element_link": {
+                                            "url": "https://el.master-addons.com/shiftflow/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "55c4f976",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_gap": {
+                                            "column": "58",
+                                            "row": "32",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 58
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "flex_gap_tablet": {
+                                            "column": "32",
+                                            "row": "32",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": 32
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1ddce078",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "flex_gap_tablet": {
+                                                    "column": "0",
+                                                    "row": "0",
+                                                    "isLinked": true,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "29268f85",
+                                                    "settings": {
+                                                        "icon_list": [
+                                                            {
+                                                                "text": "Software Engineer Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "_id": "26f4a03",
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                }
+                                                            },
+                                                            {
+                                                                "text": "Marketing Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                },
+                                                                "_id": "8345c7a"
+                                                            },
+                                                            {
+                                                                "text": "Graphic Design Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                },
+                                                                "_id": "f736ac2"
+                                                            },
+                                                            {
+                                                                "text": "UI Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                },
+                                                                "_id": "8758a7e"
+                                                            }
+                                                        ],
+                                                        "space_between": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_typography": "custom",
+                                                        "icon_typography_font_family": "IBM Plex Sans",
+                                                        "icon_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_font_weight": "400",
+                                                        "icon_typography_line_height": {
+                                                            "unit": "custom",
+                                                            "size": "150%",
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_line_height_tablet": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_line_height_mobile": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#FFFFFF",
+                                                        "icon_typography_text_decoration": "none"
+                                                    },
+                                                    "widgetType": "icon-list",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "3dbd6991",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "flex_gap_tablet": {
+                                                    "column": "0",
+                                                    "row": "0",
+                                                    "isLinked": true,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "2113d2fd",
+                                                    "settings": {
+                                                        "icon_list": [
+                                                            {
+                                                                "text": "Sales Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "_id": "26f4a03",
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                }
+                                                            },
+                                                            {
+                                                                "text": "Admin Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                },
+                                                                "_id": "8345c7a"
+                                                            },
+                                                            {
+                                                                "text": "Customer Support Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                },
+                                                                "_id": "f736ac2"
+                                                            },
+                                                            {
+                                                                "text": "Development Jobs",
+                                                                "selected_icon": {
+                                                                    "value": "",
+                                                                    "library": ""
+                                                                },
+                                                                "link": {
+                                                                    "url": "#",
+                                                                    "is_external": "",
+                                                                    "nofollow": "",
+                                                                    "custom_attributes": ""
+                                                                },
+                                                                "_id": "8758a7e"
+                                                            }
+                                                        ],
+                                                        "space_between": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_typography": "custom",
+                                                        "icon_typography_font_family": "IBM Plex Sans",
+                                                        "icon_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_font_weight": "400",
+                                                        "icon_typography_line_height": {
+                                                            "unit": "custom",
+                                                            "size": "150%",
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_line_height_tablet": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "icon_typography_line_height_mobile": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#FFFFFF",
+                                                        "icon_typography_text_decoration": "none"
+                                                    },
+                                                    "widgetType": "icon-list",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "73c6d814",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "flex_gap": {
+                                                    "column": "0",
+                                                    "row": "0",
+                                                    "isLinked": true,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "608ce26f",
+                                                    "settings": {
+                                                        "title": "Get instantly notified on your <br> inbox when new job added",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "IBM Plex Sans",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "500",
+                                                        "typography_line_height": {
+                                                            "unit": "custom",
+                                                            "size": "150%",
+                                                            "sizes": []
+                                                        },
+                                                        "typography_line_height_tablet": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "typography_line_height_mobile": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#FFFFFF"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "3f616b23",
+                                                    "settings": {
+                                                        "ma_cf7_list": "59",
+                                                        "ma_cf7ainer_border_top": "",
+                                                        "ma_cf7_width": {
+                                                            "unit": "%",
+                                                            "size": 100,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": true
+                                                        },
+                                                        "ma_cf7_field_bg": "#FFFFFF",
+                                                        "ma_cf7_field_padding": {
+                                                            "unit": "px",
+                                                            "top": "12",
+                                                            "right": "16",
+                                                            "bottom": "12",
+                                                            "left": "16",
+                                                            "isLinked": false,
+                                                            "size": 15
+                                                        },
+                                                        "field_border_border": "solid",
+                                                        "field_border_width": {
+                                                            "unit": "px",
+                                                            "top": "1",
+                                                            "right": "1",
+                                                            "bottom": "1",
+                                                            "left": "1",
+                                                            "isLinked": true
+                                                        },
+                                                        "field_border_color": "#DDE1E4",
+                                                        "ma_cf7_field_radius": {
+                                                            "unit": "px",
+                                                            "top": "12",
+                                                            "right": "12",
+                                                            "bottom": "12",
+                                                            "left": "12",
+                                                            "isLinked": true
+                                                        },
+                                                        "ma_cf7_button_typography_typography": "custom",
+                                                        "ma_cf7_button_typography_font_family": "IBM Plex Sans",
+                                                        "ma_cf7_button_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_button_typography_font_weight": "500",
+                                                        "ma_cf7_button_typography_line_height": {
+                                                            "unit": "custom",
+                                                            "size": "150%",
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_button_typography_line_height_tablet": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_button_typography_line_height_mobile": {
+                                                            "unit": "custom",
+                                                            "size": "",
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_button_border_radius": {
+                                                            "unit": "px",
+                                                            "top": "8",
+                                                            "right": "8",
+                                                            "bottom": "8",
+                                                            "left": "8",
+                                                            "isLinked": true
+                                                        },
+                                                        "button_padding": {
+                                                            "unit": "px",
+                                                            "top": "12",
+                                                            "right": "40",
+                                                            "bottom": "12",
+                                                            "left": "40",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "widgetType": "ma-contact-form-7",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

@@ -1,0 +1,1531 @@
+{
+    "version": "0.4",
+    "template_id": 878,
+    "title": "Contact Us\u200b",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "0304f98",
+            "settings": {
+                "content_width": "full",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_color_b": "#F6FBFF",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 135,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_color": "globals/colors?id=38261bf"
+                }
+            },
+            "elements": [
+                {
+                    "id": "b84d5c7",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1296,
+                            "sizes": []
+                        },
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "0",
+                            "bottom": "126",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "flex_wrap_tablet": "wrap",
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "0",
+                            "bottom": "100",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3953d4d",
+                            "settings": {
+                                "title": "Contact Us",
+                                "typography_font_family": "Space Grotesk",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 64,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "700",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 72,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -2,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 1039,
+                                    "sizes": []
+                                },
+                                "_element_custom_width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_flex_align_self": "center",
+                                "header_size": "h1"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "63bba94",
+                            "settings": {
+                                "title": "We're constantly pushing the boundaries of what's possible and seeking new ways to improve our services.",
+                                "header_size": "p",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align": "center",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 551,
+                                    "sizes": []
+                                },
+                                "_flex_align_self": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals/typography?id=text"
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "9682d4b",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "32",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width": {
+                                    "unit": "px",
+                                    "size": 1276,
+                                    "sizes": []
+                                },
+                                "flex_direction": "row",
+                                "flex_justify_content": "space-between",
+                                "flex_wrap_tablet": "wrap",
+                                "background_background": "classic",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "70",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "center"
+                            },
+                            "elements": [
+                                {
+                                    "id": "0e8fba5",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "px",
+                                            "size": 574,
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "custom",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "0",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5d76b24",
+                                            "settings": {
+                                                "title": "We\u2019re happy to discuss your project and answer any question",
+                                                "header_size": "h3",
+                                                "typography_font_family": "Space Grotesk",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "700",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.5,
+                                                    "sizes": []
+                                                },
+                                                "_element_width": "initial",
+                                                "_element_custom_width": {
+                                                    "unit": "px",
+                                                    "size": 373,
+                                                    "sizes": []
+                                                },
+                                                "_element_custom_width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "_element_custom_width_mobile": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "42bc35a",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "container_type": "grid",
+                                                "flex_gap": {
+                                                    "column": "0",
+                                                    "row": "40",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "grid_columns_grid": {
+                                                    "unit": "fr",
+                                                    "size": 2,
+                                                    "sizes": []
+                                                },
+                                                "grid_rows_grid": {
+                                                    "unit": "fr",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "grid_gaps": {
+                                                    "column": "32",
+                                                    "row": "32",
+                                                    "isLinked": true,
+                                                    "unit": "px"
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "62",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "margin_tablet": {
+                                                    "unit": "px",
+                                                    "top": "40",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "presetTitle": "Grid",
+                                                "presetIcon": "eicon-container-grid"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "1f51349",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_gap": {
+                                                            "column": "0",
+                                                            "row": "15",
+                                                            "isLinked": false,
+                                                            "unit": "px",
+                                                            "size": 0
+                                                        },
+                                                        "ma_el_slider_delay": "5000",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "presetTitle": "Container",
+                                                        "presetIcon": "eicon-container"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "5fa2c12",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_direction": "row",
+                                                                "flex_gap": {
+                                                                    "column": "8",
+                                                                    "row": "8",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 8
+                                                                },
+                                                                "ma_el_slider_delay": "5000",
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "flex_align_items": "center"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "36f23f2",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-30-Contact-Us\u200b-8364ace0d3648d511dd3a206fe89c74e.png",
+                                                                            "id": 961,
+                                                                            "size": "",
+                                                                            "alt": "Toll Free Number",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "width": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": true
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "f916464",
+                                                                    "settings": {
+                                                                        "icon_list": [
+                                                                            {
+                                                                                "text": "Toll Free Number",
+                                                                                "selected_icon": {
+                                                                                    "value": "",
+                                                                                    "library": ""
+                                                                                },
+                                                                                "_id": "16d7640"
+                                                                            }
+                                                                        ],
+                                                                        "space_between": {
+                                                                            "unit": "px",
+                                                                            "size": 8,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_typography": "custom",
+                                                                        "icon_typography_font_size": {
+                                                                            "unit": "px",
+                                                                            "size": 18,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_weight": "700",
+                                                                        "icon_typography_line_height": {
+                                                                            "unit": "px",
+                                                                            "size": 28,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_size_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 16,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 14,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_line_height_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 26,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_line_height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "icon-list",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "elType": "container",
+                                                            "isInner": true
+                                                        },
+                                                        {
+                                                            "id": "977eb67",
+                                                            "settings": {
+                                                                "title": "+1 0123 456 789",
+                                                                "header_size": "p",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 16,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "400",
+                                                                "typography_line_height": {
+                                                                    "unit": "px",
+                                                                    "size": 24,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_size_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 22,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals/colors?id=de1184e"
+                                                                }
+                                                            },
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                },
+                                                {
+                                                    "id": "b7b6b72",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_gap": {
+                                                            "column": "0",
+                                                            "row": "15",
+                                                            "isLinked": false,
+                                                            "unit": "px",
+                                                            "size": 0
+                                                        },
+                                                        "ma_el_slider_delay": "5000",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "presetTitle": "Container",
+                                                        "presetIcon": "eicon-container"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "fbc86d9",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_direction": "row",
+                                                                "flex_align_items": "center",
+                                                                "flex_gap": {
+                                                                    "column": "8",
+                                                                    "row": "8",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 8
+                                                                },
+                                                                "ma_el_slider_delay": "5000",
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "155930b",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-30-Contact-Us\u200b-f396bd7c9638dd4514197c47c5fedec1.png",
+                                                                            "id": 959,
+                                                                            "size": "",
+                                                                            "alt": "",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "width": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": true
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "1bcc9fe",
+                                                                    "settings": {
+                                                                        "icon_list": [
+                                                                            {
+                                                                                "text": "Mail Address",
+                                                                                "selected_icon": {
+                                                                                    "value": "",
+                                                                                    "library": ""
+                                                                                },
+                                                                                "_id": "16d7640"
+                                                                            }
+                                                                        ],
+                                                                        "space_between": {
+                                                                            "unit": "px",
+                                                                            "size": 8,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_color": "#6EC1E400",
+                                                                        "icon_size": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_typography": "custom",
+                                                                        "icon_typography_font_size": {
+                                                                            "unit": "px",
+                                                                            "size": 18,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_weight": "700",
+                                                                        "icon_typography_line_height": {
+                                                                            "unit": "px",
+                                                                            "size": 28,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_size_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 16,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 14,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_line_height_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 26,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_line_height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "icon-list",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "elType": "container",
+                                                            "isInner": true
+                                                        },
+                                                        {
+                                                            "id": "01153f4",
+                                                            "settings": {
+                                                                "title": "info@example.com",
+                                                                "header_size": "p",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 16,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "400",
+                                                                "typography_line_height": {
+                                                                    "unit": "px",
+                                                                    "size": 24,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_size_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 22,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals/colors?id=de1184e"
+                                                                }
+                                                            },
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                },
+                                                {
+                                                    "id": "edc249f",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_gap": {
+                                                            "column": "0",
+                                                            "row": "15",
+                                                            "isLinked": false,
+                                                            "unit": "px",
+                                                            "size": 0
+                                                        },
+                                                        "ma_el_slider_delay": "5000",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "presetTitle": "Container",
+                                                        "presetIcon": "eicon-container"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "813a5c3",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_direction": "row",
+                                                                "flex_align_items": "center",
+                                                                "flex_gap": {
+                                                                    "column": "8",
+                                                                    "row": "8",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 8
+                                                                },
+                                                                "ma_el_slider_delay": "5000",
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "5658ac6",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-30-Contact-Us\u200b-f396bd7c9638dd4514197c47c5fedec1.png",
+                                                                            "id": 959,
+                                                                            "size": "",
+                                                                            "alt": "Working Hours",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "width": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": true
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "63cc3d1",
+                                                                    "settings": {
+                                                                        "icon_list": [
+                                                                            {
+                                                                                "text": "Working Hours",
+                                                                                "selected_icon": {
+                                                                                    "value": "",
+                                                                                    "library": ""
+                                                                                },
+                                                                                "_id": "16d7640"
+                                                                            }
+                                                                        ],
+                                                                        "space_between": {
+                                                                            "unit": "px",
+                                                                            "size": 8,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_color": "#6EC1E400",
+                                                                        "icon_size": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_typography": "custom",
+                                                                        "icon_typography_font_size": {
+                                                                            "unit": "px",
+                                                                            "size": 18,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_weight": "700",
+                                                                        "icon_typography_line_height": {
+                                                                            "unit": "px",
+                                                                            "size": 28,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 14,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_line_height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "icon-list",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "elType": "container",
+                                                            "isInner": true
+                                                        },
+                                                        {
+                                                            "id": "2748cf6",
+                                                            "settings": {
+                                                                "editor": "<p>Mon To Fri, <br />9:00 AM to 8:00 PM</p>",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 16,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "400",
+                                                                "typography_line_height": {
+                                                                    "unit": "px",
+                                                                    "size": 24,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_size_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 22,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "text_color": "globals/colors?id=de1184e"
+                                                                }
+                                                            },
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                },
+                                                {
+                                                    "id": "dca35e3",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_gap": {
+                                                            "column": "0",
+                                                            "row": "15",
+                                                            "isLinked": false,
+                                                            "unit": "px",
+                                                            "size": 0
+                                                        },
+                                                        "ma_el_slider_delay": "5000",
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "presetTitle": "Container",
+                                                        "presetIcon": "eicon-container"
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "088d98a",
+                                                            "settings": {
+                                                                "content_width": "full",
+                                                                "flex_direction": "row",
+                                                                "flex_align_items": "center",
+                                                                "flex_gap": {
+                                                                    "column": "8",
+                                                                    "row": "8",
+                                                                    "isLinked": true,
+                                                                    "unit": "px",
+                                                                    "size": 8
+                                                                },
+                                                                "ma_el_slider_delay": "5000",
+                                                                "padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "fb6c6d2",
+                                                                    "settings": {
+                                                                        "image": {
+                                                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-30-Contact-Us\u200b-155bd027eebdfa029be1ed9a05539303.png",
+                                                                            "id": 958,
+                                                                            "size": "",
+                                                                            "alt": "Office Address",
+                                                                            "source": "library"
+                                                                        },
+                                                                        "width": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "width_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "image_border_radius": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": true
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "image",
+                                                                    "elType": "widget"
+                                                                },
+                                                                {
+                                                                    "id": "a587f79",
+                                                                    "settings": {
+                                                                        "icon_list": [
+                                                                            {
+                                                                                "text": "Working Hours",
+                                                                                "selected_icon": {
+                                                                                    "value": "",
+                                                                                    "library": ""
+                                                                                },
+                                                                                "_id": "16d7640"
+                                                                            }
+                                                                        ],
+                                                                        "space_between": {
+                                                                            "unit": "px",
+                                                                            "size": 8,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_color": "#6EC1E400",
+                                                                        "icon_size": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_typography": "custom",
+                                                                        "icon_typography_font_size": {
+                                                                            "unit": "px",
+                                                                            "size": 18,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_weight": "700",
+                                                                        "icon_typography_line_height": {
+                                                                            "unit": "px",
+                                                                            "size": 28,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 22,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 20,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_size_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 16,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_font_size_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 14,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_line_height_tablet": {
+                                                                            "unit": "px",
+                                                                            "size": 26,
+                                                                            "sizes": []
+                                                                        },
+                                                                        "icon_typography_line_height_mobile": {
+                                                                            "unit": "px",
+                                                                            "size": 24,
+                                                                            "sizes": []
+                                                                        }
+                                                                    },
+                                                                    "widgetType": "icon-list",
+                                                                    "elType": "widget"
+                                                                }
+                                                            ],
+                                                            "elType": "container",
+                                                            "isInner": true
+                                                        },
+                                                        {
+                                                            "id": "96105a6",
+                                                            "settings": {
+                                                                "editor": "<p>77408 Satterfield Motorway Suite 469 New York, USA.</p>",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 16,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "400",
+                                                                "typography_line_height": {
+                                                                    "unit": "px",
+                                                                    "size": 24,
+                                                                    "sizes": []
+                                                                },
+                                                                "text_color": "#7A7A7A",
+                                                                "typography_font_size_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_tablet": {
+                                                                    "unit": "px",
+                                                                    "size": 22,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "elType": "container",
+                                                    "isInner": true
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "dcb1adc",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "px",
+                                            "size": 549,
+                                            "sizes": []
+                                        },
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "0",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "32",
+                                            "right": "32",
+                                            "bottom": "32",
+                                            "left": "32",
+                                            "isLinked": true
+                                        },
+                                        "background_background": "classic",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        },
+                                        "box_shadow_box_shadow_type": "yes",
+                                        "box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 2.98,
+                                            "blur": 59.57,
+                                            "spread": 0,
+                                            "color": "rgba(0, 0, 0, 0.08)"
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals/colors?id=5f71b0a"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "ff2e611",
+                                            "settings": {
+                                                "title": "Send Us Message",
+                                                "header_size": "h3",
+                                                "typography_font_family": "Space Grotesk",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "700",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.54000000000000004,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "72957d6",
+                                            "settings": {
+                                                "title": "Feel free to fill up the form and our team will get back to you within 24 hours.",
+                                                "header_size": "p",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "18",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "initial",
+                                                "_element_custom_width": {
+                                                    "unit": "px",
+                                                    "size": 377,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_tablet": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals/colors?id=de1184e"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "487da3c",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_gap": {
+                                                    "column": "0",
+                                                    "row": "0",
+                                                    "isLinked": false,
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "ma_el_slider_delay": "5000",
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "41ac1fc",
+                                                    "settings": {
+                                                        "ma_cf7_list": "74",
+                                                        "ma_cf7ainer_border_top": "",
+                                                        "ma_cf7_padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": true
+                                                        },
+                                                        "ma_cf7_field_padding": {
+                                                            "unit": "px",
+                                                            "top": "18",
+                                                            "right": "22",
+                                                            "bottom": "18",
+                                                            "left": "22",
+                                                            "isLinked": false,
+                                                            "size": 15
+                                                        },
+                                                        "field_border_border": "solid",
+                                                        "field_border_width": {
+                                                            "unit": "px",
+                                                            "top": "1",
+                                                            "right": "1",
+                                                            "bottom": "1",
+                                                            "left": "1",
+                                                            "isLinked": true
+                                                        },
+                                                        "field_border_color": "#DFE3E8",
+                                                        "ma_cf7_field_radius": {
+                                                            "unit": "px",
+                                                            "top": "8",
+                                                            "right": "8",
+                                                            "bottom": "8",
+                                                            "left": "8",
+                                                            "isLinked": true
+                                                        },
+                                                        "text_color_label": "#171A1F",
+                                                        "ma_cf7_typography_label_typography": "custom",
+                                                        "ma_cf7_typography_label_font_family": "Space Grotesk",
+                                                        "ma_cf7_typography_label_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_typography_label_font_weight": "700",
+                                                        "ma_cf7_typography_label_line_height": {
+                                                            "unit": "px",
+                                                            "size": 28,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_button_typography_typography": "custom",
+                                                        "ma_cf7_button_typography_font_family": "Space Grotesk",
+                                                        "ma_cf7_button_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_button_typography_font_weight": "700",
+                                                        "ma_cf7_button_typography_line_height": {
+                                                            "unit": "px",
+                                                            "size": 22,
+                                                            "sizes": []
+                                                        },
+                                                        "ma_cf7_button_bg_color_normal_background": "classic",
+                                                        "ma_cf7_button_bg_color_normal_color": "#28D08A",
+                                                        "ma_cf7_button_border_radius": {
+                                                            "unit": "px",
+                                                            "top": "16",
+                                                            "right": "16",
+                                                            "bottom": "16",
+                                                            "left": "16",
+                                                            "isLinked": true
+                                                        },
+                                                        "button_padding": {
+                                                            "unit": "px",
+                                                            "top": "16",
+                                                            "right": "16",
+                                                            "bottom": "16",
+                                                            "left": "16",
+                                                            "isLinked": false
+                                                        },
+                                                        "ma_cf7_button_text_color_hover": "",
+                                                        "ma_cf7_button_border_color_hover": ""
+                                                    },
+                                                    "widgetType": "ma-contact-form-7",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

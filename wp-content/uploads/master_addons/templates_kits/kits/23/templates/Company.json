@@ -1,0 +1,3204 @@
+{
+    "version": "0.4",
+    "template_id": 316,
+    "title": "Company",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "8bf80d1",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "background_color": "#F2EDFB",
+                "ma_el_slider_delay": "5000",
+                "border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "61f2b29",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_align_items": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "e261d1f",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-754c6773923268d3b5b1b5cad0ffc19c.jpg",
+                                        "id": 47
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "49285a7",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7023a0d",
+                                    "settings": {
+                                        "title": "Company",
+                                        "header_size": "h1",
+                                        "align": "center",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Roboto",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 72,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "600",
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -2.5,
+                                            "sizes": []
+                                        },
+                                        "title_color": "#371A5B",
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "e897047",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-6960349ae2275f8bea6cc844ac80b8cc.jpg",
+                                        "id": 49
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_orientation_v": "end",
+                                "size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "0c1889e",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0"
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "8adc52c",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "flex_justify_content": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "fb451d3",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-a48f02988e5915b6df6259e3b7ac2c46.webp",
+                                    "id": 201,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "cd4350b",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "0c4e6bb",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-a208f9e42ae1c3105ba3f2ae1fec2b23.webp",
+                                    "id": 198,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d0cf64e",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-4dd90f974dfb2a0ddb9fcaccb1547b4e.jpg",
+                                    "id": 53,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "ec462aa",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "flex_justify_content": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "cebf336",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-3c483da2430cb19bcd39f26550465d17.webp",
+                                    "id": 204,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "87f05a5",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "e0711df",
+                    "settings": {
+                        "jltma_logo_slider_items": [
+                            {
+                                "jltma_logo_slider_brand_name": "Brand Name 1",
+                                "_id": "2f1a16e",
+                                "jltma_logo_slider_image_normal": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-8d976d6f9590026a213c484cf95662be.png",
+                                    "id": 95,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "jltma_logo_slider_brand_description": "Brand Short Description Type Here.",
+                                "jltma_logo_slider_tooltip_text": "This is Element Tooltip"
+                            },
+                            {
+                                "jltma_logo_slider_brand_name": "Brand Name 2",
+                                "_id": "180c331",
+                                "jltma_logo_slider_image_normal": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-eb37aecf942aad886ce10a05325ee841.png",
+                                    "id": 94,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "jltma_logo_slider_brand_description": "Brand Short Description Type Here.",
+                                "jltma_logo_slider_tooltip_text": "This is Element Tooltip"
+                            },
+                            {
+                                "jltma_logo_slider_brand_name": "Brand Name 3",
+                                "_id": "279b7c2",
+                                "jltma_logo_slider_image_normal": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-50abd6b5311486cd7fcc4147c0b56738.png",
+                                    "id": 93,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "jltma_logo_slider_brand_description": "Brand Short Description Type Here.",
+                                "jltma_logo_slider_tooltip_text": "This is Element Tooltip"
+                            },
+                            {
+                                "jltma_logo_slider_brand_name": "Brand Name 4",
+                                "_id": "1d125e4",
+                                "jltma_logo_slider_image_normal": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-3444145728e4af9842b8904f7b59b818.png",
+                                    "id": 92,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "jltma_logo_slider_brand_description": "Brand Short Description Type Here.",
+                                "jltma_logo_slider_tooltip_text": "This is Element Tooltip"
+                            },
+                            {
+                                "jltma_logo_slider_brand_name": "Brand Name 5",
+                                "_id": "c63e31f",
+                                "jltma_logo_slider_image_normal": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-59d8995114a42fe0f0d1710092411cfb.png",
+                                    "id": 91,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "jltma_logo_slider_brand_description": "Brand Short Description Type Here.",
+                                "jltma_logo_slider_tooltip_text": "This is Element Tooltip"
+                            },
+                            {
+                                "_id": "58f2640",
+                                "jltma_logo_slider_image_normal": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-5d99b14ce41af21d5259944f7d890d18.png",
+                                    "id": 90,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "jltma_logo_slider_brand_name": "Brand Name",
+                                "jltma_logo_slider_brand_description": "Brand Short Description Type Here.",
+                                "jltma_logo_slider_tooltip_text": "This is Element Tooltip"
+                            }
+                        ],
+                        "navigation": "none",
+                        "columns": "6",
+                        "columns_tablet": "5",
+                        "columns_mobile": "3"
+                    },
+                    "widgetType": "jltma-logo-slider",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "7e1c244",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "border_radius": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "30",
+                    "bottom": "30",
+                    "left": "30",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "cfa0706",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "00ccf96",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Our Values",
+                                        "selected_icon": {
+                                            "value": "fas fa-chart-line",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "599c6ee"
+                                    }
+                                ],
+                                "icon_align": "start",
+                                "icon_color": "#371A5B",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "500",
+                                "text_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "8",
+                                    "bottom": "4",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "flex-start",
+                                "_offset_orientation_h": "end",
+                                "_offset_orientation_v": "end",
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": -23,
+                                    "sizes": []
+                                },
+                                "_background_background": "classic",
+                                "_border_border": "solid",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_border_color": "#BB7CE466",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "c199b4e",
+                            "settings": {
+                                "title": "Guiding principles for </br> client success.",
+                                "align": "start",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -2,
+                                    "sizes": []
+                                },
+                                "title_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_z_index": 2,
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "bf6e560",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "ma_el_slider_delay": "5000",
+                                "flex_wrap_tablet": "wrap",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "c7aefd6",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6799ff3",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": {
+                                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-a35f33e2644bfbf4a1919aae279a68aa.jpg",
+                                                        "id": 205
+                                                    },
+                                                    "library": "svg"
+                                                },
+                                                "title_text": "Product Design",
+                                                "description_text": "Our subscription-based design service gives you access to a dedicated team.",
+                                                "position": "inline-start",
+                                                "text_align": "start",
+                                                "primary_color": "#371A5B",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Inter",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.5,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#371A5B",
+                                                "hover_title_color": "#371A5B",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_family": "Inter",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_font_weight": "400",
+                                                "description_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.5,
+                                                    "sizes": []
+                                                },
+                                                "description_color": "#595E65",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "9351fcd",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "852a074",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": {
+                                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-f992f0662bacae590971a37a92aa113b.jpg",
+                                                        "id": 206
+                                                    },
+                                                    "library": "svg"
+                                                },
+                                                "title_text": "Design Excellence",
+                                                "description_text": "Meticulously crafting every aspect of a design to achieve a polished outcome.",
+                                                "position": "inline-start",
+                                                "text_align": "start",
+                                                "primary_color": "#371A5B",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Inter",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.5,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#371A5B",
+                                                "hover_title_color": "#371A5B",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_family": "Inter",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_font_weight": "400",
+                                                "description_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.5,
+                                                    "sizes": []
+                                                },
+                                                "description_color": "#595E65",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "52b6f1b",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "61478da",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": {
+                                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-14ed1dbe5c3f5e0633fbd4ff7b56e781.jpg",
+                                                        "id": 207
+                                                    },
+                                                    "library": "svg"
+                                                },
+                                                "title_text": "Empowering Clients",
+                                                "description_text": "Providing your clients with the design tools and knowledge to achieve.",
+                                                "position": "inline-start",
+                                                "text_align": "start",
+                                                "primary_color": "#371A5B",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Inter",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.5,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#371A5B",
+                                                "hover_title_color": "#371A5B",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_family": "Inter",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_font_weight": "400",
+                                                "description_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -0.5,
+                                                    "sizes": []
+                                                },
+                                                "description_color": "#595E65",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "bde2ccf",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "255c40f",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_align_items": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "c5007e3",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "078ddad",
+                                    "settings": {
+                                        "title": "Unlimited design requests with our subscription plans. Get started with our simple process.",
+                                        "align": "center",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Roboto",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 56,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "600",
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -2,
+                                            "sizes": []
+                                        },
+                                        "title_color": "#371A5B",
+                                        "_z_index": 2,
+                                        "typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 35,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_mobile": {
+                                            "unit": "px",
+                                            "size": -1.2,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "9d8b49c",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "80+ Clients",
+                                        "selected_icon": {
+                                            "value": "far fa-heart",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "599c6ee"
+                                    }
+                                ],
+                                "icon_align": "center",
+                                "icon_color": "#371A5B",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "500",
+                                "text_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "12",
+                                    "bottom": "8",
+                                    "left": "12",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "center",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_orientation_v": "end",
+                                "_transform_rotate_popover": "transform",
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": -23,
+                                    "sizes": []
+                                },
+                                "_background_background": "classic",
+                                "_background_color": "#FFFFFF",
+                                "_border_border": "solid",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_border_color": "#CDD2D8",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "_offset_y_end_mobile": {
+                                    "unit": "px",
+                                    "size": -39,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "988b920",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "4.7 Star Reviews",
+                                        "selected_icon": {
+                                            "value": "far fa-star",
+                                            "library": "fa-regular"
+                                        },
+                                        "_id": "599c6ee"
+                                    }
+                                ],
+                                "icon_align": "center",
+                                "icon_color": "#FFFFFF",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "500",
+                                "text_color": "#FFFFFF",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "12",
+                                    "bottom": "15",
+                                    "left": "12",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "center",
+                                "_position": "absolute",
+                                "_transform_rotate_popover": "transform",
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": -23,
+                                    "sizes": []
+                                },
+                                "_background_background": "classic",
+                                "_background_color": "#BB7CE4",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_border_color": "#CDD2D8",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "_offset_y_tablet": {
+                                    "unit": "px",
+                                    "size": -35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "9aff72a",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2f033e6",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "88b96a1",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-0a2322ac50bee2a0db72c635780ba7e6.jpg",
+                                        "id": 48
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_x_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_x_end": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "_offset_x_end_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_x_end_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_transform_rotate_popover": "transform",
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "fa3e86c",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Client Outcomes",
+                                        "selected_icon": {
+                                            "value": "fas fa-chart-line",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "599c6ee"
+                                    }
+                                ],
+                                "icon_align": "start",
+                                "icon_color": "#371A5B",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "500",
+                                "text_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "8",
+                                    "bottom": "4",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "flex-start",
+                                "_offset_orientation_h": "end",
+                                "_offset_orientation_v": "end",
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": -23,
+                                    "sizes": []
+                                },
+                                "_background_background": "classic",
+                                "_border_border": "solid",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_border_color": "#BB7CE466",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "beb5435",
+                            "settings": {
+                                "title": "Client success</br> stories in numbers.",
+                                "align": "start",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -2,
+                                    "sizes": []
+                                },
+                                "title_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_z_index": 2,
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "9370d96",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "8e70905",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1a375dc",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-9c2dde341f4e4e08b49067ce58c8104b.webp",
+                                                    "id": 82,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "9378f40",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 50,
+                                            "sizes": []
+                                        },
+                                        "flex_justify_content": "space-between",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "25",
+                                            "bottom": "25",
+                                            "left": "25",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4217d88",
+                                            "settings": {
+                                                "title": "24%",
+                                                "align": "start",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Roboto",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 56,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -2,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#371A5B",
+                                                "_z_index": 2
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "42aa1ce",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6a9e971",
+                                                    "settings": {
+                                                        "title": "Client retention rate",
+                                                        "header_size": "h4",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "61e47d7",
+                                                    "settings": {
+                                                        "editor": "<p>Our subscription-based design service gives you access to a dedicated team.</p>",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "1a83f1c",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "flex_wrap_tablet": "wrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "f618277",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "flex_justify_content": "space-between",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "25",
+                                            "bottom": "25",
+                                            "left": "25",
+                                            "isLinked": true
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "8c65eb5",
+                                            "settings": {
+                                                "title": "0%",
+                                                "align": "start",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Roboto",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 56,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -2,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#371A5B",
+                                                "_z_index": 2
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "8edcb02",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6610774",
+                                                    "settings": {
+                                                        "title": "Reduced design request",
+                                                        "header_size": "h4",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "3f438ab",
+                                                    "settings": {
+                                                        "editor": "<p>Our subscription-based design service gives you access to a dedicated team.</p>",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "f9909fc",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "flex_justify_content": "space-between",
+                                        "background_background": "classic",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6de212a",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-656d0d98e3cdde623e26f50e14cec530.webp",
+                                                    "id": 83,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "85256e1",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "flex_justify_content": "space-between",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "25",
+                                            "bottom": "25",
+                                            "left": "25",
+                                            "isLinked": true
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "694b0b3",
+                                            "settings": {
+                                                "title": "85%",
+                                                "align": "start",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Roboto",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 56,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -2,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#371A5B",
+                                                "_z_index": 2
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "59068ac",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "061565c",
+                                                    "settings": {
+                                                        "title": "Brand awareness",
+                                                        "header_size": "h4",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "ed607f7",
+                                                    "settings": {
+                                                        "editor": "<p>Our subscription-based design service gives you access to a dedicated team.</p>",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "e37ed10",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "8188284",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "3a8bcec",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-a6c33ab2ee91df32eaeebeb5208a322e.jpg",
+                                        "id": 81
+                                    },
+                                    "library": "svg"
+                                },
+                                "title_text": "Adelyn Paik",
+                                "description_text": "Founder, Epidemic",
+                                "position": "inline-start",
+                                "content_vertical_alignment": "middle",
+                                "icon_space": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Inter",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "600",
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1,
+                                    "sizes": []
+                                },
+                                "title_color": "#0A0D0B",
+                                "hover_title_color": "#0A0D0B",
+                                "hover_title_color_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.29999999999999999,
+                                    "sizes": []
+                                },
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Inter",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "description_typography_font_weight": "400",
+                                "description_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                },
+                                "description_color": "#595E65",
+                                "_flex_align_self": "center"
+                            },
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2e1acc3",
+                            "settings": {
+                                "title": "\u201cSince subscribing to your design </br>service, our website conversion rate</br> has increased by 20%.\u201d",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -2,
+                                    "sizes": []
+                                },
+                                "title_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_z_index": 2,
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ce27c9d",
+                            "settings": {
+                                "jltma_counterup_contents": [
+                                    {
+                                        "number": 20,
+                                        "icon": {
+                                            "value": "far fa-thumbs-up",
+                                            "library": "regular"
+                                        },
+                                        "title": "Since implementing",
+                                        "_id": "5deb3da",
+                                        "icon_type": "none",
+                                        "number_suffix": "%"
+                                    },
+                                    {
+                                        "number": 15,
+                                        "icon": {
+                                            "value": "far fa-check-circle",
+                                            "library": "regular"
+                                        },
+                                        "title": "Improvement for clients",
+                                        "_id": "8514f91",
+                                        "icon_type": "none",
+                                        "number_suffix": "%"
+                                    },
+                                    {
+                                        "number": 20,
+                                        "icon": {
+                                            "value": "fas fa-coffee",
+                                            "library": "solid"
+                                        },
+                                        "title": "Experienced professionals",
+                                        "_id": "8c8ceca",
+                                        "icon_type": "none",
+                                        "number_suffix": "%"
+                                    }
+                                ],
+                                "column": "3",
+                                "jltma_counterup_number_color": "#371A5B",
+                                "jltma_counterup_number_typography_typography": "custom",
+                                "jltma_counterup_number_typography_font_family": "Inter",
+                                "jltma_counterup_number_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "jltma_counterup_number_typography_font_weight": "700",
+                                "jltma_counterup_number_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.5,
+                                    "sizes": []
+                                },
+                                "jltma_counterup_title_color": "#595E65",
+                                "jltma_counterup_title_typography_typography": "custom",
+                                "jltma_counterup_title_typography_font_family": "Inter",
+                                "jltma_counterup_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "jltma_counterup_title_typography_font_weight": "400",
+                                "jltma_counterup_title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "jltma-counter-up",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "66d2085",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "64db718",
+                    "settings": {
+                        "content_width": "full",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "2cd7ac2",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": {
+                                        "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-0a2322ac50bee2a0db72c635780ba7e6.jpg",
+                                        "id": 48
+                                    },
+                                    "library": "svg"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_x_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_x_end": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "_offset_x_end_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_x_end_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_transform_rotate_popover": "transform",
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b1ad7c9",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Team Members",
+                                        "selected_icon": {
+                                            "value": "fas fa-users",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "599c6ee"
+                                    }
+                                ],
+                                "icon_align": "start",
+                                "icon_color": "#371A5B",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "500",
+                                "text_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "8",
+                                    "bottom": "4",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "flex-start",
+                                "_offset_orientation_h": "end",
+                                "_offset_orientation_v": "end",
+                                "_transform_rotateZ_effect": {
+                                    "unit": "px",
+                                    "size": -23,
+                                    "sizes": []
+                                },
+                                "_background_background": "classic",
+                                "_border_border": "solid",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_border_color": "#BB7CE466",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ff5c7ad",
+                            "settings": {
+                                "title": "Meet our design </br> dream team.",
+                                "align": "start",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -2,
+                                    "sizes": []
+                                },
+                                "title_color": "#371A5B",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_z_index": 2,
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                }
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3117c03",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "flex_wrap_tablet": "wrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2f521bf",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "b7fe7b4",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "19c9f89",
+                                                    "settings": {
+                                                        "title": "Kimberly J.",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "9b19878",
+                                                    "settings": {
+                                                        "editor": "<p>General Manager</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "75a4922",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-34fa78e0dc16135cea8dbd674c3c0bc4.webp",
+                                                    "id": 228,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "926a7cb",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "81cc40e",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "a4e7b88",
+                                                    "settings": {
+                                                        "title": "Natasha Nicole",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "2c74500",
+                                                    "settings": {
+                                                        "editor": "<p>Chief Financial Officer</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "a7ad4c4",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-899a90e6d807c3334586f8dd34ef472e.webp",
+                                                    "id": 223,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "9a55f64",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "9902d64",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "82982b2",
+                                                    "settings": {
+                                                        "title": "Huang Shilin",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "4c507d4",
+                                                    "settings": {
+                                                        "editor": "<p>Product Manager</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "c6de0bf",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-543644aa0b8b52a132d8a4a9181ff6e6.webp",
+                                                    "id": 227,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "4b224c6",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5a0a7c9",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "74319eb",
+                                                    "settings": {
+                                                        "title": "Michael Dell",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "159c2a0",
+                                                    "settings": {
+                                                        "editor": "<p>Marketing Specialist</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "358f632",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-f5aa717e2be0fc00aea77006c0ebef11.webp",
+                                                    "id": 220,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full"
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "a36ce90",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "flex_wrap_tablet": "wrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4e663ac",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "cd8d923",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "f22008d",
+                                                    "settings": {
+                                                        "title": "Jeff Yass",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "4805c5a",
+                                                    "settings": {
+                                                        "editor": "<p>Chief Operating Officer</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "490b541",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-351cc559e3d70cad628e8ee6360b2520.webp",
+                                                    "id": 219,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "e7e07e4",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "8d1894a",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "33803af",
+                                                    "settings": {
+                                                        "title": "Nicole Sparks",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "d348756",
+                                                    "settings": {
+                                                        "editor": "<p>Chief Executive Officer</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "1bfc470",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-8eff061e0cda55fd61b366c69b76a4da.webp",
+                                                    "id": 226,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "ca08e0f",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "9e0d8fe",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "1bc6ce7",
+                                                    "settings": {
+                                                        "title": "James Ratcliffe",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "7edc2df",
+                                                    "settings": {
+                                                        "editor": "<p>Project Manager</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "7e0e0e3",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-55d25f1a3aa6afc1e8f6c7f3e03ac2ed.webp",
+                                                    "id": 225,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "1e53be4",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_color": "#F2EDFB",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48.5,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "670bfc7",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "ma_el_slider_delay": "5000",
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "85cccde",
+                                                    "settings": {
+                                                        "title": "Kendall Egan",
+                                                        "align": "start",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 20,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "600",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1,
+                                                            "sizes": []
+                                                        },
+                                                        "title_color": "#371A5B",
+                                                        "_z_index": 2,
+                                                        "header_size": "h3"
+                                                    },
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "00515a2",
+                                                    "settings": {
+                                                        "editor": "<p>Sales Representative</p>",
+                                                        "typography_typography": "custom",
+                                                        "typography_font_family": "Inter",
+                                                        "typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 16,
+                                                            "sizes": []
+                                                        },
+                                                        "typography_font_weight": "400",
+                                                        "typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -0.5,
+                                                            "sizes": []
+                                                        },
+                                                        "paragraph_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "text_color": "#371A5B"
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        },
+                                        {
+                                            "id": "ef83471",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-23-Company-ece4c900b04bfbd5eb3b224373e264c1.webp",
+                                                    "id": 224,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full"
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

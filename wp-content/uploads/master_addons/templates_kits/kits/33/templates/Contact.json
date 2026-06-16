@@ -1,0 +1,588 @@
+{
+    "version": "0.4",
+    "template_id": 516,
+    "title": "Contact",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2255f7a",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7d7576b",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 45,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 60,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "ae1f99a",
+                            "settings": {
+                                "title": "Get In Touch",
+                                "header_size": "h1",
+                                "align": "center"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1b63f9d",
+                            "settings": {
+                                "editor": "<p>FramerBite gives you the blocks needed to create a truly professional website for your SaaS is a long established fact that a reader.<\/p>",
+                                "align": "center"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "6392cde",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "a086065",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "51b66fd",
+                                    "settings": {
+                                        "title": "Office Time",
+                                        "header_size": "span",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=0208af7"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "12950e3",
+                                    "settings": {
+                                        "editor": "<p>Monday-Friday<br \/>9:00 am to 6:00 pm<\/p>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "5c412ec",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "517403e",
+                                    "settings": {
+                                        "title": "Our Address",
+                                        "header_size": "span",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=0208af7"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7ecd8f1",
+                                    "settings": {
+                                        "editor": "<p>4140 Parker Rd. <br \/>Allentown, USA 31134<\/p>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "21ab2a1",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "e7aa286",
+                                    "settings": {
+                                        "title": "Send Us Email",
+                                        "header_size": "span",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=0208af7"
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "32b866c",
+                                    "settings": {
+                                        "editor": "<p>framerbite@gmail.com<br \/>support@company.com<\/p>"
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "3452788",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000"
+            },
+            "elements": [
+                {
+                    "id": "8d085b5",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=624b217"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "9182916",
+                            "settings": {
+                                "ma_cf7_list": "165",
+                                "ma_cf7_padding": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "ma-contact-form-7",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "758ac72",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "f66b11f",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 65,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "d965bed",
+                            "settings": {
+                                "title": "Frequently Asked Questions",
+                                "align_tablet": "center"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "8778b73",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 90,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=5eb7d18"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "b74cae1",
+                            "settings": {
+                                "items": [
+                                    {
+                                        "item_title": "How does the free trial work?",
+                                        "_id": "ee5e728"
+                                    },
+                                    {
+                                        "item_title": "How is different from traditional software?",
+                                        "_id": "4857bdd"
+                                    },
+                                    {
+                                        "item_title": "Is my data safe with SaaS?",
+                                        "_id": "c72c390"
+                                    },
+                                    {
+                                        "item_title": "How does billing work for SaaS?",
+                                        "_id": "ae5edac"
+                                    },
+                                    {
+                                        "item_title": "Do you recommend pay as you go or pre pay?",
+                                        "_id": "484ec10"
+                                    }
+                                ],
+                                "accordion_item_title_position_horizontal": "stretch",
+                                "accordion_item_title_icon_position": "end",
+                                "faq_schema": "yes",
+                                "accordion_item_title_space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "accordion_border_normal_border": "solid",
+                                "accordion_border_normal_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "accordion_border_hover_border": "solid",
+                                "accordion_border_hover_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "accordion_border_active_border": "solid",
+                                "accordion_border_active_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "accordion_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "accordion_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "normal_icon_color": "globals\/colors?id=primary",
+                                    "active_icon_color": "globals\/colors?id=17b61a1",
+                                    "accordion_border_normal_color": "globals\/colors?id=5eb7d18",
+                                    "title_typography_typography": "globals\/typography?id=e9f0fb4",
+                                    "accordion_border_active_color": "globals\/colors?id=5eb7d18"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "aabc310",
+                                    "settings": {
+                                        "_title": "item #1",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "1",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=5eb7d18"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "b178d37",
+                                            "settings": {
+                                                "editor": "<p>It is a long established fact that a reader will be distracted by the all to readable and content of a page when looking at its hkl layout. This are simply dummy text of the printing.<\/p>"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "eb7015c",
+                                    "settings": {
+                                        "_title": "item #1",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "1",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=5eb7d18"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "86f4b18",
+                                            "settings": {
+                                                "editor": "<p>It is a long established fact that a reader will be distracted by the all to readable and content of a page when looking at its hkl layout. This are simply dummy text of the printing.<\/p>"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "f2ec174",
+                                    "settings": {
+                                        "_title": "item #1",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "1",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=5eb7d18"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5d8b766",
+                                            "settings": {
+                                                "editor": "<p>It is a long established fact that a reader will be distracted by the all to readable and content of a page when looking at its hkl layout. This are simply dummy text of the printing.<\/p>"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "c4fd60c",
+                                    "settings": {
+                                        "_title": "item #1",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "1",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=5eb7d18"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "16a3455",
+                                            "settings": {
+                                                "editor": "<p>It is a long established fact that a reader will be distracted by the all to readable and content of a page when looking at its hkl layout. This are simply dummy text of the printing.<\/p>"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "c91ceee",
+                                    "settings": {
+                                        "_title": "item #1",
+                                        "content_width": "full",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "1",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=5eb7d18"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "727cfe8",
+                                            "settings": {
+                                                "editor": "<p>It is a long established fact that a reader will be distracted by the all to readable and content of a page when looking at its hkl layout. This are simply dummy text of the printing.<\/p>"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "widgetType": "nested-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

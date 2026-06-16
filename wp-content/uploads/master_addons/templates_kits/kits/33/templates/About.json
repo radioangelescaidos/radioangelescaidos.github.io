@@ -1,0 +1,732 @@
+{
+    "version": "0.4",
+    "template_id": 470,
+    "title": "About",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7acd9bd",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0"
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "40fab23",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "009cad8",
+                            "settings": {
+                                "title": "Our story",
+                                "header_size": "h1"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "25d3ad3",
+                            "settings": {
+                                "editor": "<p>Creating account to our website and use it for your required time. We always ready to give you support all the time.</p>"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "44aa4fa",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0"
+                },
+                "flex_justify_content": "space-between",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "9d44a0d",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 45
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 49,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "cb550ce",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-About-87b2074e3d90388d7db30f51855e0fae.webp",
+                                    "id": 258,
+                                    "alt": "",
+                                    "source": "library",
+                                    "size": ""
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "a89fdb2",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "flex_justify_content": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "1bccfe8",
+                            "settings": {
+                                "title": "We\u2019ve been helping customers globally."
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "e9b0709",
+                            "settings": {
+                                "editor": "<p>Our founders Dustin Moskovitz and Justin Rosenstein met while leading Engineering teams at Facebook. As operations scaled, they grew frustrated by how difficult it was.<br /><br />We are committed to your success. Our customer-centric approach means that we are constantly listening to feedback and updating our software to meet your evolving needs. Our dedicated support team is always ready to assist you in making the most of ensuring you get the most value out of your investment.<br /><br />Our customer-centric approach means that we are constantly listening to feedback and updating our software to meet your evolving needs.</p>"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "df9931d",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "89fc74a",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "30",
+                            "bottom": "50",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "background_color": ""
+                        },
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "0ad83f3",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "be50338",
+                                    "settings": {
+                                        "ending_number": 3.5,
+                                        "suffix": "K",
+                                        "title": "Job done successfully",
+                                        "title_horizontal_alignment": "center",
+                                        "title_gap": {
+                                            "unit": "px",
+                                            "size": 12,
+                                            "sizes": []
+                                        },
+                                        "number_position": "center",
+                                        "__globals__": {
+                                            "number_color": "globals/colors?id=0208af7",
+                                            "typography_number_typography": "globals/typography?id=secondary",
+                                            "title_color": "globals/colors?id=accent",
+                                            "typography_title_typography": "globals/typography?id=text"
+                                        },
+                                        "title_horizontal_alignment_mobile": "center",
+                                        "number_position_mobile": "center"
+                                    },
+                                    "widgetType": "counter",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "4aeff5d",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "966cf03",
+                                    "settings": {
+                                        "ending_number": 20,
+                                        "suffix": "M",
+                                        "title": "3,280 avg rating",
+                                        "title_horizontal_alignment": "center",
+                                        "title_gap": {
+                                            "unit": "px",
+                                            "size": 12,
+                                            "sizes": []
+                                        },
+                                        "number_position": "center",
+                                        "__globals__": {
+                                            "number_color": "globals/colors?id=0208af7",
+                                            "typography_number_typography": "globals/typography?id=secondary",
+                                            "title_color": "globals/colors?id=accent",
+                                            "typography_title_typography": "globals/typography?id=text"
+                                        }
+                                    },
+                                    "widgetType": "counter",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "d28e151",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "e3d9177",
+                                    "settings": {
+                                        "ending_number": 50,
+                                        "suffix": "k+",
+                                        "title": "Contact profile",
+                                        "title_horizontal_alignment": "center",
+                                        "title_gap": {
+                                            "unit": "px",
+                                            "size": 12,
+                                            "sizes": []
+                                        },
+                                        "number_position": "center",
+                                        "__globals__": {
+                                            "number_color": "globals/colors?id=0208af7",
+                                            "typography_number_typography": "globals/typography?id=secondary",
+                                            "title_color": "globals/colors?id=accent",
+                                            "typography_title_typography": "globals/typography?id=text"
+                                        }
+                                    },
+                                    "widgetType": "counter",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "f1eee71",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0"
+                },
+                "flex_justify_content": "space-between",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "8b570b9",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "flex_justify_content": "center",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "2ad5432",
+                            "settings": {
+                                "title": "Revolutionize your business with Drift"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "a2e82e0",
+                            "settings": {
+                                "editor": "<p>We are committed to your success. Our customer-centric approach means that we are constantly listening to feedback and updating our software to meet your evolving needs. Our dedicated support team is always ready to assist you in making the most of ensuring you get the most value out of your investment.<br /><br />Behind is a team of experts with extensive experience in to solutions and a shared passion for innovation.</p>"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "92918c5",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 45
+                        },
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "2e7b80d",
+                            "settings": {
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-About-a450517fee3c16117f9ed76c007b53e0.webp",
+                                    "id": 259,
+                                    "alt": "Revolutionize-your-business-with-Drift",
+                                    "source": "library",
+                                    "size": ""
+                                },
+                                "image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "15bc5c3",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3eccbb8",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 65,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 80,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "60",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "40",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "f6341f5",
+                            "settings": {
+                                "title": "Trusted by 30k+ world class companies & design teams",
+                                "align": "center"
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "0123738",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_align_items": "flex-end",
+                        "flex_wrap_tablet": "wrap",
+                        "ma_el_slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "b707769",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48.5,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=402fffe"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "b0d79c2",
+                                    "settings": {
+                                        "testimonial_content": "\u201cI really like that I can have all in one place: I can send emails and text messages, I can have live chat, show pop-ups and push notifications on my website and create dynamic page content\u201d",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-About-bfc855dfa8a748cfdc967165197ed4c3.webp",
+                                            "id": 246,
+                                            "size": "",
+                                            "alt": "Luca Romano",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Luca Romano",
+                                        "testimonial_job": "Designer",
+                                        "testimonial_image_position": "top",
+                                        "__globals__": {
+                                            "content_typography_typography": "globals/typography?id=text",
+                                            "job_text_color": "globals/colors?id=accent"
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "04377a2",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48.5,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=16f5222"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "9708e76",
+                                    "settings": {
+                                        "testimonial_content": "\u201cI really like that I can have all in one place: I can send emails and text messages, I can have live chat, show pop-ups and push notifications on my website and create dynamic page content\u201d",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-About-db2d2f0cd2a0953a58918ad6b475f9c2.webp",
+                                            "id": 249,
+                                            "size": "",
+                                            "alt": "Camille Dubois",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Camille Dubois",
+                                        "testimonial_job": "Developer",
+                                        "testimonial_image_position": "top",
+                                        "__globals__": {
+                                            "content_typography_typography": "globals/typography?id=text",
+                                            "job_text_color": "globals/colors?id=accent"
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "3ce29c4",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48.5,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "background_background": "classic",
+                                "ma_el_slider_delay": "5000",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "background_color": "globals/colors?id=bed2abd"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "54acba9",
+                                    "settings": {
+                                        "testimonial_content": "\u201cI really like that I can have all in one place: I can send emails and text messages, I can have live chat, show pop-ups and push notifications on my website and create dynamic page content\u201d",
+                                        "testimonial_image": {
+                                            "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-33-About-750e7193d6f089a782fcb60d6b3a1ef5.webp",
+                                            "id": 251,
+                                            "size": "",
+                                            "alt": "Anna Kowalska",
+                                            "source": "library"
+                                        },
+                                        "testimonial_name": "Anna Kowalska",
+                                        "testimonial_job": "CTO",
+                                        "testimonial_image_position": "top",
+                                        "__globals__": {
+                                            "content_typography_typography": "globals/typography?id=text",
+                                            "job_text_color": "globals/colors?id=accent"
+                                        }
+                                    },
+                                    "widgetType": "testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

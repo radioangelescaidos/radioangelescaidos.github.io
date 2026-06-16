@@ -1,0 +1,1948 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta charset="UTF-8"></head><body><p>{
+    "version": "0.4",
+    "template_id": 1099,
+    "title": "Sweat Shirts",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2bb50b83",
+            "settings": {
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "94",
+                    "right": "0",
+                    "bottom": "78",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "Sunglasses",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "78",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "a162400",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "16",
+                            "isLinked": false,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Title"
+                    },
+                    "elements": [
+                        {
+                            "id": "76b5537c",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "custom",
+                                    "size": "max-content",
+                                    "sizes": []
+                                },
+                                "width_laptop": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_direction": "row",
+                                "flex_justify_content": "center",
+                                "flex_align_items": "center",
+                                "flex_gap": {
+                                    "column": "16",
+                                    "row": "16",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "flex_wrap": "nowrap",
+                                "ma_el_slider_delay": "5000",
+                                "_flex_align_self": "center",
+                                "_title": "Breadcrumb",
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [
+                                {
+                                    "id": "563f02e7",
+                                    "settings": {
+                                        "editor": "</p><p><a href="/wp-content/uploads/master_addons/templates_kits/kits/43/templates//sartivo/">Home</a></p>",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "400",
+                                        "typography_text_decoration": "none",
+                                        "typography_line_height": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.29999999999999999,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_mobile": {
+                                            "unit": "px",
+                                            "size": -0.10000000000000001,
+                                            "sizes": []
+                                        },
+                                        "link_color": "#5B6966",
+                                        "__globals__": {
+                                            "typography_typography": "globals/typography?id=a2fc3d4",
+                                            "text_color": "",
+                                            "link_color": "globals/colors?id=text"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "53bf36ac",
+                                    "settings": {
+                                        "selected_icon": {
+                                            "value": "jltma-material-icon jltma-material-icon-arrow_forward_ios",
+                                            "library": "material-icons"
+                                        },
+                                        "size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "custom_css": "selector .elementor-icon-wrapper {\n    height: 16px;\n}"
+                                    },
+                                    "widgetType": "icon",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "3b99f2ab",
+                                    "settings": {
+                                        "title": "Sweat Shirts",
+                                        "header_size": "h6",
+                                        "typography_typography": "custom",
+                                        "typography_font_family": "Inter",
+                                        "typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "typography_font_weight": "600",
+                                        "typography_text_decoration": "none",
+                                        "typography_line_height": {
+                                            "unit": "px",
+                                            "size": 18,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_tablet": {
+                                            "unit": "px",
+                                            "size": 28,
+                                            "sizes": []
+                                        },
+                                        "typography_line_height_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -0.29999999999999999,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_tablet": {
+                                            "unit": "px",
+                                            "size": -0.20000000000000001,
+                                            "sizes": []
+                                        },
+                                        "typography_letter_spacing_mobile": {
+                                            "unit": "px",
+                                            "size": -0.10000000000000001,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "typography_typography": ""
+                                        }
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "62b265c6",
+                            "settings": {
+                                "title": "Sweat Shirts",
+                                "align": "center",
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__dynamic__": []
+                            },
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "21dda1f0",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Product Lists",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "5e23363",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6feb4131",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "54d28803",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-34e23825c572682d11acc44c142aee68.jpg",
+                                                    "id": 961,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "602041b5",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6f2e230f",
+                                            "settings": {
+                                                "title": "Classic Comfort Sweatshirt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6a0fe2b",
+                                            "settings": {
+                                                "editor": "<p>Premium metal-frame eyewear with timeless style.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1664f42a",
+                                            "settings": {
+                                                "title": "$39.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "501d8bfe",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "16cc0be3",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "177e834e",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-df509227d7aaa4ed3feadde5afd0712f.jpg",
+                                                    "id": 962,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2b351204",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "width_laptop": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "min_height": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "background_background": "classic",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "10",
+                                                    "bottom": "2",
+                                                    "left": "10",
+                                                    "isLinked": false
+                                                },
+                                                "ma_el_position_type": "absolute",
+                                                "ma_el_position_top": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "ma_el_position_left": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "_title": "Tag",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=939175e"
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "b7f479f",
+                                                    "settings": {
+                                                        "editor": "<p>NEW</p>",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals/typography?id=7684131",
+                                                            "text_color": "globals/colors?id=primary"
+                                                        }
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "2140564c",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1b8ea23d",
+                                            "settings": {
+                                                "title": "Urban Fit Pullover",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "676007fe",
+                                            "settings": {
+                                                "editor": "<p>Premium casual sweatshirt for everyday comfort.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "10a41101",
+                                            "settings": {
+                                                "title": "$45.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "3666f756",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "45e14574",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5696ad2d",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-250487710b7f2f388974b744049ca6fa.jpg",
+                                                    "id": 963,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "605e2aff",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "471684c5",
+                                            "settings": {
+                                                "title": "CozyBlend Crewneck",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "496eae0e",
+                                            "settings": {
+                                                "editor": "<p>Soft cotton sweatshirt built for lasting use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "f66135e",
+                                            "settings": {
+                                                "title": "$55.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "55ba95dc",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "13e165c9",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4a1eb87c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-5d755509dc2bb5a91217146edde95669.jpg",
+                                                    "id": 964,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "5ce316c0",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "620e9c59",
+                                            "settings": {
+                                                "title": "Heritage Warm Sweatshirt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "654ffbe7",
+                                            "settings": {
+                                                "editor": "<p>Durable crewneck sweatshirt with timeless style.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3a3936bf",
+                                            "settings": {
+                                                "title": "$79.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "e2b1b86",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "436de77",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5858e9f",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-339e8ef93a586243f37d3935c5526a4f.jpg",
+                                                    "id": 965,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "3f15e611",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "224401c1",
+                                            "settings": {
+                                                "title": "Essential Layer Sweatshirt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "aacebf4",
+                                            "settings": {
+                                                "editor": "<p>Lightweight sweatshirt designed for all-day comfort.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6890d9d4",
+                                            "settings": {
+                                                "title": "$89.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "729f7659",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1fb04115",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3f3ab4c4",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-3c6abf95aa0ea7a433652ab400d30f94.jpg",
+                                                    "id": 966,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "6b9fabd9",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5645a0cc",
+                                            "settings": {
+                                                "title": "Alpine Fleece Pullover",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "72b12225",
+                                            "settings": {
+                                                "editor": "<p>Warm fleece sweatshirt made for daily wear.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "888a4dd",
+                                            "settings": {
+                                                "title": "$65.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "38af923c",
+            "settings": {
+                "flex_gap": {
+                    "column": "0",
+                    "row": "53",
+                    "isLinked": false,
+                    "unit": "px",
+                    "size": 0
+                },
+                "ma_el_slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_laptop": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Best Sellers"
+            },
+            "elements": [
+                {
+                    "id": "3c6eba7f",
+                    "settings": {
+                        "title": "Best Sellers",
+                        "header_size": "h3",
+                        "_animation": "fadeInUp",
+                        "animation_duration": "slow"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "37ab81c4",
+                    "settings": {
+                        "content_width": "full",
+                        "container_type": "grid",
+                        "grid_columns_grid": {
+                            "unit": "fr",
+                            "size": 4,
+                            "sizes": []
+                        },
+                        "grid_columns_grid_tablet": {
+                            "unit": "fr",
+                            "size": 2,
+                            "sizes": []
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Product Lists",
+                        "presetTitle": "Grid",
+                        "presetIcon": "eicon-container-grid"
+                    },
+                    "elements": [
+                        {
+                            "id": "6a752caf",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2ad79d08",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative",
+                                        "_title": "Image"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "63cd2bc",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-bca5cf6d1d99be59302f358b47284461.webp",
+                                                    "id": 697,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4931a081",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "width_laptop": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "background_background": "classic",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "12",
+                                                    "bottom": "8",
+                                                    "left": "12",
+                                                    "isLinked": false
+                                                },
+                                                "ma_el_position_type": "absolute",
+                                                "ma_el_position_top": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "_title": "Tag",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=accent"
+                                                },
+                                                "ma_el_position_right": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6b526c68",
+                                                    "settings": {
+                                                        "editor": "<p>Sale</p>",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals/typography?id=7684131",
+                                                            "text_color": "globals/colors?id=primary"
+                                                        }
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "191c6fd1",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "192377fd",
+                                            "settings": {
+                                                "title": "Corduroy Jackets",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6be20a50",
+                                            "settings": {
+                                                "editor": "<p>High-quality bowls for long term use</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3e4a80f1",
+                                            "settings": {
+                                                "title": "$39.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "7a2e63bb",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3e5090ed",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "315fb193",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-2a130654d4c8bc8c53d1079e462f6d78.jpg",
+                                                    "id": 939,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6e8f7b30",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "width": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "width_laptop": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "custom",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "custom",
+                                                    "size": "max-content",
+                                                    "sizes": []
+                                                },
+                                                "min_height": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "flex_justify_content": "center",
+                                                "flex_align_items": "center",
+                                                "background_background": "classic",
+                                                "ma_el_slider_delay": "5000",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "10",
+                                                    "bottom": "2",
+                                                    "left": "10",
+                                                    "isLinked": false
+                                                },
+                                                "ma_el_position_type": "absolute",
+                                                "ma_el_position_top": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "ma_el_position_left": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "_title": "Tag",
+                                                "__globals__": {
+                                                    "background_color": "globals/colors?id=939175e"
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "22d4d9e3",
+                                                    "settings": {
+                                                        "editor": "<p>NEW</p>",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals/typography?id=7684131",
+                                                            "text_color": "globals/colors?id=primary"
+                                                        }
+                                                    },
+                                                    "widgetType": "text-editor",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "elType": "container",
+                                            "isInner": true
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "19649c8c",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "39e5cc7b",
+                                            "settings": {
+                                                "title": "Classic Black Shades",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7ea08c86",
+                                            "settings": {
+                                                "editor": "<p>High-quality sunglasses for long-term daily use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4d30655d",
+                                            "settings": {
+                                                "title": "$49.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "5c69c9fd",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "26a7f33b",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "ma_el_position_type": "relative"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "f05ce6c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-5b9e7fb9bdc86d67d04e51be9b457e9d.png",
+                                                    "id": 866,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "3f156ff9",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "236dbea0",
+                                            "settings": {
+                                                "title": "Fleece Hoodie Jacket",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5bc70034",
+                                            "settings": {
+                                                "editor": "<p>High-quality hoodie for long-term daily use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "38cf9a87",
+                                            "settings": {
+                                                "title": "$45.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "3968fbbc",
+                            "settings": {
+                                "content_width": "full",
+                                "ma_el_slider_delay": "5000",
+                                "jltma_section_element_link": {
+                                    "url": "/sartivo/product-details/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "_title": "Product"
+                            },
+                            "elements": [
+                                {
+                                    "id": "105d8e08",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "overflow": "hidden",
+                                        "ma_el_slider_delay": "5000",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "_title": "Image",
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "72369e1",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-43-Sweat-Shirts-8cd8d64d7efae2776dfea77c9cfbcc7e.jpg",
+                                                    "id": 1015,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "none",
+                                                "animation_duration": "slow",
+                                                "_transform_scale_popover_hover": "transform",
+                                                "_transform_scale_effect_hover": {
+                                                    "unit": "px",
+                                                    "size": 1.1000000000000001,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "4a7a0c8d",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "8",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000",
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "slow",
+                                        "_title": "Content"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6426c2b4",
+                                            "settings": {
+                                                "title": "Premium Leather Belt",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2fadd57a",
+                                            "settings": {
+                                                "editor": "<p>High-quality belt for long-term durable use.</p>",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "102c03f3",
+                                            "settings": {
+                                                "title": "$79.00",
+                                                "header_size": "div",
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow",
+                                                "__globals__": {
+                                                    "typography_typography": "globals/typography?id=f577ca3",
+                                                    "title_color": "globals/colors?id=primary"
+                                                }
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}</body></html>

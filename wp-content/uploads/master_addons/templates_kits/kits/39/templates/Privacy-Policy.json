@@ -1,0 +1,1385 @@
+{
+    "version": "0.4",
+    "template_id": 431,
+    "title": "Privacy Policy",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "1e8e878",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2780faf",
+                    "settings": {
+                        "jltma_gradient_heading_title": "Privacy Policies",
+                        "title_html_tag": "h1",
+                        "jltma_gradient_heading_color": "#6B6B6B",
+                        "jltma_gradient_heading_color_stop": {
+                            "unit": "%",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_second_color": "#FFFFFF",
+                        "jltma_gradient_heading_b_stop": {
+                            "unit": "%",
+                            "size": 70,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_type": "radial",
+                        "jltma_gradient_heading_angle": {
+                            "unit": "deg",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_title_typo_typography": "custom",
+                        "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                        "jltma_gradient_heading_title_typo_font_size": {
+                            "unit": "px",
+                            "size": 72,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_title_typo_font_weight": "800",
+                        "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                        "jltma_gradient_heading_title_typo_line_height": {
+                            "unit": "em",
+                            "size": 1.15,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_title_typo_letter_spacing": {
+                            "unit": "em",
+                            "size": -0.03,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_hover_color": "",
+                        "jltma_gradient_heading_hover_color_stop": {
+                            "unit": "%",
+                            "size": 35,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_hover_second_color": "",
+                        "jltma_gradient_heading_hover_angle": {
+                            "unit": "deg",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 800,
+                            "sizes": []
+                        },
+                        "jltma_gradient_heading_title_typo_font_size_mobile": {
+                            "unit": "px",
+                            "size": 35,
+                            "sizes": []
+                        },
+                        "_animation": "slideInUp"
+                    },
+                    "widgetType": "ma-gradient-headline",
+                    "elType": "widget"
+                },
+                {
+                    "id": "8651ef0",
+                    "settings": {
+                        "editor": "<p>This title plays on the familiar phrase associated with filmmaking and implies that your blog will reveal valuable insights<\/p>",
+                        "align": "center",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Nunito Sans",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": 1.7,
+                            "sizes": []
+                        },
+                        "text_color": "#CECECE",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 800,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_animation": "slideInUp"
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "afdbaed",
+            "settings": {
+                "flex_direction": "column",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "10",
+                    "bottom": "40",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "e588d78",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "e103c22",
+                            "settings": {
+                                "editor": "<p>One of our top goals at Gratask, which can be accessed at gratask.com, is our visitors' privacy. This Privacy Policy document outlines the sorts of information that Website Name collects and records, as well as how we utilize it.<\/p><p> <\/p><p>If you have further concerns or require more information about our Privacy Policy, please contact us via email at email@vaylo.com.<\/p><p> <\/p><p>This privacy policy solely applies to our online operations and is applicable to visitors to our website in terms of the information they disclose and\/or collect on Website Name. This policy does not apply to information acquired offline or through methods other than this website.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "506e536",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3e8eba1",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Information we collect",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "78bbdce",
+                            "settings": {
+                                "editor": "<p>When we ask you to supply personal information, we will explain why you are requested to do so.<\/p><p> <\/p><p>If you contact us directly, we may collect additional information about you, such as your name, email address, phone number, the contents of any messages or attachments you give us, and any other information you choose to us.<\/p><p> <\/p><p>When you create an account, we may request your contact information, such as your name, company name, address, email address, and phone number.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "7c3ea19",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4f53277",
+                            "settings": {
+                                "jltma_gradient_heading_title": "How we use your information",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3ab11fe",
+                            "settings": {
+                                "editor": "<p>We utilize the information we gather in a number of ways, including:<\/p><ul role=\"list\"><li>Provide, run, and maintain our websites.<\/li><li>Improve, customize, and grow our website.<\/li><li>Understand and evaluate how you use our websites.<\/li><li>Create new goods, services, features, and functionalities.<\/li><li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information about the website, and for marketing and promotional reasons.<\/li><li>Send you emails.<\/li><li>Detect and prevent fraud.<\/li><\/ul>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "5781d31",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7e149cb",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Log Files",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "aa95e10",
+                            "settings": {
+                                "editor": "<p>Website Name has a standard technique for using log files. These files keep track of who visits which websites. All hosting firms do this, and it is part of the hosting services' analytics. Log files gather information such as IP addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring\/exit sites, and potentially the number of clicks. These do not include any personally identifying information. The information is used to analyze trends, manage the site, track user movement on the website, and collect demographic statistics.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "9c40db1",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1790684",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Cookies and Web Beacons",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "e37d5ec",
+                            "settings": {
+                                "editor": "<p>Website Name, like all other websites, makes use of 'cookies'. These cookies are used to keep information about visitors, such as their preferences and the pages on the website that they accessed or viewed. The information is used to improve the user experience by tailoring our web page content to visitors' browser types and\/or other information.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "043ac9a",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "f5c0326",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Advertising Partners Privacy Policies",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "03d7262",
+                            "settings": {
+                                "editor": "<p>This list contains the Privacy Policies for each of Website Name's advertising partners.<\/p><p> <\/p><p>Third-party ad servers or ad networks utilize technology such as cookies, JavaScript, or Web Beacons in their adverts and links on Website Name, which are delivered straight to users' browsers. When this occurs, they will automatically acquire your IP address. These technologies are used to assess the efficacy of advertising campaigns and\/or to tailor the advertising material that appears on websites you visit.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "0bd7d7f",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "de85880",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Log Files",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "dbb983e",
+                            "settings": {
+                                "editor": "<p>Website Name has a standard technique for using log files. These files keep track of who visits which websites. All hosting firms do this, and it is part of the hosting services' analytics. Log files gather information such as IP addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring\/exit sites, and potentially the number of clicks. These do not include any personally identifying information. The information is used to analyze trends, manage the site, track user movement on the website, and collect demographic statistics.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "0245141",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "c3ffc0c",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Cookies and Web Beacons",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f7c2ae6",
+                            "settings": {
+                                "editor": "<p>Website Name, like all other websites, makes use of 'cookies'. These cookies are used to keep information about visitors, such as their preferences and the pages on the website that they accessed or viewed. The information is used to improve the user experience by tailoring our web page content to visitors' browser types and\/or other information.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "f747a65",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "ma_el_slider_delay": "5000",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "border_color": "#1A2A0A",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "a456509",
+                            "settings": {
+                                "jltma_gradient_heading_title": "Advertising Partners Privacy Policies",
+                                "title_html_tag": "h4",
+                                "jltma_gradient_heading_color": "#AAE75F",
+                                "jltma_gradient_heading_color_stop": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_second_color": "#C5FF7D",
+                                "jltma_gradient_heading_b_stop": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_type": "radial",
+                                "jltma_gradient_heading_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_typography": "custom",
+                                "jltma_gradient_heading_title_typo_font_family": "Work Sans",
+                                "jltma_gradient_heading_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_font_weight": "800",
+                                "jltma_gradient_heading_title_typo_text_transform": "uppercase",
+                                "jltma_gradient_heading_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.15,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing": {
+                                    "unit": "em",
+                                    "size": -0.03,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_tablet": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_title_typo_letter_spacing_mobile": {
+                                    "unit": "custom",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_color": "",
+                                "jltma_gradient_heading_hover_color_stop": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_hover_second_color": "",
+                                "jltma_gradient_heading_hover_angle": {
+                                    "unit": "deg",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 360,
+                                    "sizes": []
+                                },
+                                "jltma_gradient_heading_alignment": "left",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "ma-gradient-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "cb0aaa3",
+                            "settings": {
+                                "editor": "<p>This list contains the Privacy Policies for each of Website Name's advertising partners.<\/p><p> <\/p><p>Third-party ad servers or ad networks utilize technology such as cookies, JavaScript, or Web Beacons in their adverts and links on Website Name, which are delivered straight to users' browsers. When this occurs, they will automatically acquire your IP address. These technologies are used to assess the efficacy of advertising campaigns and\/or to tailor the advertising material that appears on websites you visit.<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "text_color": "#CAC6D6",
+                                "_animation": "slideInUp"
+                            },
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

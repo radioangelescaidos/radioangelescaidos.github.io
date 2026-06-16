@@ -1,0 +1,559 @@
+{
+    "version": "0.4",
+    "template_id": 1085,
+    "title": "Blog Details",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2775a3f8",
+            "settings": {
+                "content_width": "full",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Blog Details"
+            },
+            "elements": [
+                {
+                    "id": "5cea61ae",
+                    "settings": {
+                        "flex_gap": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 0
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Wrap"
+                    },
+                    "elements": [
+                        {
+                            "id": "6f264634",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 1065,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "20",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "102",
+                                    "right": "0",
+                                    "bottom": "93",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "center",
+                                "_title": "Title",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "ca52638",
+                                    "settings": {
+                                        "editor": "<div class=\"elementor-element elementor-element-40587c4 jltma-glass-effect-no elementor-widget elementor-widget-text-editor animated fadeInUp\" data-id=\"40587c4\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeInUp&quot;}\" data-widget_type=\"text-editor.default\">May 15, 2026</div>",
+                                        "align": "center",
+                                        "_animation": "fadeInUp",
+                                        "__dynamic__": [],
+                                        "__globals__": {
+                                            "link_color": "",
+                                            "text_color": "globals/colors?id=text",
+                                            "typography_typography": "globals/typography?id=20a12bd"
+                                        }
+                                    },
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "38d7cbdc",
+                                    "settings": {
+                                        "title": "The pros and cons of tankless water heaters: is it right for you?",
+                                        "align": "center",
+                                        "_animation": "fadeInUp",
+                                        "__dynamic__": []
+                                    },
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "7040bbed",
+                            "settings": {
+                                "align": "center",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "__dynamic__": [],
+                                "image": {
+                                    "url": "http://radioangelescaidos3.local/wp-content/uploads/master_addons/templates_kits/images/kit-40-Blog-Details-40cf511467b5abe0774e9809a2b04b88.webp",
+                                    "id": 898,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "64da750",
+                            "settings": {
+                                "flex_direction": "column",
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 914,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "38",
+                                    "isLinked": false,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "ma_el_slider_delay": "5000",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "80",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_flex_align_self": "center",
+                                "_title": "Content",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3c0313b7",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "20",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "28cb2e28",
+                                            "settings": {
+                                                "title": "What is Plumby?",
+                                                "header_size": "h4",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "46f454a7",
+                                            "settings": {
+                                                "editor": "<p>At Plumby, we understand how frustrating it can be to deal with a leaky faucet or pipe. That's why we offer reliable and efficient faucet and leak repair services to help you save money on your water bills and prevent further damage to your property.</p>\n<p>\u00a0</p>\n<p>Our experienced plumbers use state-of-the-art equipment and techniques to diagnose and repair any type of faucet or leak issue. We work quickly and efficiently to minimize disruption to your daily routine, and we always leave your property clean and tidy.</p>",
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "3dc8d057",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "20",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "61084344",
+                                            "settings": {
+                                                "title": "What is included?",
+                                                "header_size": "h4",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "31ce3b05",
+                                            "settings": {
+                                                "editor": "<p>Whether you have a dripping faucet, a broken pipe, or a major water leak, we have the skills and expertise to fix the problem promptly. We use high-quality parts and materials to ensure that our repairs are long-lasting and effective.</p>\n<ul role=\"list\">\n<li><strong>Experienced plumbers:</strong> Our team of experienced and certified plumbers has the expertise to diagnose and repair any type of faucet or leak issue.</li>\n<li><strong>State-of-the-art equipment</strong>: We use the latest equipment and techniques to ensure that our repairs are efficient and effective.</li>\n<li><strong>Prompt service:</strong> We understand that faucet and leak issues can cause stress and inconvenience. That's why we offer prompt and reliable services to minimize disruption to your daily routine.</li>\n</ul>\n<div>\u00a0</div>\n<p>Don't let a faucet or leak issue ruin your day. Contact Plumby for professional faucet and leak repair services that you can count on. Call us today to schedule an appointment or request emergency plumbing services.</p>",
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 35,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                },
+                                {
+                                    "id": "4bdc8a72",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "0",
+                                            "row": "20",
+                                            "isLinked": false,
+                                            "unit": "px",
+                                            "size": 0
+                                        },
+                                        "ma_el_slider_delay": "5000"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7686d09a",
+                                            "settings": {
+                                                "title": "Why it is important?",
+                                                "header_size": "h4",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4d27d000",
+                                            "settings": {
+                                                "editor": "<p>At Plumby, we understand how frustrating it can be to deal with a leaky faucet or pipe. That's why we offer reliable and efficient faucet and leak repair services to help you save money on your water bills and prevent further damage to your property.</p>\n<p>\u00a0</p>\n<p>Our experienced plumbers use state-of-the-art equipment and techniques to diagnose and repair any type of faucet or leak issue. We work quickly and efficiently to minimize disruption to your daily routine, and we always leave your property clean and tidy.</p>",
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "elType": "container",
+                                    "isInner": true
+                                }
+                            ],
+                            "elType": "container",
+                            "isInner": true
+                        },
+                        {
+                            "id": "11479a8d",
+                            "settings": {
+                                "text": "Divider",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "107",
+                                    "right": "0",
+                                    "bottom": "85",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "color": "globals/colors?id=0a27206"
+                                }
+                            },
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        },
+        {
+            "id": "67899a0e",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "126",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Blog",
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "5f9fb400",
+                    "settings": {
+                        "flex_gap": {
+                            "column": "",
+                            "row": "",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": null
+                        },
+                        "grid_rows_grid": {
+                            "unit": "fr",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "grid_gaps": {
+                            "column": "64",
+                            "row": "64",
+                            "isLinked": true,
+                            "unit": "px"
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "_title": "Wrap",
+                        "presetTitle": "Container",
+                        "presetIcon": "eicon-container"
+                    },
+                    "elements": [
+                        {
+                            "id": "6c1fed19",
+                            "settings": {
+                                "ma_el_blog_post_meta_separator": "//",
+                                "ma_el_blog_next_text": "Next Post",
+                                "ma_el_blog_prev_text": "Previous Post",
+                                "ma_el_post_grid_excerpt_text": "Read More",
+                                "jltma_post_grid_tag_separetor": ", ",
+                                "ma_el_blog_cat_tabs_all_text": "All",
+                                "ma_el_blog_cols": "33.33%",
+                                "ma_el_post_grid_posts_columns_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "ma_el_post_grid_posts_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_posts_per_page": 3,
+                                "ma_el_blog_post_meta_icon": "",
+                                "ma_el_post_grid_ignore_sticky": "",
+                                "ma_el_blog_show_content": "",
+                                "ma_el_blog_excerpt_length": 25,
+                                "ma_el_post_grid_post_author_meta": "",
+                                "ma_el_post_grid_comments_meta": "",
+                                "ma_el_post_grid_show_read_more": "",
+                                "ma_el_blog_thumb_border_radius": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_title_color": "#171A1F",
+                                "ma_el_blog_title_typo_typography": "custom",
+                                "ma_el_blog_title_typo_font_family": "Inter",
+                                "ma_el_blog_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_title_typo_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_title_typo_font_weight": "600",
+                                "ma_el_blog_title_typo_text_decoration": "none",
+                                "ma_el_blog_title_typo_line_height": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_title_typo_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_title_typo_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ma_el_blog_title_typo_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.20000000000000001,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_title_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ma_el_blog_title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ma_el_blog_meta_color": "#495460",
+                                "ma_el_blog_meta_typo_typography": "custom",
+                                "ma_el_blog_meta_typo_font_family": "Inter",
+                                "ma_el_blog_meta_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_meta_typo_font_weight": "400",
+                                "ma_el_blog_meta_typo_text_transform": "none",
+                                "ma_el_blog_meta_typo_font_style": "normal",
+                                "ma_el_blog_meta_typo_text_decoration": "none",
+                                "ma_el_blog_meta_typo_line_height": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "ma_el_blog_meta_typo_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ma_el_blog_meta_typo_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.20000000000000001,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ma_el_blog_title_color": "globals/colors?id=primary",
+                                    "ma_el_blog_title_typo_typography": "",
+                                    "ma_el_blog_meta_color": "globals/colors?id=text",
+                                    "ma_el_blog_meta_typo_typography": "",
+                                    "ma_el_blog_title_hover_color": "globals/colors?id=accent",
+                                    "ma_el_blog_post_content_color": "globals/colors?id=text",
+                                    "ma_el_blog_post_content_typo_typography": "globals/typography?id=text"
+                                },
+                                "ma_el_post_grid_thumbnail_fit": "fill",
+                                "ma_el_blog_thumb_height": "yes",
+                                "ma_el_post_grid_thumb_min_height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ma_el_post_grid_thumb_min_height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ma_el_post_grid_thumb_min_height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ma_el_post_grid_thumb_max_height": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ma_el_post_grid_thumb_max_height_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ma_el_post_grid_thumb_max_height_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ma_el_post_grid_excerpt_type": "three_dots",
+                                "ma_el_post_grid_tags_meta": "",
+                                "_animation": "fadeInUp",
+                                "ma_el_blog_order_by": "rand",
+                                "ma_el_blog_cols_tablet": "50%"
+                            },
+                            "widgetType": "ma-blog-post",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

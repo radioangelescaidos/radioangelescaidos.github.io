@@ -1,0 +1,857 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Care Hub",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "health",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 0,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "/wp-content/uploads/master_addons/templates_kits/kits/19/screenshots/kit-default-kit.webp",
+    "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.webp",
+    "preview_url": "https://el.master-addons.com/carehub",
+    "created_date": "2025-11-08 08:02:21",
+    "last_updated": "2026-05-06 11:48:00",
+    "template_count": 17,
+    "export_date": "2026-05-06 11:51:18",
+    "export_version": "1.1.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Care Hub - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/carehub",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 606,
+            "name": "404",
+            "screenshot": null,
+            "source": "templates/404.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/404/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 738,
+            "name": "Header",
+            "screenshot": null,
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 726,
+            "name": "Testimonials",
+            "screenshot": null,
+            "source": "templates/Testimonials.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/testimonials/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 718,
+            "name": "Terms and condition",
+            "screenshot": null,
+            "source": "templates/Terms-and-condition.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/terms-and-condition/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 710,
+            "name": "Sign up",
+            "screenshot": null,
+            "source": "templates/Sign-up.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/sign-up/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 702,
+            "name": "Sign in",
+            "screenshot": null,
+            "source": "templates/Sign-in.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/sign-in/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 692,
+            "name": "Privacy Policy",
+            "screenshot": null,
+            "source": "templates/Privacy-Policy.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/privacy-policy/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 684,
+            "name": "Pricing",
+            "screenshot": null,
+            "source": "templates/Pricing.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/pricing/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 673,
+            "name": "Home",
+            "screenshot": null,
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 665,
+            "name": "Features",
+            "screenshot": null,
+            "source": "templates/Features.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/features/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 657,
+            "name": "Contact",
+            "screenshot": null,
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 649,
+            "name": "Changelog",
+            "screenshot": null,
+            "source": "templates/Changelog.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/changelog/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 641,
+            "name": "Blog Details",
+            "screenshot": null,
+            "source": "templates/Blog-Details.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/blog-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 633,
+            "name": "Blog",
+            "screenshot": null,
+            "source": "templates/Blog.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/blog/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 624,
+            "name": "Appointment",
+            "screenshot": null,
+            "source": "templates/Appointment.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/appointment/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 615,
+            "name": "About",
+            "screenshot": null,
+            "source": "templates/About.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/about/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 748,
+            "name": "Footer",
+            "screenshot": "/wp-content/uploads/master_addons/templates_kits/kits/19/screenshots/Footer.webp",
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/carehub/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.5",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Elementor",
+            "version": "4.0.6",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "CareHub.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-CareHub.jpg",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                347,
+                108
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "DNA.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-DNA.webp",
+            "templates": [
+                {
+                    "source": "templates/Testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                },
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates/Appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1284,
+                480
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-1000000805.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Frame-1000000805.png",
+            "templates": [
+                {
+                    "source": "templates/Sign-up.json",
+                    "name": "Sign up"
+                },
+                {
+                    "source": "templates/Sign-in.json",
+                    "name": "Sign in"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                34,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-handsome-physician-medical-robe-with-stethoscope-1.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-young-handsome-physician-medical-robe-with-stethoscope-1.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                2500,
+                1577
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-5.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image-5.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                465
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Nuron.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Nuron.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                465
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-4.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image-4.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                465
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-34612.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Group-34612.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                371,
+                376
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-1000001151.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Frame-1000001151.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                645,
+                466
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-9.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Image-9.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                645,
+                466
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Assigned-Tasks.jpg",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-Assigned-Tasks.jpg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                443,
+                463
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-66.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-image-66.webp",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1280,
+                734
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-bg.png",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1280,
+                276
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "doctor-examining-his-young-patient-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-doctor-examining-his-young-patient-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                580,
+                545
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "profile-view-young-male-nutritionist-talking-patient-his-office-health-spa-clinic.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-profile-view-young-male-nutritionist-talking-patient-his-office-health-spa-clinic.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1000,
+                608
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2148285749-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-2148285749-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2147822734-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-2147822734-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "doctor-with-female-patient-reading-reports-1.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-doctor-with-female-patient-reading-reports-1.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "patient-talking-woman-doctor.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-patient-talking-woman-doctor.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "doctor-senior-woman-looking-each-other.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-doctor-senior-woman-looking-each-other.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2148351990.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-2148351990.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog-Details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                410,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "doctor-showing-x-ray-elderly-patient.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-doctor-showing-x-ray-elderly-patient.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                580,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2148285669.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-2148285669.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                580,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "healthy-woman-doctor-s-office.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-healthy-woman-doctor-s-office.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                580,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2148285749.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-2148285749.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                580,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2147822734.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-2147822734.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                580,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "doctor-with-female-patient-reading-reports.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-doctor-with-female-patient-reading-reports.webp",
+            "templates": [
+                {
+                    "source": "templates/Blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                580,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "doctors-standing-together-hospital.webp",
+            "thumbnail_url": "/wp-content/uploads/master_addons/templates_kits/thumbnails/image-doctors-standing-together-hospital.webp",
+            "templates": [
+                {
+                    "source": "templates/About.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1280,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

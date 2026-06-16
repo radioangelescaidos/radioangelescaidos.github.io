@@ -1,0 +1,176 @@
+{
+    "version": "0.4",
+    "template_id": 557,
+    "title": "Header",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "f17f26e",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0"
+                },
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "flex_justify_content_mobile": "space-between"
+            },
+            "elements": [
+                {
+                    "id": "a9115d1",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 20
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": 35,
+                            "sizes": []
+                        },
+                        "flex_justify_content": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "0d31668",
+                            "settings": {
+                                "image": {
+                                    "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-33-Header-3c252627f11332a00f3ed7250121bd02.webp",
+                                    "id": 104,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align_tablet": "center",
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "/drift",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "c1a4a93",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 60
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "flex_justify_content": "center",
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": 20,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7c56596",
+                            "settings": {
+                                "jltma_nav_menu": 3,
+                                "main_menu_item_space_between": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "main_menu_item_space_between_tablet": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "main_menu_item_color": "globals/colors?id=primary",
+                                    "main_menu_typography_typography": "globals/typography?id=d9e3d9d",
+                                    "main_menu_item_color_hover": "globals/colors?id=accent"
+                                },
+                                "menu_alignment_mobile": "center"
+                            },
+                            "widgetType": "ma-navmenu",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                },
+                {
+                    "id": "e7dad5a",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 20
+                        },
+                        "ma_el_slider_delay": "5000",
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "hide_mobile": "hidden-mobile"
+                    },
+                    "elements": [
+                        {
+                            "id": "273e5f6",
+                            "settings": {
+                                "text": "Get Started Now",
+                                "link": {
+                                    "url": "https://el.master-addons.com/drift/pricing/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "elType": "container",
+                    "isInner": true
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}

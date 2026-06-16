@@ -1,0 +1,180 @@
+{
+    "version": "0.4",
+    "template_id": 760,
+    "title": "404",
+    "type": "page",
+    "metadata": {
+        "template_type": "page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "574b764c",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items": "center",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "ma_el_slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "65",
+                    "right": "0",
+                    "bottom": "144",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "65",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "2b4f1e3b",
+                    "settings": {
+                        "image": {
+                            "url": "/wp-content/uploads/master_addons/templates_kits/images/kit-34-404-648bc5672484ca6c0b42551fc611acab.png",
+                            "id": 733,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        }
+                    },
+                    "widgetType": "image",
+                    "elType": "widget"
+                },
+                {
+                    "id": "3280a56b",
+                    "settings": {
+                        "title": "404",
+                        "header_size": "div",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 210,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 150,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "_margin": {
+                            "unit": "px",
+                            "top": "-122",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_margin_mobile": {
+                            "unit": "px",
+                            "top": "-60",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "30de9f0b",
+                    "settings": {
+                        "title": "Page not found",
+                        "header_size": "h1"
+                    },
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "6aab31e5",
+                    "settings": {
+                        "editor": "<p>The page you are looking for is not available or doesn\u2019t belong to this website!</p>",
+                        "align": "center",
+                        "typography_font_family": "Archivo",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 15,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": 1.5,
+                            "sizes": []
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "12",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 440,
+                            "sizes": []
+                        },
+                        "_flex_align_self": "center",
+                        "__globals__": {
+                            "typography_typography": "",
+                            "text_color": "globals/colors?id=fb3bdf9"
+                        }
+                    },
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "72213932",
+                    "settings": {
+                        "text": "Go Back to Homepage",
+                        "link": {
+                            "url": "/sabrion/",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "_margin": {
+                            "unit": "px",
+                            "top": "38",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "widgetType": "button",
+                    "elType": "widget"
+                }
+            ],
+            "elType": "container",
+            "isInner": false
+        }
+    ]
+}
